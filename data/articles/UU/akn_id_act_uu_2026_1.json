@@ -1,0 +1,826 @@
+{
+ "work": {
+  "id": 29,
+  "frbr_uri": "/akn/id/act/uu/2026/1",
+  "title": "Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana",
+  "number": "1",
+  "year": 2026,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UU",
+  "type_name": "Undang-Undang",
+  "source_url": "https://peraturan.bpk.go.id/Details/337869/uu-no-1-tahun-2026",
+  "source_pdf_url": "https://peraturan.go.id/files/uu-no-1-tahun-2026.pdf",
+  "provenance": {
+   "source_url": "https://peraturan.bpk.go.id/Details/337869/uu-no-1-tahun-2026",
+   "source_pdf_url": "https://peraturan.go.id/files/uu-no-1-tahun-2026.pdf",
+   "source_family": "peraturan.bpk.go.id",
+   "content_verified": true
+  },
+  "issuing_body": {
+   "id": 128,
+   "slug": "peraturan-dpr",
+   "name": "DPR RI",
+   "abbreviation": "DPR"
+  }
+ },
+ "articles": [
+  {
+   "id": 8847926,
+   "type": "bab",
+   "number": "I",
+   "heading": "PEI.IYESUAIAN PIDANA DALAM UNDANG-UNDANG DI LUAR UNDANG-UNDANG NOMOR I TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA",
+   "content": null,
+   "parent_id": null,
+   "sort_order": 2
+  },
+  {
+   "id": 13214519,
+   "type": "pasal",
+   "number": "I",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847926,
+   "sort_order": 3
+  },
+  {
+   "id": 13214522,
+   "type": "pasal",
+   "number": "II",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847926,
+   "sort_order": 6
+  },
+  {
+   "id": 13214534,
+   "type": "pasal",
+   "number": "III",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847926,
+   "sort_order": 18
+  },
+  {
+   "id": 8847927,
+   "type": "bab",
+   "number": "II",
+   "heading": "PENYESUAIAN PIDANA DALAM PERATURAN DAERAH",
+   "content": "",
+   "parent_id": null,
+   "sort_order": 20
+  },
+  {
+   "id": 13214536,
+   "type": "pasal",
+   "number": "IV",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847927,
+   "sort_order": 21
+  },
+  {
+   "id": 13214541,
+   "type": "pasal",
+   "number": "V",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847927,
+   "sort_order": 26
+  },
+  {
+   "id": 13214544,
+   "type": "pasal",
+   "number": "VI",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847927,
+   "sort_order": 29
+  },
+  {
+   "id": 8847928,
+   "type": "bab",
+   "number": "III",
+   "heading": "PERUBAHAN DAI,AM UNDANG-UNDANG NOMOR l TAHUN 2023 TENTANG KITAB UNDANG-UNDANG HUKUM PIDANA",
+   "content": null,
+   "parent_id": null,
+   "sort_order": 34
+  },
+  {
+   "id": 24460318,
+   "type": "pasal",
+   "number": "VII",
+   "heading": null,
+   "content": null,
+   "parent_id": 8847928,
+   "sort_order": 35
+  },
+  {
+   "id": 24460321,
+   "type": "pasal",
+   "number": "3",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460320,
+   "sort_order": 38
+  },
+  {
+   "id": 24460330,
+   "type": "pasal",
+   "number": "8",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460329,
+   "sort_order": 47
+  },
+  {
+   "id": 24460337,
+   "type": "pasal",
+   "number": "37",
+   "heading": null,
+   "content": "Dalam hal ditentukan oleh Undang-Undang, Setiap",
+   "parent_id": 24460336,
+   "sort_order": 54
+  },
+  {
+   "id": 24460340,
+   "type": "pasal",
+   "number": "49",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460339,
+   "sort_order": 57
+  },
+  {
+   "id": 24460344,
+   "type": "pasal",
+   "number": "66",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460343,
+   "sort_order": 61
+  },
+  {
+   "id": 24460352,
+   "type": "pasal",
+   "number": "69",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460351,
+   "sort_order": 69
+  },
+  {
+   "id": 24460356,
+   "type": "pasal",
+   "number": "76",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460355,
+   "sort_order": 73
+  },
+  {
+   "id": 24460366,
+   "type": "pasal",
+   "number": "77",
+   "heading": null,
+   "content": "pengawasan melanggar syarat umum, pidana 1O. Ketentuan . .",
+   "parent_id": 24460365,
+   "sort_order": 83
+  },
+  {
+   "id": 24460368,
+   "type": "pasal",
+   "number": "82",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460367,
+   "sort_order": 85
+  },
+  {
+   "id": 24460374,
+   "type": "pasal",
+   "number": "83",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460373,
+   "sort_order": 91
+  },
+  {
+   "id": 24460377,
+   "type": "pasal",
+   "number": "84",
+   "heading": null,
+   "content": "pidana penjara paling lama 6 (enam) Bulan dan pidana denda yang diperberat paling banyak 1/3 (satu per tiga).",
+   "parent_id": 24460376,
+   "sort_order": 94
+  },
+  {
+   "id": 24460379,
+   "type": "pasal",
+   "number": "90",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460378,
+   "sort_order": 96
+  },
+  {
+   "id": 24460384,
+   "type": "pasal",
+   "number": "9l",
+   "heading": null,
+   "content": "dan/atau tagihan sebagaimana dimaksud dalam Pasal 66 ayat (1) huruf b yang dapat dirampas meliputi Barang tertentu dan/atau tagihan milik terpidana:\natau mempersiapkan Tindak Pidana;\nmewujudkan Tindak Pidana;\nc. yang berhubungan dengan terwujudnya Tindak Pidana;\ndari Pidana;\nekonomi yang diperoleh, baik secara langsung maupun tidak langsung dari Tindak Pidana;\ndan/ atau penyidikan, penuntutan, dan pemeriksaan di sidang",
+   "parent_id": 24460383,
+   "sort_order": 101
+  },
+  {
+   "id": 24460386,
+   "type": "pasal",
+   "number": "95",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460385,
+   "sort_order": 103
+  },
+  {
+   "id": 24460392,
+   "type": "pasal",
+   "number": "99",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460391,
+   "sort_order": 109
+  },
+  {
+   "id": 24460395,
+   "type": "pasal",
+   "number": "100",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460394,
+   "sort_order": 112
+  },
+  {
+   "id": 24460401,
+   "type": "pasal",
+   "number": "101",
+   "heading": null,
+   "content": "mati tidak dilaksanakan selama 10 (sepuluh) tahun sejak grasi ditolak bukan karena terpidana melarikan diri,",
+   "parent_id": 24460400,
+   "sort_order": 118
+  },
+  {
+   "id": 24460403,
+   "type": "pasal",
+   "number": "103",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460402,
+   "sort_order": 120
+  },
+  {
+   "id": 24460412,
+   "type": "pasal",
+   "number": "120",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460411,
+   "sort_order": 129
+  },
+  {
+   "id": 24460422,
+   "type": "pasal",
+   "number": "121",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460421,
+   "sort_order": 139
+  },
+  {
+   "id": 24460427,
+   "type": "pasal",
+   "number": "132",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460426,
+   "sort_order": 144
+  },
+  {
+   "id": 24460430,
+   "type": "pasal",
+   "number": "136",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460429,
+   "sort_order": 147
+  },
+  {
+   "id": 24460435,
+   "type": "pasal",
+   "number": "196",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460434,
+   "sort_order": 152
+  },
+  {
+   "id": 24460440,
+   "type": "pasal",
+   "number": "243",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460439,
+   "sort_order": 157
+  },
+  {
+   "id": 24460444,
+   "type": "pasal",
+   "number": "251",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460443,
+   "sort_order": 161
+  },
+  {
+   "id": 24460449,
+   "type": "pasal",
+   "number": "263",
+   "heading": null,
+   "content": "mengakibatkan kerusuhan dalam masyarakat, dipidana dengan pidana penjara paling lama 6 (enam) tahun atau",
+   "parent_id": 24460448,
+   "sort_order": 166
+  },
+  {
+   "id": 24460451,
+   "type": "pasal",
+   "number": "264",
+   "heading": null,
+   "content": "Setiap Orang yang menyiarkan berita yang tidak pasti, berlebih-lebihan, atau yang tidak lengkap sedangkan kerusuhan di masyarakat, dipidana dengan pidana penjara paling lama 2 (dua) tahun atau pidana denda",
+   "parent_id": 24460450,
+   "sort_order": 168
+  },
+  {
+   "id": 24460453,
+   "type": "pasal",
+   "number": "281",
+   "heading": null,
+   "content": "Setiap Orang dengan maksud untuk menghalang-halangi, mengintimidasi, atau Pejabat yang melaksanakan tugas penyidikan, penuntutan, pemeriksaan di sidang pengadilan, atau putusan 7 (tujuh) tahun 6 (enam) Bulan atau pidana denda paling",
+   "parent_id": 24460452,
+   "sort_order": 170
+  },
+  {
+   "id": 24460455,
+   "type": "pasal",
+   "number": "295",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460454,
+   "sort_order": 172
+  },
+  {
+   "id": 24460459,
+   "type": "pasal",
+   "number": "296",
+   "heading": null,
+   "content": "Setiap Orang yang menghalang-halangi saksi dan/atau pelindungan atau halnya, dipidana dengan pidana penjara paling lama 7 (tqjuh) tahun atau pidana denda",
+   "parent_id": 24460458,
+   "sort_order": 176
+  },
+  {
+   "id": 24460461,
+   "type": "pasal",
+   "number": "297",
+   "heading": null,
+   "content": "Setiap Orang yang menyebabkan saksi, Korban, dan/atau keluarganya kehilangan pekerjaan karena saksi dan/atau Korban memberikan kesaksian yang benar dalam proses peradilan, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana denda",
+   "parent_id": 24460460,
+   "sort_order": 178
+  },
+  {
+   "id": 24460463,
+   "type": "pasal",
+   "number": "299",
+   "heading": null,
+   "content": "memberitahukan keberadaan saksi dan/ atau Korban sementara atau tempat kediaman baru, dipidana dengan pidana penjara paling lama 7 (tujuh) tahun atau pidana",
+   "parent_id": 24460462,
+   "sort_order": 180
+  },
+  {
+   "id": 24460465,
+   "type": "pasal",
+   "number": "300",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460464,
+   "sort_order": 182
+  },
+  {
+   "id": 24460469,
+   "type": "pasal",
+   "number": "332",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460468,
+   "sort_order": 186
+  },
+  {
+   "id": 24460473,
+   "type": "pasal",
+   "number": "375",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460472,
+   "sort_order": 190
+  },
+  {
+   "id": 24460478,
+   "type": "pasal",
+   "number": "398",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460477,
+   "sort_order": 195
+  },
+  {
+   "id": 24460482,
+   "type": "pasal",
+   "number": "407",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460481,
+   "sort_order": 199
+  },
+  {
+   "id": 24460487,
+   "type": "pasal",
+   "number": "455",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460486,
+   "sort_order": 204
+  },
+  {
+   "id": 24460490,
+   "type": "pasal",
+   "number": "457",
+   "heading": null,
+   "content": "mencari keuntungan, baik secara langsung maupun tidak langsung, untuk diri sendiri atau untuk orang lain dengan membawa seseorang atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, atau atau kelompok orang, baik secara terorganisasi maupun tidak terorganisasi, yang tidak memiliki hak secara sah wilayah Indonesia dan/ atau masuk wilayah negara lain, wilayah tersebut secara sah, baik dengan menggunakan dokumen sah maupun dokumen palsu, atau tanpa menggunakan dokumen perjalanan, baik melalui pemeriksaan imigrasi maupun tidak, dipidana karena lama 15 (lima belas) tahun atau pidana denda paling",
+   "parent_id": 24460489,
+   "sort_order": 207
+  },
+  {
+   "id": 24460494,
+   "type": "pasal",
+   "number": "473",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460493,
+   "sort_order": 211
+  },
+  {
+   "id": 24460506,
+   "type": "pasal",
+   "number": "521",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460505,
+   "sort_order": 223
+  },
+  {
+   "id": 24460510,
+   "type": "pasal",
+   "number": "597",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460509,
+   "sort_order": 227
+  },
+  {
+   "id": 24460514,
+   "type": "pasal",
+   "number": "599A",
+   "heading": null,
+   "content": "dimaksud dalam Pasal 598 dan Pasal 599 berlaku sesuai dengan ketentuan dalam Undang-Undang Nomor 26 Tahun 2O00 tentang Pengadilan Hak Asasi Manusia.",
+   "parent_id": 24460513,
+   "sort_order": 231
+  },
+  {
+   "id": 24460516,
+   "type": "pasal",
+   "number": "605",
+   "heading": null,
+   "content": "1 (satu) tahun dan paling lama 5 (lima) tahun dan pidana kategori V, Setiap Orang yang:\nPejabat atau tidak berbuat sesuatu dalam jabatannya, yang bertentangan dengan kewajibannya; atau dengan kewajiban, yang dilakukan atau tidak",
+   "parent_id": 24460515,
+   "sort_order": 233
+  },
+  {
+   "id": 24460518,
+   "type": "pasal",
+   "number": "606",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460517,
+   "sort_order": 235
+  },
+  {
+   "id": 24460522,
+   "type": "pasal",
+   "number": "609",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460521,
+   "sort_order": 239
+  },
+  {
+   "id": 24460526,
+   "type": "pasal",
+   "number": "610",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460525,
+   "sort_order": 243
+  },
+  {
+   "id": 24460530,
+   "type": "pasal",
+   "number": "613",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460529,
+   "sort_order": 247
+  },
+  {
+   "id": 24460537,
+   "type": "pasal",
+   "number": "622",
+   "heading": null,
+   "content": null,
+   "parent_id": 24460536,
+   "sort_order": 254
+  },
+  {
+   "id": 8847929,
+   "type": "bab",
+   "number": "IV",
+   "heading": "KETENTUAN PENUTUP",
+   "content": "",
+   "parent_id": null,
+   "sort_order": 271
+  },
+  {
+   "id": 13214785,
+   "type": "pasal",
+   "number": "VIII",
+   "heading": null,
+   "content": "Dalam hal terdapat ketentuan pidana dalam Undang-Undang di luar Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana yang belum diatur dalam Lampiran I Undang-Undang ini, berlaku ketentuan",
+   "parent_id": 8847929,
+   "sort_order": 272
+  },
+  {
+   "id": 13214786,
+   "type": "pasal",
+   "number": "I",
+   "heading": null,
+   "content": "sampai dengan Pasal III.",
+   "parent_id": 8847929,
+   "sort_order": 273
+  },
+  {
+   "id": 13214787,
+   "type": "pasal",
+   "number": "IX",
+   "heading": null,
+   "content": "Undang-Undang ini mulai berlaku pada tanggal 2 Januari 2026.\nAgar A",
+   "parent_id": 8847929,
+   "sort_order": 274
+  }
+ ],
+ "detail_access": {
+  "level": "full",
+  "articles_included": true,
+  "access_via": "api_key",
+  "full_detail_available_via": [
+   "api_key"
+  ]
+ },
+ "relationships": [
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2023/6",
+    "title": "Undang-Undang Nomor 6 Tahun 2023 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG",
+    "number": "6",
+    "year": 2023,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2023/6",
+    "title": "Undang-Undang Nomor 6 Tahun 2023 tentang PENETAPAN PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 2 TAHUN 2022 TENTANG CIPTA KERJA MENJADI UNDANG-UNDANG",
+    "number": "6",
+    "year": 2023,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2023/1",
+    "title": "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana",
+    "number": "1",
+    "year": 2023,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2023/1",
+    "title": "Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana",
+    "number": "1",
+    "year": 2023,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2022/13",
+    "title": "Undang-Undang Nomor 13 Tahun 2022 tentang PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 12 TAHUN 2011 TENTANG PEMBENTUKAN PERATURAN PERUNDANG-UNDANGAN",
+    "number": "13",
+    "year": 2022,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2022/13",
+    "title": "Undang-Undang Nomor 13 Tahun 2022 tentang PERUBAHAN KEDUA ATAS UNDANG-UNDANG NOMOR 12 TAHUN 2011 TENTANG PEMBENTUKAN PERATURAN PERUNDANG-UNDANGAN",
+    "number": "13",
+    "year": 2022,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2019/15",
+    "title": "Undang-Undang Nomor 15 Tahun 2019 tentang Perubahan Atas Undang-undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan Perundang-undangan",
+    "number": "15",
+    "year": 2019,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2019/15",
+    "title": "Undang-Undang Nomor 15 Tahun 2019 tentang Perubahan Atas Undang-undang Nomor 12 Tahun 2011 Tentang Pembentukan Peraturan Perundang-undangan",
+    "number": "15",
+    "year": 2019,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2015/9",
+    "title": "Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah",
+    "number": "9",
+    "year": 2015,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2015/9",
+    "title": "Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah",
+    "number": "9",
+    "year": 2015,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2015/2",
+    "title": "Undang-Undang Nomor 2 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang",
+    "number": "2",
+    "year": 2015,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2015/2",
+    "title": "Undang-Undang Nomor 2 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah Menjadi Undang-Undang",
+    "number": "2",
+    "year": 2015,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2014/23",
+    "title": "Undang-Undang Nomor 23 Tahun 2014 tentang PEMERINTAHAN DAERAH",
+    "number": "23",
+    "year": 2014,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2014/23",
+    "title": "Undang-Undang Nomor 23 Tahun 2014 tentang PEMERINTAHAN DAERAH",
+    "number": "23",
+    "year": 2014,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Mengubah",
+   "type_en": "Amends",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2011/12",
+    "title": "Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan",
+    "number": "12",
+    "year": 2011,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diubah oleh",
+   "type_en": "Amended by",
+   "related_work": {
+    "frbr_uri": "/akn/id/act/uu/2011/12",
+    "title": "Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-Undangan",
+    "number": "12",
+    "year": 2011,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diuji oleh",
+   "type_en": "Reviewed by",
+   "related_work": {
+    "frbr_uri": "/akn/id/judgment/puu-mk/2026/21",
+    "title": "Putusan MK Nomor 21/PUU-XXIV/2026 — Pengujian Materiil Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana dan Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana",
+    "number": "21",
+    "year": 2026,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Menguji",
+   "type_en": "Reviews",
+   "related_work": {
+    "frbr_uri": "/akn/id/judgment/puu-mk/2026/21",
+    "title": "Putusan MK Nomor 21/PUU-XXIV/2026 — Pengujian Materiil Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana dan Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana",
+    "number": "21",
+    "year": 2026,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Diuji oleh",
+   "type_en": "Reviewed by",
+   "related_work": {
+    "frbr_uri": "/akn/id/judgment/puu-mk/2026/170",
+    "title": "Putusan MK Nomor 170/PUU-XXIV/2026 — Pengujian Materiil Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana",
+    "number": "170",
+    "year": 2026,
+    "status": "berlaku"
+   }
+  },
+  {
+   "type": "Menguji",
+   "type_en": "Reviews",
+   "related_work": {
+    "frbr_uri": "/akn/id/judgment/puu-mk/2026/170",
+    "title": "Putusan MK Nomor 170/PUU-XXIV/2026 — Pengujian Materiil Undang-Undang Nomor 1 Tahun 2026 tentang Penyesuaian Pidana",
+    "number": "170",
+    "year": 2026,
+    "status": "berlaku"
+   }
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+[
+ {
+  "id": 10053,
+  "frbr_uri": "/akn/id/act/penpres/1965/1",
+  "title": "Penetapan Presiden Nomor 1 Tahun 1965 tentang Pencegahan Penyalahgunaan dan/atau Penodaan Agama",
+  "number": "1",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PENPRES",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 485874,
+  "frbr_uri": "/akn/id/act/penpres/1965/14",
+  "title": "Penetapan Presiden Nomor 14 Tahun 1965 tentang KEGIATAN POLITIK DAN KEPARTAIAN DI DAERAH PROPINSI IRIAN BARAT",
+  "number": "14",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485119,
+  "frbr_uri": "/akn/id/act/penpres/1965/9",
+  "title": "Penetapan Presiden Nomor 9 Tahun 1965 tentang PENGINTEGRASIAN BANK KOPERASI, TANI DAN NELAYAN KE DALAM BANK INDONESIA",
+  "number": "9",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485122,
+  "frbr_uri": "/akn/id/act/penpres/1965/31",
+  "title": "Penetapan Presiden Nomor 31 Tahun 1965 tentang PERUBAHAN/PENAMBAHAN PENETAPAN PRESIDEN R.I. NO. 12 TAHUN 1963 (DISEMPURNAKAN)",
+  "number": "31",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485124,
+  "frbr_uri": "/akn/id/act/penpres/1965/29",
+  "title": "Penetapan Presiden Nomor 29 Tahun 1965 tentang PEMBEBANAN ATAS IMPORT",
+  "number": "29",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485126,
+  "frbr_uri": "/akn/id/act/penpres/1964/2",
+  "title": "Penetapan Presiden Nomor 2 Tahun 1964 tentang TATA-CARA PELAKSANAAN PIDANA MATI YANG DIJATUHKAN OLEH PENGADILAN DI LINGKUNGAN PERADILAN UMUM DAN MILITER",
+  "number": "2",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485872,
+  "frbr_uri": "/akn/id/act/penpres/1963/1",
+  "title": "Penetapan Presiden Nomor 1 Tahun 1963 tentang PEMERINTAHAN DI WILAYAH IRIAN BARAT SEGERA SETELAH DISERAHKAN KEPADA REPUBLIK INDONESIA",
+  "number": "1",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485136,
+  "frbr_uri": "/akn/id/act/penpres/1963/8",
+  "title": "Penetapan Presiden Nomor 8 Tahun 1963 tentang KEGIATAN POLITIK DI IRIAN BARAT",
+  "number": "8",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485871,
+  "frbr_uri": "/akn/id/act/penpres/1963/15",
+  "title": "Penetapan Presiden Nomor 15 Tahun 1963 tentang PERUBAHAN DAN TAMBAHAN PENETAPAN PRESIDEN NO. 2 TAHUN 1961 TENTANG PEMERINTAHAN DAERAH KHUSUS IBU-KOTA JAKARTA RAYA",
+  "number": "15",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485875,
+  "frbr_uri": "/akn/id/act/penpres/1963/5",
+  "title": "Penetapan Presiden Nomor 5 Tahun 1963 tentang KEGIATAN POLITIK",
+  "number": "5",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485137,
+  "frbr_uri": "/akn/id/act/penpres/1960/3",
+  "title": "Penetapan Presiden Nomor 3 Tahun 1960 tentang PEMBAHARUAN SUSUNAN DEWAN PERWAKILAN RAKYAT",
+  "number": "3",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ },
+ {
+  "id": 485870,
+  "frbr_uri": "/akn/id/act/penpres/1960/4",
+  "title": "Penetapan Presiden Nomor 4 Tahun 1960 tentang DEWAN PERWAKILAN RAKYAT GOTONG ROYONG",
+  "number": "4",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PENPRES",
+  "issuing_body": null
+ }
+]

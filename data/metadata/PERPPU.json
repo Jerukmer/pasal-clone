@@ -1,0 +1,3477 @@
+[
+ {
+  "id": 21701,
+  "frbr_uri": "/akn/id/act/perppu/2024/148",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 148 Tahun 2024 tentang KEMENTERIAN SEKRETARIAT NEGARA",
+  "number": "148",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 1848,
+  "frbr_uri": "/akn/id/act/perppu/2022/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja",
+  "number": "2",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231817,
+  "frbr_uri": "/akn/id/act/perpu/2022/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja",
+  "number": "2",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231277,
+  "frbr_uri": "/akn/id/act/perpu/2022/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2022 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum",
+  "number": "1",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 7934,
+  "frbr_uri": "/akn/id/act/perppu/2022/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2022 tentang Perubahan Atas Undang-undang Nomor 7 Tahun 2017 Tentang\r\npemilihan Umum",
+  "number": "1",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231279,
+  "frbr_uri": "/akn/id/act/perpu/2020/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2020 tentang Perubahan Ketiga atas Undang-Undang Nomor 1 Tahun 2015 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-Undang",
+  "number": "2",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 282649,
+  "frbr_uri": "/akn/id/act/perpu/2020/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (COVID-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan",
+  "number": "1",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 8213,
+  "frbr_uri": "/akn/id/act/perppu/2020/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2020 tentang Kebijakan Keuangan Negara dan Stabilitas Sistem Keuangan untuk Penanganan Pandemi Corona Virus Disease 2019 (covid-19) dan/atau dalam Rangka Menghadapi Ancaman yang Membahayakan Perekonomian Nasional dan/atau Stabilitas Sistem Keuangan",
+  "number": "1",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8298,
+  "frbr_uri": "/akn/id/act/perppu/2020/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2020 tentang Perubahan Ketiga Atas Undang-undang Nomor 1 Tahun 2015 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-undang Nomor 1 Tahun 2014 Tentang Pemilihan Gubernur, Bupati, dan Walikota Menjadi Undang-undang",
+  "number": "2",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 7944,
+  "frbr_uri": "/akn/id/act/perppu/2017/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2017 tentang Akses Informasi Keuangan untuk Kepentingan Perpajakan",
+  "number": "1",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 282645,
+  "frbr_uri": "/akn/id/act/perpu/2017/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2017 tentang Akses Informasi Keuangan Untuk Kepentingan Perpajakan",
+  "number": "1",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 21717,
+  "frbr_uri": "/akn/id/act/perppu/2017/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2017 tentang Perubahan Atas Undang-undang Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan",
+  "number": "2",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231819,
+  "frbr_uri": "/akn/id/act/perpu/2017/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2017 tentang Perubahan Atas Undang-Undang Nomor 17 Tahun 2013 Tentang Organisasi Kemasyarakatan",
+  "number": "2",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231828,
+  "frbr_uri": "/akn/id/act/perpu/2016/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak",
+  "number": "1",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 7957,
+  "frbr_uri": "/akn/id/act/perppu/2016/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undangundang Nomor 23 Tahun 2002 Tentang Perlindungan Anak",
+  "number": "1",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21724,
+  "frbr_uri": "/akn/id/act/perppu/2015/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2015 tentang Perubahan Atas Undang-undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi",
+  "number": "1",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231276,
+  "frbr_uri": "/akn/id/act/perpu/2015/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi",
+  "number": "1",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 232622,
+  "frbr_uri": "/akn/id/act/perpu/2014/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati, Dan Walikota",
+  "number": "1",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8168,
+  "frbr_uri": "/akn/id/act/perppu/2014/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan Atas Undang-undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah",
+  "number": "2",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231824,
+  "frbr_uri": "/akn/id/act/perpu/2014/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2014 Tentang Pemerintahan Daerah",
+  "number": "2",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8113,
+  "frbr_uri": "/akn/id/act/perppu/2014/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2014 tentang Pemilihan Gubernur, Bupati dan Walikota",
+  "number": "1",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231295,
+  "frbr_uri": "/akn/id/act/perpu/2013/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2013 tentang Perubahan Kedua Atas Undang-Undang Nomor 24 Tahun 2003 Tentang Mahkamah Konstitusi",
+  "number": "1",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21757,
+  "frbr_uri": "/akn/id/act/perppu/2013/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2013 tentang Peraturan Pemerintah Pengganti Undang-undang Republik Indonesia Nomor 1 Tahun 2013 Tentang Perubahan Kedua Atas Undang-undang Nomor 24 Tahun 2003 Tentang Mahkamah Konstitusi",
+  "number": "1",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231283,
+  "frbr_uri": "/akn/id/act/perpu/2009/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 9 Tahun 1992 tentang Keimigrasian",
+  "number": "3",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231293,
+  "frbr_uri": "/akn/id/act/perpu/2009/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 13 Tahun 2008 Tentang Penyelenggaraan Ibadah Haji",
+  "number": "2",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231290,
+  "frbr_uri": "/akn/id/act/perpu/2009/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 10 Tahun 2008 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah",
+  "number": "1",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21750,
+  "frbr_uri": "/akn/id/act/perppu/2009/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2009 tentang Perubahan Atas Undang-undang Nomor 10 Tahun 2008 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah",
+  "number": "1",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8105,
+  "frbr_uri": "/akn/id/act/perppu/2009/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2009 tentang Perubahan Atas Undang-undang Nomor 13 Tahun 2008 Tentang Penyelenggaraan Ibadah Haji",
+  "number": "2",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21732,
+  "frbr_uri": "/akn/id/act/perppu/2009/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2009 tentang Perubahan Atas Undang-undang Nomor 9 Tahun 1992 Tentang Keimigrasian",
+  "number": "3",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231284,
+  "frbr_uri": "/akn/id/act/perpu/2009/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2009 tentang Perubahan Atas Undang-Undang Nomor 30 Tahun 2002 Tentang Komisi Pemberantasan Tindak Pidana Korupsi",
+  "number": "4",
+  "year": 2009,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231294,
+  "frbr_uri": "/akn/id/act/perpu/2008/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat Atas Undang-Undang Nomor 6 Tahun 1983 Tentang Ketentuan Umum Dan Tata Cara Perpajakan",
+  "number": "5",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231289,
+  "frbr_uri": "/akn/id/act/perpu/2008/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2008 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 1999 Tentang Bank Indonesia",
+  "number": "2",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231282,
+  "frbr_uri": "/akn/id/act/perpu/2008/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2008 tentang Jaring Pengaman Sistem Keuangan",
+  "number": "4",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231287,
+  "frbr_uri": "/akn/id/act/perpu/2008/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 21 Tahun 2001 Tentang Otonomi Khusus Bagi Provinsi Papua",
+  "number": "1",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8273,
+  "frbr_uri": "/akn/id/act/perppu/2008/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 2008 tentang Jaring Pengaman Sistem Keuangan",
+  "number": "4",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8247,
+  "frbr_uri": "/akn/id/act/perppu/2008/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2008 tentang Perubahan Uu 21-2001 Tentang Otonomi Khusus Bagi Provinsi Papua",
+  "number": "1",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 232619,
+  "frbr_uri": "/akn/id/act/perpu/2008/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2008 tentang Perubahan Atas Undang-Undang Nomor 24 Tahun 2004 Tentang Lembaga Penjamin Simpanan",
+  "number": "3",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8070,
+  "frbr_uri": "/akn/id/act/perppu/2008/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2008 tentang Perubahan Uu 24-2004 Tentang Lembaga Penjamin Simpanan",
+  "number": "3",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8195,
+  "frbr_uri": "/akn/id/act/perppu/2008/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 2008 tentang Perubahan Keempat Uu 6-1983 Tentang Ketentuan Umum dan Tata Cara Perpajakan",
+  "number": "5",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21711,
+  "frbr_uri": "/akn/id/act/perppu/2008/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2008 tentang Perubahan Kedua Uu 23-1999 Tentang Bank Indonesia",
+  "number": "2",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 232613,
+  "frbr_uri": "/akn/id/act/perpu/2007/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2007 tentang Penanganan Permasalahan Hukum Dalam Rangka Pelaksanaan Rehabilitasi Dan Rekonstruksi Wilayah Dan Kehidupan Masyarakat Di Provinsi Nanggroe Aceh Darussalam Dan Kepulauan Nias Provinsi Sumatera Utara",
+  "number": "2",
+  "year": 2007,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 232612,
+  "frbr_uri": "/akn/id/act/perpu/2007/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan Atas Undang-Undang Nomor 36 Tahun 2000 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 36 Tahun 2000 Tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 Tentang Kawasan Perdagangan Bebas Dan Pelabuhan Bebas Menjadi Undang-Undang",
+  "number": "1",
+  "year": 2007,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21741,
+  "frbr_uri": "/akn/id/act/perppu/2007/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2007 tentang Penanganan Permasalahan Hukum dalam Rangka Rehabilitasi dan Rekonstruksi Wilayah dan Kehidupan Masyarakat di Provinsi Nagroe Aceh Darussalam dan Kepulauan Nias Provinsi Sumatera Utara",
+  "number": "2",
+  "year": 2007,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21718,
+  "frbr_uri": "/akn/id/act/perppu/2007/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2007 tentang Perubahan Uu 36-2000 Tentang Penetapan Perpu 1-2000 Tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Menjadi Uu",
+  "number": "1",
+  "year": 2007,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 232609,
+  "frbr_uri": "/akn/id/act/perpu/2006/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2006 tentang Perubahan Kedua Atas Undang-Undang Nomor 12 Tahun 2003 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah",
+  "number": "1",
+  "year": 2006,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231286,
+  "frbr_uri": "/akn/id/act/perpu/2006/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2006 tentang Penangguhan Pelaksanaan Tugas Dan Fungsi Pengadilan Perikanan Sebagaimana Dimaksud Dalam Pasal 71 Ayat (5) Undang-Undang Nomor 31 Tahun 2004 Tentang Perikanan",
+  "number": "2",
+  "year": 2006,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21749,
+  "frbr_uri": "/akn/id/act/perppu/2006/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2006 tentang Perubahan Kedua Uu 12-2003 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah",
+  "number": "1",
+  "year": 2006,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21704,
+  "frbr_uri": "/akn/id/act/perppu/2006/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2006 tentang Penangguhan Pelaksanaan Tugas dan Fungsi Pengadilan Perikanan Sebagaimana Dimaksud dalam Pasal 71 Ayat (5) Uu 31-2004 Tentang Perikanan",
+  "number": "2",
+  "year": 2006,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231288,
+  "frbr_uri": "/akn/id/act/perpu/2005/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2005 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 2 Tahun 2004 Tentang Penyelesaian Perselisihan Hubungan Industrial",
+  "number": "1",
+  "year": 2005,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231285,
+  "frbr_uri": "/akn/id/act/perpu/2005/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2005 tentang Perubahan Atas Undang-Undang 32 Tahun 2004 Tentang Pemerintahan Daerah",
+  "number": "3",
+  "year": 2005,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8076,
+  "frbr_uri": "/akn/id/act/perppu/2005/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2005 tentang Penangguhan Mulai Berlakunya Uu 2-2004 Tentang Penyelesaian Perselisihan Hubungan Industrial",
+  "number": "1",
+  "year": 2005,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231292,
+  "frbr_uri": "/akn/id/act/perpu/2005/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2005 tentang Badan Rehabilitasi Dan Rekonstruksi Wilayah Dan Kehidupan Masyarakat Provinsi Nanggroe Aceh Darussalam Dan Kepulauan Nias Provinsi Sumatera Utara",
+  "number": "2",
+  "year": 2005,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 7967,
+  "frbr_uri": "/akn/id/act/perppu/2004/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2004 tentang Perubahan Uu 12-2003 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah",
+  "number": "2",
+  "year": 2004,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21722,
+  "frbr_uri": "/akn/id/act/perppu/2004/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan Uu 41-1999 Tentang Kehutanan",
+  "number": "1",
+  "year": 2004,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231291,
+  "frbr_uri": "/akn/id/act/perpu/2004/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2004 tentang Perubahan Atas Undang-Undang Nomor 41 Tahun 1999 Tentang Kehutanan",
+  "number": "1",
+  "year": 2004,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 232618,
+  "frbr_uri": "/akn/id/act/perpu/2004/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2004 tentang Perubahan Atas Undang-Undang Nomor 12 Tahun 2003 Tentang Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dan Dewan Perwakilan Rakyat Daerah",
+  "number": "2",
+  "year": 2004,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231300,
+  "frbr_uri": "/akn/id/act/perpu/2002/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2002 tentang Pemberlakuan Peraturan Pemerintah Pengganti Undang-Undang Republik Indonesia Nomor 1 Tahun 2002 Tentang Pemberantasan Tindak Pidana Terorisme, pada Peristiwa Peledakan BOM di Bali Tanggal 12 Oktober 2002",
+  "number": "2",
+  "year": 2002,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8255,
+  "frbr_uri": "/akn/id/act/perppu/2002/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2002 tentang Pemberlakuan Perpu 1-2002 Tentang Pemberantasan Tindak Pidana Terorisme Pada Peristiwa Peledakan Bom di Bali Tanggal 12 Oktober 2002",
+  "number": "2",
+  "year": 2002,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231310,
+  "frbr_uri": "/akn/id/act/perpu/2002/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme",
+  "number": "1",
+  "year": 2002,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21716,
+  "frbr_uri": "/akn/id/act/perppu/2002/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2002 tentang Pemberantasan Tindak Pidana Terorisme",
+  "number": "1",
+  "year": 2002,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231308,
+  "frbr_uri": "/akn/id/act/perpu/2000/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2000 tentang Perubahan Atas Undang-Undang Nomor 11 Tahun 1998 Tentang Perubahan Berlakunya Undang-Undang Nomor 25 Tahun 1997 Tentang Ketenagakerjaan",
+  "number": "3",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21737,
+  "frbr_uri": "/akn/id/act/perppu/2000/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang",
+  "number": "2",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231303,
+  "frbr_uri": "/akn/id/act/perpu/2000/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+  "number": "1",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8303,
+  "frbr_uri": "/akn/id/act/perppu/2000/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas",
+  "number": "1",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231299,
+  "frbr_uri": "/akn/id/act/perpu/2000/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang",
+  "number": "2",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21768,
+  "frbr_uri": "/akn/id/act/perppu/2000/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2000 tentang Perubahan Uu 11-1998 Tentang Perubahan Berlakunya Uu 25-1997 Tentang Ketenagakerjaan",
+  "number": "3",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8084,
+  "frbr_uri": "/akn/id/act/perppu/1999/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1999 tentang Pengadilan Hak Asasi Manusia",
+  "number": "1",
+  "year": 1999,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231298,
+  "frbr_uri": "/akn/id/act/perpu/1999/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1999 tentang Pengadilan Hak Asasi Manusia",
+  "number": "1",
+  "year": 1999,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8318,
+  "frbr_uri": "/akn/id/act/perppu/1998/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1998 tentang Kemerdekaan Menyampaikan Pendapat di Muka Umum",
+  "number": "2",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231315,
+  "frbr_uri": "/akn/id/act/perpu/1998/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1998 tentang Perubahan Atas Undang-Undang Tentang Kepailitan",
+  "number": "1",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231301,
+  "frbr_uri": "/akn/id/act/perpu/1998/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1998 tentang Kemerdekaan Menyampaikan Pendapat Di Muka Umum",
+  "number": "2",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 7971,
+  "frbr_uri": "/akn/id/act/perppu/1998/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1998 tentang Pencabutan Perpu 2-1998 Tentang Kemerdekaan Menyampaikan Pendapat di Muka Umum",
+  "number": "3",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 7978,
+  "frbr_uri": "/akn/id/act/perppu/1998/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1998 tentang Perubahan Uu Kepailitan",
+  "number": "1",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231297,
+  "frbr_uri": "/akn/id/act/perpu/1998/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1998 tentang Pencabutan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1998 Tentang Kemerdekaan Menyampaikan Pendapat Di Muka Umum",
+  "number": "3",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8207,
+  "frbr_uri": "/akn/id/act/perppu/1997/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1997 tentang Penangguhan Mulai Berlakunya Uu 21-1997 Tentang Bea Perolehan Hak Atas Tanah dan Bangunan",
+  "number": "1",
+  "year": 1997,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231307,
+  "frbr_uri": "/akn/id/act/perpu/1997/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1997 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 21 Tahun 1997 Tentang Bea Perolehan Hak Atas Tanah Dan Bangunan",
+  "number": "1",
+  "year": 1997,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231312,
+  "frbr_uri": "/akn/id/act/perpu/1992/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1992 tentang Penangguhan Mulai Berlakunya Undang-Undang Nomor 14 Tahun 1992 Tentang Lalu Lintas Dan Angkutan Jalan",
+  "number": "1",
+  "year": 1992,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21743,
+  "frbr_uri": "/akn/id/act/perppu/1984/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1984 tentang Penangguhan Mulai Berlakunya Uu Pajak Pertambahan Nilai 1984",
+  "number": "1",
+  "year": 1984,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231313,
+  "frbr_uri": "/akn/id/act/perpu/1984/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1984 tentang Penangguhan Mulai Berlakunya Undang-Undang Pajak Pertambahan Nilai 1984",
+  "number": "1",
+  "year": 1984,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231305,
+  "frbr_uri": "/akn/id/act/perpu/1971/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1971 tentang Tanda Kehormatan Bintang Yudha Dharma",
+  "number": "2",
+  "year": 1971,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231311,
+  "frbr_uri": "/akn/id/act/perpu/1971/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1971 tentang Pencabutan Undang-Undang No. 17 Tahun 1964 Tentang Larangan Penarikan Cek Kosong",
+  "number": "1",
+  "year": 1971,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231309,
+  "frbr_uri": "/akn/id/act/perpu/1969/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1969 tentang Bentuk-Bentuk Usaha Negara",
+  "number": "1",
+  "year": 1969,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 3554,
+  "frbr_uri": "/akn/id/act/uu/1968/18",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 18 Tahun 1968 tentang Undang-Undang Nomor 18 Tahun 1968",
+  "number": "18",
+  "year": 1968,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231304,
+  "frbr_uri": "/akn/id/act/perpu/1968/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1968 tentang Tanda Kehormatan Bintang Kartika Eka Pakci",
+  "number": "1",
+  "year": 1968,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231302,
+  "frbr_uri": "/akn/id/act/perpu/1965/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1965 tentang Kebijakan Penerimaan Negara Tahun 1966",
+  "number": "2",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231306,
+  "frbr_uri": "/akn/id/act/perpu/1965/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1965 tentang Perubahan/Penambahan Undang-Undang No. 7 Tahun 1960 (Lembaran-Negara Tahun 1960 No. 109)",
+  "number": "1",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 485831,
+  "frbr_uri": "/akn/id/act/perppu/1965/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1965 tentang KEBIJAKSANAAN PENERIMAAN NEGARA TAHUN 1966",
+  "number": "2",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 3541,
+  "frbr_uri": "/akn/id/act/uu/1965/17",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 17 Tahun 1965 tentang Undang-Undang Nomor 17 Tahun 1965",
+  "number": "17",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231296,
+  "frbr_uri": "/akn/id/act/perpu/1964/6",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1964 tentang Badan Pemeriksa Keuangan",
+  "number": "6",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231333,
+  "frbr_uri": "/akn/id/act/perpu/1964/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1964 tentang Pembentukan Daerah Tingkat I Lampung Dengan Mengubah Undang-Undang No. 25 Tahun 1959 Tentang Pembentukan Daerah Tingkat I Sumatera Selatan",
+  "number": "3",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231321,
+  "frbr_uri": "/akn/id/act/perpu/1964/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1964 tentang Perubahan Dan Tambahan Undang-Undang No. 21 Tahun 1959, Tentang Penetapan Undang-Undang Darurat No. 7 Tahun 1958, Tentang Penggantian Peraturan Tentang Bintang Gerilya Sebagai Termaktub Dalam Peraturan Pemerintah No. 8 Tahun 1949 (Lembaran-Negara Tahun 1958 No. 154) Sebagai Undang-Undang (Lembaran_negara Tahun 1959 No. 65)",
+  "number": "1",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 3657,
+  "frbr_uri": "/akn/id/act/uu/1964/7",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1964 tentang Undang-Undang Nomor 7 Tahun 1964",
+  "number": "7",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231326,
+  "frbr_uri": "/akn/id/act/perpu/1964/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1964 tentang Pembentukan Daerah Tingkat I Sulawesi Tengah Dan Daerah Tingkat I Sulawesi Tenggara Dengan Mengubah Undang-Undang No. 47 PRP Tahun 1960 Tentang Pembentukan Daerah Tingkat I Sulawesi Utara-Tengah Dan daerah Tingkat I Sulawesi Selatan-Tenggara",
+  "number": "2",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231327,
+  "frbr_uri": "/akn/id/act/perpu/1964/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1964 tentang Pembentukan Daerah Tingkat II Dairi Dengan Mengubah Undang-Undang No. 7 DRT. 1956 Tentang Pembentukan Daerah Otonom Kabupaten Di Propinsi Sumatera Utara",
+  "number": "4",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231314,
+  "frbr_uri": "/akn/id/act/perpu/1964/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1964 tentang Nilai Transaksi Rupiah Dan Pembebasan Atas Impor",
+  "number": "5",
+  "year": 1964,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231319,
+  "frbr_uri": "/akn/id/act/perpu/1963/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1963 tentang Surat Hutang Landreform",
+  "number": "5",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21770,
+  "frbr_uri": "/akn/id/act/perppu/1963/8",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1963 tentang Pemasukan Daerah Tingkat Ii Kepulauan Riau ke dalam Daerah Pabean Indonesia",
+  "number": "8",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21747,
+  "frbr_uri": "/akn/id/act/perppu/1963/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1963 tentang Pelaksanaan Deklarasi Ekonomi di Bidang Pembiayaan Impor dan Ekspor",
+  "number": "2",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8187,
+  "frbr_uri": "/akn/id/act/perppu/1963/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1963 tentang Perubahan Undang-undang No. 4 Prp Tahun 1959 dan Pencabutan Undang-undang No. 32 Prp Tahun 1960 dan Undang-undang No. 34 Prp Tahun 1960 (lembaran Negara Tahun 1959 No. 91, Lembaran Negara Tahun 1960 No. 92 dan Lembaran Negara Tahun 1960 No. 94)",
+  "number": "3",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231318,
+  "frbr_uri": "/akn/id/act/perpu/1963/6",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1963 tentang Telekomunikasi",
+  "number": "6",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21740,
+  "frbr_uri": "/akn/id/act/perppu/1963/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1963 tentang Surat Hutang Landreform",
+  "number": "5",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231330,
+  "frbr_uri": "/akn/id/act/perpu/1963/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1963 tentang Perubahan Undang-Undang No. 4 PRP Tahun 1959 Dan Pencabutan Undang-Undang 32 PRP Tahun 1960 Dan Undang-Undang No. 34 PRP Tahun 1960",
+  "number": "3",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231331,
+  "frbr_uri": "/akn/id/act/perpu/1963/7",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1963 tentang Badan Pemeriksa Keuangan",
+  "number": "7",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8055,
+  "frbr_uri": "/akn/id/act/perppu/1963/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1963 tentang Pelunasan Cukai Tembakau Oleh Perusahaan-perusahaan Hasil Tembakau dan Pengeluaran Hasil-hasil Tembakau dari Perusahaan-perusahaan Itu Kedalam Peredaran Bebas (disempurnakan)",
+  "number": "1",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231334,
+  "frbr_uri": "/akn/id/act/perpu/1963/8",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1963 tentang Pemasukan Daerah Tingkat II Kepulauan Riau Ke Dalam Daerah Pabean Indonesia",
+  "number": "8",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231335,
+  "frbr_uri": "/akn/id/act/perpu/1963/9",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1963 tentang Penangguhan Pelaksanaan Pemungutan Bea-Bea Dan Cukai-Cukai Di Daerah Tingkat II Kepulauan Riau",
+  "number": "9",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8059,
+  "frbr_uri": "/akn/id/act/perppu/1963/7",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1963 tentang Badan Pemeriksa Keuangan",
+  "number": "7",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 8178,
+  "frbr_uri": "/akn/id/act/perppu/1963/6",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1963 tentang Telekomunikasi",
+  "number": "6",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231325,
+  "frbr_uri": "/akn/id/act/perpu/1963/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1963 tentang Perubahan Dan Tambahan Undang-Undang No. 36 Tahun 1953 Tentang Bank Tabungan Pos (Lembaran Negara Tahun 1953 No.86)",
+  "number": "4",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 21733,
+  "frbr_uri": "/akn/id/act/perppu/1963/9",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1963 tentang Penangguhan Pelaksanaan Pemungutan Bea-bea dan Cukai-cukai di Daerah Tingkat Ii Kepulauan Riau",
+  "number": "9",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231317,
+  "frbr_uri": "/akn/id/act/perpu/1962/13",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 13 Tahun 1962 tentang Sumbangan Wajib Istimewa Tahun 1962 Atas Kendaraan Bermotor",
+  "number": "13",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231328,
+  "frbr_uri": "/akn/id/act/perpu/1962/17",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 17 Tahun 1962 tentang Perubahan Dan Tambahan Undang-Undang No. 21 PRP Tahun 1960 Tentang Bank Pembangunan Indonesia",
+  "number": "17",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231344,
+  "frbr_uri": "/akn/id/act/perpu/1962/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1962 tentang Penerimaan Dan Penggunaan Warga-Negara Asing Yang Dengan Sukarela Turut-Serta Dalam Perjuangan Pembebasan Irian Barat",
+  "number": "3",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231352,
+  "frbr_uri": "/akn/id/act/perpu/1962/9",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1962 tentang Pengendalian Harga",
+  "number": "9",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231348,
+  "frbr_uri": "/akn/id/act/perpu/1962/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1962 tentang Pemanggilan Dan Pengerahan Semua Warga Negara Dalam Rangka Mobilisasi Umum Untuk Kepentingan Keamanan Dan Pertahanan Negara",
+  "number": "1",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231347,
+  "frbr_uri": "/akn/id/act/perpu/1962/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1962 tentang Pengesahan Perjanjian Karya Antara Perusahaan Negara Pertamina Dan Pan American Indonesia Oil Co. Untuk Diri Sendiri Dan Atas nama Pan Ametrican International Oil Co.",
+  "number": "4",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231351,
+  "frbr_uri": "/akn/id/act/perpu/1962/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1962 tentang Perusahaan Daerah",
+  "number": "5",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231341,
+  "frbr_uri": "/akn/id/act/perpu/1962/6",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1962 tentang Pokok-Pokok Perumahan",
+  "number": "6",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231323,
+  "frbr_uri": "/akn/id/act/perpu/1962/11",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 11 Tahun 1962 tentang Pemungutan Sumbangan Wajib Istimewa Atas Beberapa Jenis Barang",
+  "number": "11",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231346,
+  "frbr_uri": "/akn/id/act/perpu/1962/10",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 10 Tahun 1962 tentang Pencabutan Undang-Undang Krisis Impor 1933",
+  "number": "10",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231350,
+  "frbr_uri": "/akn/id/act/perpu/1962/8",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1962 tentang Perdagangan Barang-Barang Dalam Pengawasan",
+  "number": "8",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231324,
+  "frbr_uri": "/akn/id/act/perpu/1962/12",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 12 Tahun 1962 tentang Ketentuan Dibidang Fiskal Mengenai Pembayaran Sumbangan Wajib Istimewa",
+  "number": "12",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231322,
+  "frbr_uri": "/akn/id/act/perpu/1962/15",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 15 Tahun 1962 tentang Penegasan dari Pasal 16 Ayat (6) Undang-Undang No. 7 DRT Tahun 1955 (Lembaran-Negara Tahun 1955 No. 27) Tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi",
+  "number": "15",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231320,
+  "frbr_uri": "/akn/id/act/perpu/1962/16",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 16 Tahun 1962 tentang Sumbangan Wajib Istimewa Tahun 1962 Atas Bangunan",
+  "number": "16",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231338,
+  "frbr_uri": "/akn/id/act/perpu/1962/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1962 tentang Kewajiban Perusahaan Minyak Memenuhi Kebutuhan Dalam Negeri",
+  "number": "2",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231343,
+  "frbr_uri": "/akn/id/act/perpu/1962/7",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1962 tentang Penggunaan Dan Pengawasan Atas Penggunaan Dana-Dana Investasi",
+  "number": "7",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231332,
+  "frbr_uri": "/akn/id/act/perpu/1962/14",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 14 Tahun 1962 tentang Sumbangan Wajib Istimewa Atas Kendaraaan Bermotor Yang Diimport Ke Dalam Daerah Pabean Indoneia",
+  "number": "14",
+  "year": 1962,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231980,
+  "frbr_uri": "/akn/id/act/perpu/1961/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1961 tentang Barang",
+  "number": "1",
+  "year": 1961,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231384,
+  "frbr_uri": "/akn/id/act/perpu/1960/26",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 26 Tahun 1960 tentang Perubahan Pasal 27 Dan Pasal 28 Undang-Undang Darurat No. 7 Tahun 1955, Sebagaimana Telah Diubah Dan Dithambah, Terakhir Dengan Peraturan Pemerintah Pengganti Undang-Undang No. 1 Tahun 1960",
+  "number": "26",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231362,
+  "frbr_uri": "/akn/id/act/perpu/1960/36",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 36 Tahun 1960 tentang Perubahan Dan Tambahan Undang-Undang Darurat No. 7 Tahun 1955 Tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi",
+  "number": "36",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231388,
+  "frbr_uri": "/akn/id/act/perpu/1960/13",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 13 Tahun 1960 tentang Bank Dagang Negara",
+  "number": "13",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231361,
+  "frbr_uri": "/akn/id/act/perpu/1960/46",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 46 Tahun 1960 tentang Perubahan Nama Dan Kedudukan Hukum Serta Pemindahan Tempat Kedudukan \"N.V. Nederlandche-Indische Aardolie Maatschaapij\"",
+  "number": "46",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231385,
+  "frbr_uri": "/akn/id/act/perpu/1960/17",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 17 Tahun 1960 tentang Perubahan Tarip-Upah Untuk Balai Harta Peninggalan",
+  "number": "17",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231356,
+  "frbr_uri": "/akn/id/act/perpu/1960/41",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 41 Tahun 1960 tentang Bank Koperasi, Tani Dan Nelayan",
+  "number": "41",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231368,
+  "frbr_uri": "/akn/id/act/perpu/1960/35",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 35 Tahun 1960 tentang Kredit Dan Likwidasi Bank",
+  "number": "35",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231367,
+  "frbr_uri": "/akn/id/act/perpu/1960/28",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 28 Tahun 1960 tentang Ancaman Hukuman Terhadap Pembelian, Penerimaan, Penyerahan Penguasaan, Kepunyaan, Persediaan Atau Dalam Milik, Penyimpanan, Pengangkutan Atau Pembawaan Barang Logam D.K.A Dengan Tidak Mempunyai Surat Izin",
+  "number": "28",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231357,
+  "frbr_uri": "/akn/id/act/perpu/1960/39",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 39 Tahun 1960 tentang Penyaluran Militer Wajib Darurat Kedalam Rangka Wajib Militer",
+  "number": "39",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231409,
+  "frbr_uri": "/akn/id/act/perpu/1960/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1960 tentang Penambahan Undang-Undang Darurat Nomor 7 Tahun 1955 (Lembaran-Negara Tahun 1955 Nomor 27) Yang Ditambah Dengan Undang-Undang darurat Nomor 8 Tahun 1958 (Lembaran Negara Tahun 1958 Nomor 156) Tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi",
+  "number": "1",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231405,
+  "frbr_uri": "/akn/id/act/perpu/1960/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1960 tentang Penguasaan Benda-Benda Tetap Milik Perseorangan Warga Negara Belanda",
+  "number": "3",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231349,
+  "frbr_uri": "/akn/id/act/perpu/1960/56",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 56 Tahun 1960 tentang Penetapan Luas Tanah Pertanian",
+  "number": "56",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231387,
+  "frbr_uri": "/akn/id/act/perpu/1960/10",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 10 Tahun 1960 tentang Pejabat Yang Menjalankan Pekerjaan Jabatan Presiden, Jika Presiden Mangkat, Berhenti, Atau Berhalangan, Sedang Wakil Presiden Tidak Ada Atau Berhalangan",
+  "number": "10",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231375,
+  "frbr_uri": "/akn/id/act/perpu/1960/8",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1960 tentang Mengubah Dan Menambah Undang-Undang Tentang Penetapan Anggaran Belanja Dan Sumber-Sumber Pendapatan Republik Indonesia Untuk Tahun dinas 1959",
+  "number": "8",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231378,
+  "frbr_uri": "/akn/id/act/perpu/1960/14",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 14 Tahun 1960 tentang Perubahan Undang-Undang No. 12 Tahun 1951 Tentang Penghapusan Badan hukum Algemene Volkscredietbank",
+  "number": "14",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231390,
+  "frbr_uri": "/akn/id/act/perpu/1960/15",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 15 Tahun 1960 tentang Perubahan Undang-Undang No. 78 Tahun 1958 Tentang Penanaman Modal Asing",
+  "number": "15",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231393,
+  "frbr_uri": "/akn/id/act/perpu/1960/21",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 21 Tahun 1960 tentang Bank Pembangunan Indonesia",
+  "number": "21",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231345,
+  "frbr_uri": "/akn/id/act/perpu/1960/51",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 51 Tahun 1960 tentang Larangan Pemakaian Tanah Tanpa Izin Yang Berhak Atau Kuasanya",
+  "number": "51",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231339,
+  "frbr_uri": "/akn/id/act/perpu/1960/49",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 49 Tahun 1960 tentang Panitya Urusan Piutang Negara",
+  "number": "49",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231372,
+  "frbr_uri": "/akn/id/act/perpu/1960/43",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 43 Tahun 1960 tentang Peleburan Perseroan Terbatas Bank Tani Dan Nelayan",
+  "number": "43",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231363,
+  "frbr_uri": "/akn/id/act/perpu/1960/32",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 32 Tahun 1960 tentang Penggunaan Mata Uang Rupiah Dalam Lalu-Lintas Pembayaran Luar Negeri",
+  "number": "32",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231354,
+  "frbr_uri": "/akn/id/act/perpu/1960/29",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 29 Tahun 1960 tentang Pokok-Pokok Penyelenggaraan Transmigrasi",
+  "number": "29",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231336,
+  "frbr_uri": "/akn/id/act/perpu/1960/48",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 48 Tahun 1960 tentang Pengawasan Pendidikan Dan Pengajaran Asing",
+  "number": "48",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231389,
+  "frbr_uri": "/akn/id/act/perpu/1960/12",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 12 Tahun 1960 tentang Pembubaran Panitya Untuk Menyelesaikan Urusan Pemulihan Hak",
+  "number": "12",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231358,
+  "frbr_uri": "/akn/id/act/perpu/1960/31",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 31 Tahun 1960 tentang Perubahan Dan Tambahan Undang-Undang Darurat No. 3 Tahun 1959 (Lembaran Negara No. 43) Tentang Pinjaman Obligasi Berhadiah Tahun 1959",
+  "number": "31",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231365,
+  "frbr_uri": "/akn/id/act/perpu/1960/38",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 38 Tahun 1960 tentang Penggunaan Dan Penetapan Luas Tanah Untuk Tanaman-Tanaman Tertentu",
+  "number": "38",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231370,
+  "frbr_uri": "/akn/id/act/perpu/1960/40",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 40 Tahun 1960 tentang Perubahan Dan Tambahan Undang-Undang No. 66 Tahun 1958 (Lembaran Negara Tahun 1958 No. 117) Tentang Wajib Militer",
+  "number": "40",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231374,
+  "frbr_uri": "/akn/id/act/perpu/1960/18",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 18 Tahun 1960 tentang Perubahan Jumlah Hukuman Denda Dalam Kitab Undang-Undang Hukum Pidana Dan Dalam Ketentuan-Ketentuan Pidana Lainnya Yang Dikeluarkan Sebelum Tanggal 17 Agustus 1945",
+  "number": "18",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231406,
+  "frbr_uri": "/akn/id/act/perpu/1960/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1960 tentang Perairan Indonesia",
+  "number": "4",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231386,
+  "frbr_uri": "/akn/id/act/perpu/1960/9",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1960 tentang Mengubah dan Menambah Undang-Undang Tentang Penetapan Anggaran Perusahaan-Perusahaan I.B.W Dari Anggaran Republik Indonesia Untuk Tahun Dinas 1959",
+  "number": "9",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231392,
+  "frbr_uri": "/akn/id/act/perpu/1960/24",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 24 Tahun 1960 tentang Pengusutan, Penuntutan, Dan Pemeriksaan Tindak Pidana Korupsi",
+  "number": "24",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231400,
+  "frbr_uri": "/akn/id/act/perpu/1960/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1960 tentang Pergudangan",
+  "number": "2",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231403,
+  "frbr_uri": "/akn/id/act/perpu/1960/6",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1960 tentang Penetapan Anggaran Pendapatan dan Belanja Dari Republik Indonesia Untuk Tahun 1960",
+  "number": "6",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231360,
+  "frbr_uri": "/akn/id/act/perpu/1960/45",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 45 Tahun 1960 tentang Pembentukan Dewan Perusahaan",
+  "number": "45",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231373,
+  "frbr_uri": "/akn/id/act/perpu/1960/44",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 44 Tahun 1960 tentang Pertambangan Minyak Dan Gas Bumi",
+  "number": "44",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231391,
+  "frbr_uri": "/akn/id/act/perpu/1960/22",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 22 Tahun 1960 tentang Perpanjangan Jangka Waktu Berlakunya Peralihan Yang Tersebut Pada Pasal 61 Peraturan Pemerintah Pengganti Undang-Undang No. 23 Tahun 1959 (Lembaran Negara Tahun 1959 No. 139) Tentang Keadaan Bahaya",
+  "number": "22",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231395,
+  "frbr_uri": "/akn/id/act/perpu/1960/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1960 tentang Penghentian Berlakunya Undang-Undang Nomor 17 Tahun 1951 (Lembaran Negara 1951 Nomor 100)",
+  "number": "5",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231382,
+  "frbr_uri": "/akn/id/act/perpu/1960/23",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 23 Tahun 1960 tentang Rahasia Bank",
+  "number": "23",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231337,
+  "frbr_uri": "/akn/id/act/perpu/1960/54",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 54 Tahun 1960 tentang Penarikan Kembali \"Ordonansi Pajak Upah\" (Staatsblad 1934 No. 611) Sebagaimana Telah Diubah Dan Ditambah Terakhir Dengan Peraturan Pemerintah Pengganti Undang-Undang Nomor 24 Tahun 1959",
+  "number": "54",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231340,
+  "frbr_uri": "/akn/id/act/perpu/1960/53",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 53 Tahun 1960 tentang Perubahan dan Tambahan Pajak Deviden",
+  "number": "53",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231342,
+  "frbr_uri": "/akn/id/act/perpu/1960/50",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 50 Tahun 1960 tentang Larangan Organisasi-Organisasi Dan Pengawasan Perusahaan_Perusahaan Orang Asing Tertentu",
+  "number": "50",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231369,
+  "frbr_uri": "/akn/id/act/perpu/1960/47",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 47 Tahun 1960 tentang Pembentukan Daerah Tingkat I Sulawesi Selatan Tenggara Dan Daerah Tingkat I Sulawesi Utara-Tengah",
+  "number": "47",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231353,
+  "frbr_uri": "/akn/id/act/perpu/1960/52",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 52 Tahun 1960 tentang Perubahan Pasal 43 Ayat (5) Peraturan Pemerintah Pengganti Undang-Undang No. 23 Tahun 1959 (Lembaran Negara Tahun 1959) No. 139) Tentang Keadaan Bahaya",
+  "number": "52",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231979,
+  "frbr_uri": "/akn/id/act/perpu/1960/55",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 55 Tahun 1960 tentang Penyempurnaan Ordonansi Pajak Pendapatan 1944",
+  "number": "55",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231371,
+  "frbr_uri": "/akn/id/act/perpu/1960/30",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 30 Tahun 1960 tentang Peleburan Bank Industri Negara Ke Dalam Bank Pembangunan Indonesia",
+  "number": "30",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231359,
+  "frbr_uri": "/akn/id/act/perpu/1960/37",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 37 Tahun 1960 tentang Pertambangan",
+  "number": "37",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231364,
+  "frbr_uri": "/akn/id/act/perpu/1960/33",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 33 Tahun 1960 tentang Perubahan Dan Tambahan Tarif Bea Masuk, Bea Keluar, Bea Statistik, Bea Berat Barang Dan Pajak Masuk (Pajak Penjualan)",
+  "number": "33",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231366,
+  "frbr_uri": "/akn/id/act/perpu/1960/34",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 34 Tahun 1960 tentang Pajak Transfer",
+  "number": "34",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231383,
+  "frbr_uri": "/akn/id/act/perpu/1960/27",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 27 Tahun 1960 tentang Uang Honorarium Juru Sumpah",
+  "number": "27",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231380,
+  "frbr_uri": "/akn/id/act/perpu/1960/20",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 20 Tahun 1960 tentang Kewenangan Perijinan Yang Diberikan Menurut Perundang-Undangan Mengenai Senjata Api",
+  "number": "20",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231381,
+  "frbr_uri": "/akn/id/act/perpu/1960/11",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 11 Tahun 1960 tentang Perubahan Modal Bank Indonesia",
+  "number": "11",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231377,
+  "frbr_uri": "/akn/id/act/perpu/1960/19",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 19 Tahun 1960 tentang Perusahaan Negara",
+  "number": "19",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231396,
+  "frbr_uri": "/akn/id/act/perpu/1960/7",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1960 tentang Penetapan Bagian-bagian Perusahaan Negara Berdasarkan I.B.W., Dari Anggaran Republik Indonesia Untuk Tahun 1960",
+  "number": "7",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231379,
+  "frbr_uri": "/akn/id/act/perpu/1960/25",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 25 Tahun 1960 tentang Perubahan Undang-Undang darurat No. 3 Tahun 1958 (Lembaran Negara 1958 No. 43)",
+  "number": "25",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 485834,
+  "frbr_uri": "/akn/id/act/perppu/1960/22",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 22 Tahun 1960 tentang PERPANJANGAN JANGKA WAKTU BERLAKUNYA PERALIHAN YANG TERSEBUT PADA PASAL 61 PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG NOMOR 23 TAHUN 1959",
+  "number": "22",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 485840,
+  "frbr_uri": "/akn/id/act/perppu/1960/37",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 37 Tahun 1960 tentang PERTAMBANGAN",
+  "number": "37",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 231355,
+  "frbr_uri": "/akn/id/act/perpu/1960/42",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 42 Tahun 1960 tentang Peleburan Bank Rakyat Indonesia Kedalam Bank Koperasi, Tani Dan Nelayan",
+  "number": "42",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 485833,
+  "frbr_uri": "/akn/id/act/perppu/1960/40",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 40 Tahun 1960 tentang PERUBAHAN DAN TAMBAHAN UNDANG-UNDANG NO. 66 TAHUN 1958 (LEMBARAN NEGARA TAHUN 1958 NO. 117) TENTANG WAJIB MILITER",
+  "number": "40",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 231376,
+  "frbr_uri": "/akn/id/act/perpu/1960/16",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 16 Tahun 1960 tentang Beberapa Perubahan Dalam Kitab Undang-Undang Hukum Pidana",
+  "number": "16",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231419,
+  "frbr_uri": "/akn/id/act/perpu/1959/11",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 11 Tahun 1959 tentang Pajak Hasil Bumi",
+  "number": "11",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231424,
+  "frbr_uri": "/akn/id/act/perpu/1959/10",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 10 Tahun 1959 tentang Penambahan Bea Balik Nama",
+  "number": "10",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231421,
+  "frbr_uri": "/akn/id/act/perpu/1959/15",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 15 Tahun 1959 tentang Kenaikan Tarif Cukai Atas Bir Dan Alkohol Sulingan Dan Kenaikan Bea-Masuk Atas Bir",
+  "number": "15",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231407,
+  "frbr_uri": "/akn/id/act/perpu/1959/19",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 19 Tahun 1959 tentang Pengubahan Dan Tambahan Ordonansi Pajak Rumah Tangga 1908",
+  "number": "19",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231422,
+  "frbr_uri": "/akn/id/act/perpu/1959/7",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 7 Tahun 1959 tentang Pengubahan Ordonansi Pajak Kekayaan",
+  "number": "7",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231401,
+  "frbr_uri": "/akn/id/act/perpu/1959/17",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 17 Tahun 1959 tentang Pengubahan Dan Tambahan Ordonansi Pajak Upah (Staatsblad 1934 No. 611)",
+  "number": "17",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231394,
+  "frbr_uri": "/akn/id/act/perpu/1959/23",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 23 Tahun 1959 tentang Pencabutan Undang-Undang NO. 74 Tahun 1957 (Lembaran-Negara NO. 160 Tahun 1957) Dan Penetapan Keadaan Bahaya",
+  "number": "23",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231402,
+  "frbr_uri": "/akn/id/act/perpu/1959/18",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 18 Tahun 1959 tentang Pengubahan Dan Tambahan Aturan Bea Meterai 1921",
+  "number": "18",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231411,
+  "frbr_uri": "/akn/id/act/perpu/1959/21",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 21 Tahun 1959 tentang Memperberat Ancaman Hukuman Terhadap Tindak Pidana Ekonomi",
+  "number": "21",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231423,
+  "frbr_uri": "/akn/id/act/perpu/1959/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1959 tentang Pembekuan Sebagian Dari Simpanan Pada Bank-Bank",
+  "number": "3",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231416,
+  "frbr_uri": "/akn/id/act/perpu/1959/13",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 13 Tahun 1959 tentang Pengubahan Dan Tambahan Ordonansi Pajak Perseroan 1925 (Staatsblad 1925 NO. 319)",
+  "number": "13",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231413,
+  "frbr_uri": "/akn/id/act/perpu/1959/22",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 22 Tahun 1959 tentang Pengubahan Nama \"Medali Sewindu Angkatan Perang Republik Indonesia\" Menjadi \"Bintang Sewindu Angkatan Perang Republik Indonesia\"",
+  "number": "22",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231410,
+  "frbr_uri": "/akn/id/act/perpu/1959/26",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 26 Tahun 1959 tentang Pinjaman Konsolidasi Tahun 1959",
+  "number": "26",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231429,
+  "frbr_uri": "/akn/id/act/perpu/1959/16",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 16 Tahun 1959 tentang Perubahan Dan Tambahan Ordonansi Pajak Pendapatan 1944 (Staatsblad 1944 No. 17)",
+  "number": "16",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 485837,
+  "frbr_uri": "/akn/id/act/perppu/1959/3",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 1959 tentang PEMBEKUAN SEBAGIAN DARI SIMPANAN PADA BANK-BANK",
+  "number": "3",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 231412,
+  "frbr_uri": "/akn/id/act/perpu/1959/27",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 27 Tahun 1959 tentang Bea Balik Nama Kendaraan Bermotor",
+  "number": "27",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 485848,
+  "frbr_uri": "/akn/id/act/perppu/1959/14",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 14 Tahun 1959 tentang Kenaikan Cukai Tembakau",
+  "number": "14",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 485854,
+  "frbr_uri": "/akn/id/act/perppu/1959/25",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 25 Tahun 1959 tentang PENILAIAN PERSEDIAAN UANG EMAS DAN BAHAN UANG EMAS PADA BANK INDONESIA",
+  "number": "25",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": null
+ },
+ {
+  "id": 231397,
+  "frbr_uri": "/akn/id/act/perpu/1959/25",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 25 Tahun 1959 tentang Penilaian Persediaan Uang Emas Dan Bahan Uang Emas Pada Bank Indonesia",
+  "number": "25",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231428,
+  "frbr_uri": "/akn/id/act/perpu/1959/5",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 5 Tahun 1959 tentang Ketentuan Di Bidang Fiskal Mengenai Penurunan Nilai Uang Kertas Rp. 1.000,- DAN Rp. 500,-",
+  "number": "5",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231414,
+  "frbr_uri": "/akn/id/act/perpu/1959/2",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 1959 tentang Penurunan Nilai Uang Kertas Rp. 500,- Dan Rp. 1000,-",
+  "number": "2",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231398,
+  "frbr_uri": "/akn/id/act/perpu/1959/28",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 28 Tahun 1959 tentang Dasar Perhitungan Malayan-Dollar Untuk Melakukan Tarip Pajak-Pajak Negara Di Daerah Kepulauan Riau",
+  "number": "28",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231415,
+  "frbr_uri": "/akn/id/act/perpu/1959/12",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 12 Tahun 1959 tentang Pajak Dividen",
+  "number": "12",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231399,
+  "frbr_uri": "/akn/id/act/perpu/1959/29",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 29 Tahun 1959 tentang Perubahan Masa Pemungutan Pajak Verponding Dan Pajak Bangsa Asing",
+  "number": "29",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231404,
+  "frbr_uri": "/akn/id/act/perpu/1959/24",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 24 Tahun 1959 tentang Perubahan/Tambahan Peraturan-Peraturan Pemerintah Pengganti Undang-Undang NO. 7, 12, 13, 15, 16, 17, 18, 19 Dan 20 Tahun 1959",
+  "number": "24",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231408,
+  "frbr_uri": "/akn/id/act/perpu/1959/20",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 20 Tahun 1959 tentang Pengubahan Dan Tambahan Undang-Undang Pajak Penjualan 1951",
+  "number": "20",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231420,
+  "frbr_uri": "/akn/id/act/perpu/1959/14",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 14 Tahun 1959 tentang Kenaikan Cukai Tembakau",
+  "number": "14",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231425,
+  "frbr_uri": "/akn/id/act/perpu/1959/1",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 1959 tentang Bank Umum Negara",
+  "number": "1",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231417,
+  "frbr_uri": "/akn/id/act/perpu/1959/8",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 8 Tahun 1959 tentang Pengubahan Tarif Pajak Kendaraan Bermotor",
+  "number": "8",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231418,
+  "frbr_uri": "/akn/id/act/perpu/1959/4",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 4 Tahun 1959 tentang Penghapusan Sistem Bukti Ekspor (B.E.)",
+  "number": "4",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231426,
+  "frbr_uri": "/akn/id/act/perpu/1959/9",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 9 Tahun 1959 tentang Pengubahan Tarif Pajak Radio",
+  "number": "9",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231427,
+  "frbr_uri": "/akn/id/act/perpu/1959/6",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 6 Tahun 1959 tentang Pembatasan Waktu Untuk Melaksanakan Hak Menuntut Penukaran Uang Kertas Bank Pecahan-Pecahan Rp. 1.000,- DAN\r\nRp. 500,- Yang Dengan Peraturan Pemerintah Pengganti Undang-Undang No. 2 Tahun 1959 Nilainya Masing-Masing Telah Diturunkan Menjadi Rp. 100,- DAN Rp. 50,-",
+  "number": "6",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 231445,
+  "frbr_uri": "/akn/id/act/perpu/1947/20",
+  "title": "Peraturan Pemerintah Pengganti Undang-Undang Nomor 20 Tahun 1947 tentang Peraturan Promes Negara",
+  "number": "20",
+  "year": 1947,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERPPU",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ }
+]

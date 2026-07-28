@@ -1,0 +1,2850 @@
+[
+ {
+  "id": 750,
+  "frbr_uri": "/akn/id/act/uu/2024/26",
+  "title": "Undang-Undang Darurat Nomor 26 Tahun 2024 tentang Undang-Undang Nomor 26 Tahun 2024",
+  "number": "26",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 699,
+  "frbr_uri": "/akn/id/act/uu/2024/28",
+  "title": "Undang-Undang Darurat Nomor 28 Tahun 2024 tentang Undang-Undang Nomor 28 Tahun 2024",
+  "number": "28",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 310,
+  "frbr_uri": "/akn/id/act/uu/2024/15",
+  "title": "Undang-Undang Darurat Nomor 15 Tahun 2024 tentang Undang-Undang Nomor 15 Tahun 2024",
+  "number": "15",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 483,
+  "frbr_uri": "/akn/id/act/uu/2024/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 2024 tentang Undang-Undang Nomor 7 Tahun 2024",
+  "number": "7",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 759,
+  "frbr_uri": "/akn/id/act/uu/2024/23",
+  "title": "Undang-Undang Darurat Nomor 23 Tahun 2024 tentang Undang-Undang Nomor 23 Tahun 2024",
+  "number": "23",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 704,
+  "frbr_uri": "/akn/id/act/uu/2024/24",
+  "title": "Undang-Undang Darurat Nomor 24 Tahun 2024 tentang KABUPATEN TAPANULI SELATAN DI PROVINSI SUMATERA UTARA",
+  "number": "24",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233694,
+  "frbr_uri": "/akn/id/act/uudrt/1959/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1959 tentang Badan Perusahaan Produksi Bahan Makanan dan Pembukaan Tanah",
+  "number": "1",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233692,
+  "frbr_uri": "/akn/id/act/uudrt/1959/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1959 tentang Pemberian Tanda Kehormatan Bintang Garuda",
+  "number": "2",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233714,
+  "frbr_uri": "/akn/id/act/uudrt/1959/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1959 tentang Pembentukan Pengadilan Tinggi Di Jawa Tengah Di Semarang dan Perubahan Wilayah Hukum Pengadilan Tinggi Di Surabaya Dan Makassar",
+  "number": "7",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233695,
+  "frbr_uri": "/akn/id/act/uudrt/1959/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1959 tentang Tanda Kehormatan Bintang Republik Indonesia",
+  "number": "5",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233701,
+  "frbr_uri": "/akn/id/act/uudrt/1959/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1959 tentang Pengeluaran Pinjaman Obligasi Berhadiah Tahun 1959",
+  "number": "3",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233706,
+  "frbr_uri": "/akn/id/act/uudrt/1959/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1959 tentang Ketentuan-Ketentuan Umum Mengenai Tanda-Tanda  Kehormatan",
+  "number": "4",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233702,
+  "frbr_uri": "/akn/id/act/uudrt/1959/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1959 tentang Tanda Kehormatan Bintang Mahaputera",
+  "number": "6",
+  "year": 1959,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25016,
+  "frbr_uri": "/akn/id/act/uudrt/1958/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1958 tentang Tanda-Tanda Penghargaan untuk Anggota Angkatan Perang",
+  "number": "2",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24986,
+  "frbr_uri": "/akn/id/act/uudrt/1958/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1958 tentang Penggantian Peraturan tentang Bintang Gerilya Sebagai Termaksud Dalam Peraturan Pemerintah No. 8 Tahun 1949",
+  "number": "7",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24983,
+  "frbr_uri": "/akn/id/act/uudrt/1958/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1958 tentang Perubahan Dan Tambahan Undang-Undang No. 65 Tahun 1958 tentang Pemberian Tanda-Tanda Kehormatan Bintang Sakti dan Bintang Darma (Lembaran-Negara 1958 No. 116)",
+  "number": "6",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25035,
+  "frbr_uri": "/akn/id/act/uudrt/1958/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1958 tentang Kedudukan Hukum Apotek Darurat",
+  "number": "5",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24992,
+  "frbr_uri": "/akn/id/act/uudrt/1958/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1958 tentang Urusan Perumahan",
+  "number": "3",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25043,
+  "frbr_uri": "/akn/id/act/uudrt/1958/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1958 tentang Pengubahan \"Undang-Undang Mata Uang Tahun 1953\" (Undang- Undang No. 27 Tahun 1953, Lembaran-Negara Tahun 1953 No. 77)",
+  "number": "4",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24997,
+  "frbr_uri": "/akn/id/act/uudrt/1958/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1958 tentang Penambahan Undang-Undang Darurat No. 7 Tahun 1955 (Lembaran-Negara Tahun 1955 No. 27) tentang Pengusutan, Penuntutan Dan Peradilan Tindak Pidana Ekonomi",
+  "number": "8",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10254,
+  "frbr_uri": "/akn/id/act/uudrt/1958/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1958 tentang Hukum Acara Pidana Pada Pengadilan Ketentaraan",
+  "number": "1",
+  "year": 1958,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25001,
+  "frbr_uri": "/akn/id/act/uudrt/1957/20",
+  "title": "Undang-Undang Darurat Nomor 20 Tahun 1957 tentang Perubahan Undang-Undang Pembentukan Daerah Otonom Propinsi Irian Barat",
+  "number": "20",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10082,
+  "frbr_uri": "/akn/id/act/uudrt/1957/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1957 tentang Pembubaran Daerah Makassar dan Pembentukan Daerah Gowa, Daerah Makassar dan Daerah Jeneponto-Takalar",
+  "number": "2",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10250,
+  "frbr_uri": "/akn/id/act/uudrt/1957/21",
+  "title": "Undang-Undang Darurat Nomor 21 Tahun 1957 tentang Perubahan Undang-Undang No. 12 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Tengah",
+  "number": "21",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10125,
+  "frbr_uri": "/akn/id/act/uudrt/1957/22",
+  "title": "Undang-Undang Darurat Nomor 22 Tahun 1957 tentang Pembentukan Daerah Swatantra Tingkat Ke I Maluku",
+  "number": "22",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25036,
+  "frbr_uri": "/akn/id/act/uudrt/1957/13",
+  "title": "Undang-Undang Darurat Nomor 13 Tahun 1957 tentang Menambah Undang-Undang No. 21 Tahun 1952 (Lembaran-Negara\r\nNo.78 Tahun 1952) tentang Menetapkan Undang-Undang Darurat Tentang Hak Pengangkatan dan Pengubahan Pegawai Negeri Republik Indonesia Serikat (Undang-Undang No.25 dan 34 Tahun 1950, Lembaran-Negara No. 41 dan 74 Tahun 1950) Sebagai Undang-Undang Republik Indonesia",
+  "number": "13",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24985,
+  "frbr_uri": "/akn/id/act/uudrt/1957/17",
+  "title": "Undang-Undang Darurat Nomor 17 Tahun 1957 tentang Kenaikan Tarip Cukai Atas Bir, Gula, Saccharin dan Sebagainya, dan Kenaikan Bea Masuk Atas Bir",
+  "number": "17",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10041,
+  "frbr_uri": "/akn/id/act/uudrt/1957/24",
+  "title": "Undang-Undang Darurat Nomor 24 Tahun 1957 tentang Mengubah Undang-Undang Darurat No. 15 Tahun 1957 (Lembaran-Negara 1957 No. 62) tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Konstituante",
+  "number": "24",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25044,
+  "frbr_uri": "/akn/id/act/uudrt/1957/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1957 tentang Pembubaran Daerah Bone dan Pembentukan Daerah Bone, Daerah Wajo dan Daerah Soppeng",
+  "number": "4",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25052,
+  "frbr_uri": "/akn/id/act/uudrt/1957/19",
+  "title": "Undang-Undang Darurat Nomor 19 Tahun 1957 tentang Pembentukan Daerah-Daerah Tingkat I Sumatera Barat, Jambi dan Riau",
+  "number": "19",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10256,
+  "frbr_uri": "/akn/id/act/uudrt/1957/16",
+  "title": "Undang-Undang Darurat Nomor 16 Tahun 1957 tentang Pajak Bangsa Asing Tahun 1957",
+  "number": "16",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25027,
+  "frbr_uri": "/akn/id/act/uudrt/1957/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1957 tentang Perubahan Undang-Undang Tentang Pokok-Pokok Pemerintahan Daerah 1956",
+  "number": "6",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10212,
+  "frbr_uri": "/akn/id/act/uudrt/1957/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1957 tentang Perpanjangan Jangka Waktu Masa Kerja Dewan Perwakilan Rakyat Daerah Peralihan Dan Dewan Pemerintah Daerah Peralihan",
+  "number": "9",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10205,
+  "frbr_uri": "/akn/id/act/uudrt/1957/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1957 tentang Dewan Nasional",
+  "number": "7",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24996,
+  "frbr_uri": "/akn/id/act/uudrt/1957/12",
+  "title": "Undang-Undang Darurat Nomor 12 Tahun 1957 tentang Peraturan Umum Retribusi Daerah",
+  "number": "12",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10170,
+  "frbr_uri": "/akn/id/act/uudrt/1957/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1957 tentang PEMBUBARAN DAERAH LUWU DAN PEMBENTUKAN DAERAH TANA TORAJA DAN DAERAH LUWU",
+  "number": "3",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10200,
+  "frbr_uri": "/akn/id/act/uudrt/1957/23",
+  "title": "Undang-Undang Darurat Nomor 23 Tahun 1957 tentang Pembentukan Daerah-Daerah Swatantra Tingkat Ke II Dalam Wilayah Daerah Swatantra Tingkat Ke I Maluku",
+  "number": "23",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25028,
+  "frbr_uri": "/akn/id/act/uudrt/1957/15",
+  "title": "Undang-Undang Darurat Nomor 15 Tahun 1957 tentang Kedudukan Keuangan Ketua, Wakil Ketua dan Anggota Konstituante",
+  "number": "15",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233776,
+  "frbr_uri": "/akn/id/act/uudrt/1957/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1957 tentang PERUBAHAN JUMLAH MAKSIMUM ANGGOTA DEWAN PEMUDA PERALIHAN YANG DIMAKSUD DALAM PASAL 5 UNDANG-UNDANG NOMOR 14 TAHUN 1956 TENTANG PEMBENTUKAN DEWAN PERWAKILAN RAKYAT DAERAH DAN DEWAN PEMERINTAH DAERAH PERALIHAN",
+  "number": "1",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25047,
+  "frbr_uri": "/akn/id/act/uudrt/1957/26",
+  "title": "Undang-Undang Darurat Nomor 26 Tahun 1957 tentang Anggota Angkatan Perang Berdasarkan Ikatan Dinas Sukarela (Militer Sukarela)",
+  "number": "26",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10237,
+  "frbr_uri": "/akn/id/act/uudrt/1957/11",
+  "title": "Undang-Undang Darurat Nomor 11 Tahun 1957 tentang Peraturan Umum Pajak Daerah",
+  "number": "11",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10142,
+  "frbr_uri": "/akn/id/act/uudrt/1957/14",
+  "title": "Undang-Undang Darurat Nomor 14 Tahun 1957 tentang Penetapan Untuk Pembebasan Bank Indonesia Dari Kewajiban Yang Dimaksud Dalam Pasal 16 Ayat 1 Undang-Undang Pokok Bank Indonesia 1953 Selama 6 Bulan Setelah Berakhirnya Keputusan Dewan Moneter Tanggal 2 Pebruari 1957 No. 23 (Tambahan Lembaran-Negara No. 1158, Berita Negara Tanggal 22 Pebruari 1957 No. 16 Tahun 1957) yang Diadakan Berdasarkan Pasal 16 Ayat 3 Undang-Undang Pokok Bank Indonesia 1953 (Undang-Undang No. 11 Tahun 1953 Lembaran-Negara No. 40 Tahun 1953)",
+  "number": "14",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25008,
+  "frbr_uri": "/akn/id/act/uudrt/1957/18",
+  "title": "Undang-Undang Darurat Nomor 18 Tahun 1957 tentang Bank Tani dan Nelayan",
+  "number": "18",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25010,
+  "frbr_uri": "/akn/id/act/uudrt/1957/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1957 tentang Penetapan Jumlah Anggota Dewan Perwakilan Rakyat Daerah Kotapraja Jakarta Raya",
+  "number": "8",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10159,
+  "frbr_uri": "/akn/id/act/uudrt/1957/25",
+  "title": "Undang-Undang Darurat Nomor 25 Tahun 1957 tentang Penghapusan Monopoli Garam dan Pembikinan Garam Rakyat",
+  "number": "25",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10151,
+  "frbr_uri": "/akn/id/act/uudrt/1957/27",
+  "title": "Undang-Undang Darurat Nomor 27 Tahun 1957 tentang Penagihan Pajak Negara Dengan Surat-Paksa",
+  "number": "27",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10132,
+  "frbr_uri": "/akn/id/act/uudrt/1957/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1957 tentang Pengubahan Kedudukan Wilayah Daerah-Daerah Enclave Imogiri, Kota Gede dan Ngawen",
+  "number": "5",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10135,
+  "frbr_uri": "/akn/id/act/uudrt/1957/10",
+  "title": "Undang-Undang Darurat Nomor 10 Tahun 1957 tentang Pembentukan Daerah Swatantra Propinsi Kalimantan Tengah dan Pengubahan Undang-undang No.25 Tahun 1956",
+  "number": "10",
+  "year": 1957,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233747,
+  "frbr_uri": "/akn/id/act/uudrt/1956/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1956 tentang Pembentukan Daerah Otonom Kota Kecil Dalam Lingkungan Daerah Propinsi Sumatera Selatan",
+  "number": "6",
+  "year": 1956,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25022,
+  "frbr_uri": "/akn/id/act/uudrt/1956/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1956 tentang Pembentukan Daerah Otonom Kota Besar Dalam Lingkungan Daerah Propinsi Sumatera Selatan",
+  "number": "5",
+  "year": 1956,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10112,
+  "frbr_uri": "/akn/id/act/uudrt/1956/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1956 tentang Perubahan dan Tambahan Undang-undang Darurat No. 8 Tahun 1954 Tentang Penyelesaian Soal Pemakaian Tanah Perkebunan Oleh Rakyat",
+  "number": "1",
+  "year": 1956,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25014,
+  "frbr_uri": "/akn/id/act/uudrt/1956/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kota Kecil Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+  "number": "9",
+  "year": 1956,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25024,
+  "frbr_uri": "/akn/id/act/uudrt/1956/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1956 tentang Pembentukan Daerah Otonom Kota-Kota Besar, Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+  "number": "8",
+  "year": 1956,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25042,
+  "frbr_uri": "/akn/id/act/uudrt/1956/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten-Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Utara",
+  "number": "7",
+  "year": 1956,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25005,
+  "frbr_uri": "/akn/id/act/uudrt/1956/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1956 tentang Pembentukan Daerah Otonom Kabupaten Kabupaten Dalam Lingkungan Daerah Propinsi Sumatera Selatan",
+  "number": "4",
+  "year": 1956,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10164,
+  "frbr_uri": "/akn/id/act/uudrt/1955/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1955 tentang Pengubahan Dan Tambahan Pasal 4 Undang-Undang No. 18 Tahun 1953 (Lembaran-Negara No. 48 Tahun 1953)",
+  "number": "6",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10100,
+  "frbr_uri": "/akn/id/act/uudrt/1955/12",
+  "title": "Undang-Undang Darurat Nomor 12 Tahun 1955 tentang Perobahan Pasal 4 Ayat 1 Undang-undang No. 12 Tahun 1953 (lembaran-negara No.42 Tahun 1953)",
+  "number": "12",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25041,
+  "frbr_uri": "/akn/id/act/uudrt/1955/11",
+  "title": "Undang-Undang Darurat Nomor 11 Tahun 1955 tentang Pengubahan Undang-Undang Darurat Nomor 1 Tahun 1951 (Lembaran-Negara Nomor 9 Tahun 1951) Tentang Tindakan-Tindakan Sementara Untuk Menyelenggarakan Kesatuan Susunan, Kekuasaan Dan Acara Pengadilan-Pengadilan Sipil",
+  "number": "11",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10107,
+  "frbr_uri": "/akn/id/act/uudrt/1955/10",
+  "title": "Undang-Undang Darurat Nomor 10 Tahun 1955 tentang Pemungutan Sumbangan Dari Pabrikan-Pabrikan Rokok Bagi \"Badan Urusan Tembakau\"",
+  "number": "10",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25050,
+  "frbr_uri": "/akn/id/act/uudrt/1955/13",
+  "title": "Undang-Undang Darurat Nomor 13 Tahun 1955 tentang Pencabutan Dan Penggantian Undang-Undang No. 14 Tahun 1953 (Lembaran-Negara 1953 No. 44)",
+  "number": "13",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25007,
+  "frbr_uri": "/akn/id/act/uudrt/1955/15",
+  "title": "Undang-Undang Darurat Nomor 15 Tahun 1955 tentang Menghentikan Berlakunya Undang-Undang Darurat No. 5 Tahun 1955 tentang Mengadakan Opsenten Atas Cukai Bensin (Lembaran Negara Tahun 1955 No. 24).",
+  "number": "15",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25032,
+  "frbr_uri": "/akn/id/act/uudrt/1955/16",
+  "title": "Undang-Undang Darurat Nomor 16 Tahun 1955 tentang Pengubahan Peraturan Pemerintah Pengganti Undang-Undang Tentang Pembentukan Daerah-Daerah Otonom Propinsi Di Sumatera",
+  "number": "16",
+  "year": 1955,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25058,
+  "frbr_uri": "/akn/id/act/uudrt/1955/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1955 tentang Bank Negara Indonesia",
+  "number": "2",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25054,
+  "frbr_uri": "/akn/id/act/uudrt/1955/17",
+  "title": "Undang-Undang Darurat Nomor 17 Tahun 1955 tentang Perpanjangan Jangka Waktu Berlakunya Peraturan-Peraturan Yang Dimaksud Dalam Pasal 6 Undang-Undang Pembentukan Daerah-Daerah Otonom Propinsi Di Jawa",
+  "number": "17",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10193,
+  "frbr_uri": "/akn/id/act/uudrt/1955/19",
+  "title": "Undang-Undang Darurat Nomor 19 Tahun 1955 tentang Penjualan Rumah-Rumah Negeri Kepada Pegawai Negeri",
+  "number": "19",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10227,
+  "frbr_uri": "/akn/id/act/uudrt/1955/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1955 tentang Kependudukan Orang Asing",
+  "number": "9",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10266,
+  "frbr_uri": "/akn/id/act/uudrt/1955/20",
+  "title": "Undang-Undang Darurat Nomor 20 Tahun 1955 tentang Peraturan Sementara Mengenai Kedudukan Anggota Angkatan Perang dalam Dinas Ketentaraan Sesudah Akhir Tahun 1955",
+  "number": "20",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10047,
+  "frbr_uri": "/akn/id/act/uudrt/1955/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1955 tentang Penunjukan Pelabuhan Palembang Menjadi Perusahaan Negara Dalam Arti \"Indische Bedrijvenwet\" (Staatsblad 1927 No. 419)",
+  "number": "3",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10184,
+  "frbr_uri": "/akn/id/act/uudrt/1955/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1955 tentang Pengusutan, Penuntutan dan Peradilan Tindak Pidana Ekonomi",
+  "number": "7",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10054,
+  "frbr_uri": "/akn/id/act/uudrt/1955/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1955 tentang Penyaluran Kredit Guna Pembangunan Perindustrian Dalam Sektor Partikelir",
+  "number": "1",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10231,
+  "frbr_uri": "/akn/id/act/uudrt/1955/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1955 tentang Larangan untuk Mengumpulkan Uang Logam yang Sah dan Memperhitungkan Agio Pada Waktu Penukaran Alat-alat Pembayaran yang Sah",
+  "number": "4",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10221,
+  "frbr_uri": "/akn/id/act/uudrt/1955/18",
+  "title": "Undang-Undang Darurat Nomor 18 Tahun 1955 tentang Perubahan Jumlah Anggota Panitia Pemilihan Indonesia, Panitia Pemilihan Dan Panitia Pemilihan Kabupaten",
+  "number": "18",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10148,
+  "frbr_uri": "/akn/id/act/uudrt/1955/14",
+  "title": "Undang-Undang Darurat Nomor 14 Tahun 1955 tentang Penunjukan Bagian Pembikinan Sera Dan Vaksin Daripada Lembaga Pasteur Di Bandung Menjadi Perusahaan Negara Dalam Arti \"Indische Bedrijvenwet\" (Staatsblad 1927 No. 419)",
+  "number": "14",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 24994,
+  "frbr_uri": "/akn/id/act/uudrt/1955/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1955 tentang Tindak Pidana Imigrasi",
+  "number": "8",
+  "year": 1955,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10077,
+  "frbr_uri": "/akn/id/act/uudrt/1955/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1955 tentang Mengadakan Opsenten Atas Cukai Bensin",
+  "number": "5",
+  "year": 1955,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25012,
+  "frbr_uri": "/akn/id/act/uudrt/1954/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1954 tentang Mempersatukan Opsenten yang Berlaku dalam Tahun 1953, atas Cukai dari Beberapa Jenis Barang dalam Pokoknya Kenaikan Jumlah Cukai atas Alkohol Sulingan Dalam Negeri dan Bir dan Kenaikan Bea Masuk atas Bir",
+  "number": "1",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25061,
+  "frbr_uri": "/akn/id/act/uudrt/1954/11",
+  "title": "Undang-Undang Darurat Nomor 11 Tahun 1954 tentang Amnesti dan Abolisi",
+  "number": "11",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10067,
+  "frbr_uri": "/akn/id/act/uudrt/1954/12",
+  "title": "Undang-Undang Darurat Nomor 12 Tahun 1954 tentang Pengubahan \"Krosok-Ordonnantie 1937\" (Lembaran-Negara Tahun 1937 No. 604)",
+  "number": "12",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10037,
+  "frbr_uri": "/akn/id/act/uudrt/1954/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1954 tentang Pemungutan Tambahan Pembayaran atas Pengiriman Uang ke Luar Negeri",
+  "number": "5",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10189,
+  "frbr_uri": "/akn/id/act/uudrt/1954/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1954 tentang Mengubah Undang-Undang Darurat No. 19 Tahun 1950 (Lembaran Negara Tahun 1950 No. 28), tentang Peraturan Pemberian Pensiun dan Onderstand kepada Para Anggota Tentara Angkatan Darat",
+  "number": "6",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25069,
+  "frbr_uri": "/akn/id/act/uudrt/1954/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1954 tentang Dasar Hukum Keputusan Kepala Daerah Otonom dalam Keadaan Dewan Perwakilan Rakyat Daerah/Dewan Pemerintah Daerah Tidak Ada atau Tidak Dapat Menjalankan Tugas Kewajibannya",
+  "number": "7",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25004,
+  "frbr_uri": "/akn/id/act/uudrt/1954/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1954 tentang Mencabut Sifat Sebagai Alat Pembayaran yang Sah dari Uang Kertas Pemerintah yang Dikeluarkan Sebelum Penyerahan Kedaulatan",
+  "number": "2",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25067,
+  "frbr_uri": "/akn/id/act/uudrt/1954/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1954 tentang Mengubah \"Indonesische Comptabiliteitswet\" (Staatsblad 1925 No. 448) dan \"Indonesische Bedrijvenwet\" (Staatsblad 1927 No. 419)",
+  "number": "3",
+  "year": 1954,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25064,
+  "frbr_uri": "/akn/id/act/uudrt/1954/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1954 tentang Guna Menetapkan Waktu Berlakunya Aturan Hukuman yang Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad Indonesia 1948 No. 141) Untuk Selanjutnya",
+  "number": "4",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25018,
+  "frbr_uri": "/akn/id/act/uudrt/1954/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1954 tentang Penyelesaian Soal Pemakaian Tanah Perkebunan oleh Rakyat",
+  "number": "8",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25026,
+  "frbr_uri": "/akn/id/act/uudrt/1954/10",
+  "title": "Undang-Undang Darurat Nomor 10 Tahun 1954 tentang Nasionalisasi Bataviasche Verkeers Maatschappj (b.v.m.) Nv",
+  "number": "10",
+  "year": 1954,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25068,
+  "frbr_uri": "/akn/id/act/uudrt/1953/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1953 tentang Menaikkan Jumlah Maksimum Porto dan Bea",
+  "number": "5",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25040,
+  "frbr_uri": "/akn/id/act/uudrt/1953/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1953 tentang PEMBENTUKAN (RESMI) DAERAH OTONOM KABUPATEN/DAERAH ISTIMEWA TINGKAT KABUPATEN DAN KOTA BESAR DALAM LINGKUNGAN PROPINSI KALIMANTAN",
+  "number": "3",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25056,
+  "frbr_uri": "/akn/id/act/uudrt/1953/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1953 tentang Memungut Opsenten atas Bea-Masuk",
+  "number": "1",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25046,
+  "frbr_uri": "/akn/id/act/uudrt/1953/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1953 tentang Pengawasan Orang Asing",
+  "number": "9",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10120,
+  "frbr_uri": "/akn/id/act/uudrt/1953/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1953 tentang Memperpanjang Waktu Berlakunya Peraturan-Peraturan Militer Militer Termaksud dalam Pasal 34 Ayat 5 Staatsblad 1939 Nomor 582, Sebagaimana Telah Diubah dan/atau Ditambah Kemudian Sepanjang Mengenai Urusan Perumahan",
+  "number": "8",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25049,
+  "frbr_uri": "/akn/id/act/uudrt/1953/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1953 tentang PEMBENTUKAN DAERAH OTONOM PROPINSI KALIMANTAN",
+  "number": "2",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25060,
+  "frbr_uri": "/akn/id/act/uudrt/1953/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1953 tentang Ancaman Hukuman Terhadap Pembelian, Penerimaan, Penyerahan, Penguasaan, Kepunyaan Persediaan Pengangkutan Kawat Tembaga Tanpa Izin",
+  "number": "7",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25066,
+  "frbr_uri": "/akn/id/act/uudrt/1953/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1953 tentang Penetapan Tambahan Opsenten atas Cukai Bensin dan Sebagainya Selama Tahun 1953",
+  "number": "4",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25020,
+  "frbr_uri": "/akn/id/act/uudrt/1953/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1953 tentang Memperpanjang Waktu Berlakunya Aturan Hukuman Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad untuk Indonesia 1948 Nomor 141)",
+  "number": "6",
+  "year": 1953,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10059,
+  "frbr_uri": "/akn/id/act/uudrt/1952/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1952 tentang Pemindahan dan Pemakaian Tanah-Tanah dan Barang-Barang Tetap yang Lainnya yang Mempunyai Titel Menurut Hukum Eropa",
+  "number": "1",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233800,
+  "frbr_uri": "/akn/id/act/uudrt/1952/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1952 tentang Memberi Ketentuan Kedudukan Hukum kepada Bank Industri Negara",
+  "number": "5",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233784,
+  "frbr_uri": "/akn/id/act/uudrt/1952/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1952 tentang Kewajiban Penggilingan Padi dan Perdagangan Bahan Makanan",
+  "number": "7",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233799,
+  "frbr_uri": "/akn/id/act/uudrt/1952/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1952 tentang Pungutan Tambahan Pokok Pajak Mengenai Pajak Kekayaan untuk Tahun 1952",
+  "number": "6",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10249,
+  "frbr_uri": "/akn/id/act/uudrt/1952/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1952 tentang Tambahan Pokok Bea atas Bea-Bea Masuk Selama Tahun 1952",
+  "number": "4",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10197,
+  "frbr_uri": "/akn/id/act/uudrt/1952/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1952 tentang Mengadakan Bea-Keluar-Tambahan-Sementara atas Beberapa Barang",
+  "number": "3",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233804,
+  "frbr_uri": "/akn/id/act/uudrt/1952/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1952 tentang Menambah dan Mengubah Undang-Undang Pelabuhan-Berat-Barang (Goederengeld Ordonnantie) Beserta Peraturan Uang-Berat-Barang (Algemeen Goederengeld Reglement)",
+  "number": "8",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25037,
+  "frbr_uri": "/akn/id/act/uudrt/1952/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1952 tentang Kenaikan Tarip Pengenaan Pajak Perseroan Untuk Tahun Dinas 1952",
+  "number": "2",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233797,
+  "frbr_uri": "/akn/id/act/uudrt/1952/13",
+  "title": "Undang-Undang Darurat Nomor 13 Tahun 1952 tentang Larangan untuk Mempergunakan dan Memasukkan dalam Peredaran Uang Perak yang Dikeluarkan Berdasarkan \"Indische Muntwet 1912\"",
+  "number": "13",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233798,
+  "frbr_uri": "/akn/id/act/uudrt/1952/12",
+  "title": "Undang-Undang Darurat Nomor 12 Tahun 1952 tentang Kewajiban Anggota Angkatan Perang untuk Tetap Dinas Ketentaraan",
+  "number": "12",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233789,
+  "frbr_uri": "/akn/id/act/uudrt/1952/14",
+  "title": "Undang-Undang Darurat Nomor 14 Tahun 1952 tentang Perubahan dan Penambahan Peraturan Pemungutan Pajak Peralihan, Pajak Upah dan Pajak Kekayaan",
+  "number": "14",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233802,
+  "frbr_uri": "/akn/id/act/uudrt/1952/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1952 tentang Penyelesaian Hutang Negara di Zaman Pergolakan",
+  "number": "9",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233792,
+  "frbr_uri": "/akn/id/act/uudrt/1952/11",
+  "title": "Undang-Undang Darurat Nomor 11 Tahun 1952 tentang Pengubahan dan Penambahan dari \"Ordonnantie Op De Vennootschapbelasting 1952\", yang Memberikan Pula Aturan Kelengkapan Lebih Lanjut Mengenai Pungutan Ini",
+  "number": "11",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233805,
+  "frbr_uri": "/akn/id/act/uudrt/1952/15",
+  "title": "Undang-Undang Darurat Nomor 15 Tahun 1952 tentang Pemungutan Pajak Verponding untuk Tahun-Tahun 1953 dan Berikutnya",
+  "number": "15",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233795,
+  "frbr_uri": "/akn/id/act/uudrt/1952/10",
+  "title": "Undang-Undang Darurat Nomor 10 Tahun 1952 tentang Perubahan Mengenai Mulai Berlakunya Undang-Undang Darurat tentang Penetapan Berlakunya Undang-Undang Darurat Nr 11 Tahun 1950 untuk Para Anggota Tentara Angkatan Laut dan Angkatan Udara. (Lembaran-Negara Nr 76 Tahun 1951)",
+  "number": "10",
+  "year": 1952,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233861,
+  "frbr_uri": "/akn/id/act/uudrt/1951/11",
+  "title": "Undang-Undang Darurat Nomor 11 Tahun 1951 tentang Penetapan Berlakunya Undang-Undang Darurat Nr. 19 Tahun 1950, Mengenai Pemberian Pensiun dan Onderstand kepada Anggauta Angkatan Laut dan Angkatan Udara",
+  "number": "11",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233867,
+  "frbr_uri": "/akn/id/act/uudrt/1951/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1951 tentang Perubahan Reglement A yang Dilampirkan pada Rechtordonnantie (Staatsblad 1931 No. 471)",
+  "number": "8",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233851,
+  "frbr_uri": "/akn/id/act/uudrt/1951/13",
+  "title": "Undang-Undang Darurat Nomor 13 Tahun 1951 tentang Bursa",
+  "number": "13",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233864,
+  "frbr_uri": "/akn/id/act/uudrt/1951/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1951 tentang Memperpanjang Waktu Berlakunya Aturan Hukum Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad 1948 No. 141)",
+  "number": "7",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233853,
+  "frbr_uri": "/akn/id/act/uudrt/1951/10",
+  "title": "Undang-Undang Darurat Nomor 10 Tahun 1951 tentang Pencabutan Kembali Gaji Militer Tahun 1950",
+  "number": "10",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233856,
+  "frbr_uri": "/akn/id/act/uudrt/1951/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1951 tentang Memperpanjang Berlakunya Opcenten atas Beberapa Macam Cukai",
+  "number": "9",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233860,
+  "frbr_uri": "/akn/id/act/uudrt/1951/12",
+  "title": "Undang-Undang Darurat Nomor 12 Tahun 1951 tentang Mengubah \"Ordonnantie Tijdelijke Bijzondere Strafbepalingen\" (Stbl. 1948 No.17) dan Undang-Undang R.I. Dahulu Nr 8 Tahun 1948",
+  "number": "12",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233863,
+  "frbr_uri": "/akn/id/act/uudrt/1951/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1951 tentang Mengubah \"Grondhuur-Ordonnantie\" (S. 1918 No. 88) dan \"Vorstenlandsch Grondhuurreglement\" (S. 1918 No. 20)",
+  "number": "6",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25062,
+  "frbr_uri": "/akn/id/act/uudrt/1951/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1951 tentang Menaikkan Jumlah Maksimum Porto dan Bea",
+  "number": "3",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233855,
+  "frbr_uri": "/akn/id/act/uudrt/1951/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1951 tentang Tambahan Undang-Undang Darurat Nr. 37 Tahun 1950, Mengenai Perubahan Ordonansi Pajak Peralihan 1944, Ordonansi Pajak Upah dan Ordonansi Pajak Kekayaan 1932",
+  "number": "5",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25070,
+  "frbr_uri": "/akn/id/act/uudrt/1951/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1951 tentang Tindakan-Tindakan Sementara untuk Menyelenggarakan Kesatuan Susunan Kekuasaan dan Acara Pengadilan-Pengadilan Sipil",
+  "number": "1",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25071,
+  "frbr_uri": "/akn/id/act/uudrt/1951/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1951 tentang Perubahan \"Rechtenordonnantie\" (Staatsblad 1882 No. 240 Jo. Staatsblad 1931 No. 47)",
+  "number": "2",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233859,
+  "frbr_uri": "/akn/id/act/uudrt/1951/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1951 tentang Pengubah dan Menambah Peraturan dalam Staatsblad 1916 No. 47, Mengenai Idzin Masuk dan Idzin Tinggal untuk Bangsa Asing ke/di Indonesia",
+  "number": "4",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233845,
+  "frbr_uri": "/akn/id/act/uudrt/1951/22",
+  "title": "Undang-Undang Darurat Nomor 22 Tahun 1951 tentang Memperpanjang Waktu Masih Terbukanya Dinas Tahun Anggaran 1950",
+  "number": "22",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233872,
+  "frbr_uri": "/akn/id/act/uudrt/1951/14",
+  "title": "Undang-Undang Darurat Nomor 14 Tahun 1951 tentang Pemungutan Pajak Verponding atas Tahun 1951",
+  "number": "14",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233858,
+  "frbr_uri": "/akn/id/act/uudrt/1951/17",
+  "title": "Undang-Undang Darurat Nomor 17 Tahun 1951 tentang Penimbunan Barang-barang",
+  "number": "17",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233870,
+  "frbr_uri": "/akn/id/act/uudrt/1951/16",
+  "title": "Undang-Undang Darurat Nomor 16 Tahun 1951 tentang Penyelesaian Perselisihan Perburuhan",
+  "number": "16",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233849,
+  "frbr_uri": "/akn/id/act/uudrt/1951/23",
+  "title": "Undang-Undang Darurat Nomor 23 Tahun 1951 tentang Perubahan dan Penambahan Ordonansi Pajak Peralihan Tahun 1944",
+  "number": "23",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233869,
+  "frbr_uri": "/akn/id/act/uudrt/1951/19",
+  "title": "Undang-Undang Darurat Nomor 19 Tahun 1951 tentang Pemungutan Pajak Penjualan",
+  "number": "19",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233852,
+  "frbr_uri": "/akn/id/act/uudrt/1951/20",
+  "title": "Undang-Undang Darurat Nomor 20 Tahun 1951 tentang Penghentian Berlakunya \"Indische Muntwet 1912\" dan Menetapan Peraturan Baru tentang Mata Uang",
+  "number": "20",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233866,
+  "frbr_uri": "/akn/id/act/uudrt/1951/15",
+  "title": "Undang-Undang Darurat Nomor 15 Tahun 1951 tentang Penilaian dari Bagian-Bagian Pendapatan dan Kekayaan, Baik yang Diperoleh Maupun yang Berada dalam Uang Asing, Untuk Pemungutan Pajak Peralihan, Pajak Upah, Pajak Perseroan dan Pajak Kekayaan dan Tentang Perubahan Pajak Peralihan 1944",
+  "number": "15",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233862,
+  "frbr_uri": "/akn/id/act/uudrt/1951/21",
+  "title": "Undang-Undang Darurat Nomor 21 Tahun 1951 tentang Pengenaan Tambahan Opsenten atas Bensin dan Sebagainya",
+  "number": "21",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233850,
+  "frbr_uri": "/akn/id/act/uudrt/1951/18",
+  "title": "Undang-Undang Darurat Nomor 18 Tahun 1951 tentang Membatasi Masa Berlakunya Undang-Undang Pajak Peredaran 1950",
+  "number": "18",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233836,
+  "frbr_uri": "/akn/id/act/uudrt/1951/25",
+  "title": "Undang-Undang Darurat Nomor 25 Tahun 1951 tentang Memperpanjang Waktu Berlakunya Hukuman Termaksud dalam Pasal 3 Ayat 2 Ordonansi (Staatsblad Untuk Indonesia 1948 No. 141)",
+  "number": "25",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233838,
+  "frbr_uri": "/akn/id/act/uudrt/1951/24",
+  "title": "Undang-Undang Darurat Nomor 24 Tahun 1951 tentang Perubahan Beberapa Pos Tarip Bea Masuk",
+  "number": "24",
+  "year": 1951,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233865,
+  "frbr_uri": "/akn/id/act/uudrt/1950/35",
+  "title": "Undang-Undang Darurat Nomor 35 Tahun 1950 tentang Pungutan Tambahan Pokok Pajak Mengenai Pajak Kekayaan dan Pajak Perseroan Tahun 1951",
+  "number": "35",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233887,
+  "frbr_uri": "/akn/id/act/uudrt/1950/28",
+  "title": "Undang-Undang Darurat Nomor 28 Tahun 1950 tentang Perubahan Peraturan Pemberian Pensiun dan Onderstand kepada para Anggota Tentara Angkatan Darat",
+  "number": "28",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233884,
+  "frbr_uri": "/akn/id/act/uudrt/1950/27",
+  "title": "Undang-Undang Darurat Nomor 27 Tahun 1950 tentang Mengubah Peraturan Gaji Militer 1950 (P.G.M. 1950)",
+  "number": "27",
+  "year": 1950,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233898,
+  "frbr_uri": "/akn/id/act/uudrt/1950/32",
+  "title": "Undang-Undang Darurat Nomor 32 Tahun 1950 tentang Perubahan \"Tariefordonnantie\" (Staatsblad 1910 no. 628 jo. Staatsblad 1934 no. 471)",
+  "number": "32",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233883,
+  "frbr_uri": "/akn/id/act/uudrt/1950/34",
+  "title": "Undang-Undang Darurat Nomor 34 Tahun 1950 tentang Mengubah Undang-Undang Darurat No. 25, Tahun 1950 Mengenai Hak Pengangkatan dan Pemberhentian Pegawai-Pegawai Republik Indonesia Serikat",
+  "number": "34",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233915,
+  "frbr_uri": "/akn/id/act/uudrt/1950/2",
+  "title": "Undang-Undang Darurat Nomor 2 Tahun 1950 tentang Penerbitan Lembaran-Negara Republik Indonesia Serikat dan Berita Negara Republik Indonesia Serikat tentang Mengeluarkan, Mengumumkan dan Mulai Berlakunya Undang-Undang Federal dan Peraturan Pemerintah",
+  "number": "2",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233904,
+  "frbr_uri": "/akn/id/act/uudrt/1950/6",
+  "title": "Undang-Undang Darurat Nomor 6 Tahun 1950 tentang Pembentukan Jabatan Gubernur Militer Ibukota",
+  "number": "6",
+  "year": 1950,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233900,
+  "frbr_uri": "/akn/id/act/uudrt/1950/3",
+  "title": "Undang-Undang Darurat Nomor 3 Tahun 1950 tentang Pungutan Tambahan Pajak Mengenai Pajak Kekayaan dan Pajak Perseroan Tahun 1950",
+  "number": "3",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233899,
+  "frbr_uri": "/akn/id/act/uudrt/1950/4",
+  "title": "Undang-Undang Darurat Nomor 4 Tahun 1950 tentang Penerimaan Anggauta Angkatan Perang Republik Indonesia Serikat",
+  "number": "4",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233919,
+  "frbr_uri": "/akn/id/act/uudrt/1950/1",
+  "title": "Undang-Undang Darurat Nomor 1 Tahun 1950 tentang Penyerahan Penyelenggaraan Seluruh Tugas Pemerintah Dari Negara Jawa Timur Kepada Komisaris Pemerintah",
+  "number": "1",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233907,
+  "frbr_uri": "/akn/id/act/uudrt/1950/5",
+  "title": "Undang-Undang Darurat Nomor 5 Tahun 1950 tentang Peraturan Gaji Militer Tahun 1950, \"Peraturan Gaji Militer Tahun 1950\" (\"P.G.M. 1950\")",
+  "number": "5",
+  "year": 1950,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233894,
+  "frbr_uri": "/akn/id/act/uudrt/1950/25",
+  "title": "Undang-Undang Darurat Nomor 25 Tahun 1950 tentang Hak Pengangkatan dan Pemberhentian Pegawai-Pegawai Republik Indonesia Serikat",
+  "number": "25",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233903,
+  "frbr_uri": "/akn/id/act/uudrt/1950/43",
+  "title": "Undang-Undang Darurat Nomor 43 Tahun 1950 tentang Perubahan Pasal 45 \"Zegelverordening 1921\"",
+  "number": "43",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233893,
+  "frbr_uri": "/akn/id/act/uudrt/1950/24",
+  "title": "Undang-Undang Darurat Nomor 24 Tahun 1950 tentang Peraturan Tambahan Perjalanan ke Luar Negeri",
+  "number": "24",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233874,
+  "frbr_uri": "/akn/id/act/uudrt/1950/26",
+  "title": "Undang-Undang Darurat Nomor 26 Tahun 1950 tentang Pengesahan dan Pengakuan Hutang terhadap Kerajaan Belanda",
+  "number": "26",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233868,
+  "frbr_uri": "/akn/id/act/uudrt/1950/38",
+  "title": "Undang-Undang Darurat Nomor 38 Tahun 1950 tentang Tambahan dan Perubahan Undang-Undang Pajak Peredaran 1950 (Undang-Undang Darurat Nr. 12, Tahun 1950)",
+  "number": "38",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233857,
+  "frbr_uri": "/akn/id/act/uudrt/1950/40",
+  "title": "Undang-Undang Darurat Nomor 40 Tahun 1950 tentang Surat Perjalanan Republik Indonesia",
+  "number": "40",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233885,
+  "frbr_uri": "/akn/id/act/uudrt/1950/30",
+  "title": "Undang-Undang Darurat Nomor 30 Tahun 1950 tentang Penggantian Kerugian Anggota-Anggota Senat Republik Indonesia Serikat",
+  "number": "30",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233912,
+  "frbr_uri": "/akn/id/act/uudrt/1950/7",
+  "title": "Undang-Undang Darurat Nomor 7 Tahun 1950 tentang Perguruan Tinggi",
+  "number": "7",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233880,
+  "frbr_uri": "/akn/id/act/uudrt/1950/20",
+  "title": "Undang-Undang Darurat Nomor 20 Tahun 1950 tentang Pemerintahan Jakarta Raya",
+  "number": "20",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233892,
+  "frbr_uri": "/akn/id/act/uudrt/1950/42",
+  "title": "Undang-Undang Darurat Nomor 42 Tahun 1950 tentang Bea-bea Imigrasi 1950",
+  "number": "42",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233878,
+  "frbr_uri": "/akn/id/act/uudrt/1950/19",
+  "title": "Undang-Undang Darurat Nomor 19 Tahun 1950 tentang Peraturan Pensiun dan Onderstand Kepada para Anggota Tentara Angkatan Darat",
+  "number": "19",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233876,
+  "frbr_uri": "/akn/id/act/uudrt/1950/22",
+  "title": "Undang-Undang Darurat Nomor 22 Tahun 1950 tentang Penurunan Cukai Tembakau",
+  "number": "22",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233891,
+  "frbr_uri": "/akn/id/act/uudrt/1950/16",
+  "title": "Undang-Undang Darurat Nomor 16 Tahun 1950 tentang Susunan dan Kekuasaan Pengadilan Kejaksaan dalam Lingkungan Peradilan Ketentaraan",
+  "number": "16",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233909,
+  "frbr_uri": "/akn/id/act/uudrt/1950/13",
+  "title": "Undang-Undang Darurat Nomor 13 Tahun 1950 tentang Pinjaman Darurat",
+  "number": "13",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233890,
+  "frbr_uri": "/akn/id/act/uudrt/1950/18",
+  "title": "Undang-Undang Darurat Nomor 18 Tahun 1950 tentang Penghapusan Pengadilan-Pengadilan Landgerecht dan Appelraad dan Pembentukan Pengadilan-Pengadilan Negeri dan Pengadilan Tinggi",
+  "number": "18",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233888,
+  "frbr_uri": "/akn/id/act/uudrt/1950/15",
+  "title": "Undang-Undang Darurat Nomor 15 Tahun 1950 tentang Penyelesaian Urusan Pemulihan Hak",
+  "number": "15",
+  "year": 1950,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233913,
+  "frbr_uri": "/akn/id/act/uudrt/1950/14",
+  "title": "Undang-Undang Darurat Nomor 14 Tahun 1950 tentang Penyelenggaraan Tugas-Tugas Pemerintahan di Negara Sumatera Selatan oleh Republik Indonesia Serikat",
+  "number": "14",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233882,
+  "frbr_uri": "/akn/id/act/uudrt/1950/23",
+  "title": "Undang-Undang Darurat Nomor 23 Tahun 1950 tentang Peraturan Tambahan Istirahat Luar Negeri",
+  "number": "23",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233886,
+  "frbr_uri": "/akn/id/act/uudrt/1950/37",
+  "title": "Undang-Undang Darurat Nomor 37 Tahun 1950 tentang Perubahan Pajak Peralihan 1944, Ordonansi Pajak dan Upah dan Ordonansi Pajak Kekayaan 1932",
+  "number": "37",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233873,
+  "frbr_uri": "/akn/id/act/uudrt/1950/39",
+  "title": "Undang-Undang Darurat Nomor 39 Tahun 1950 tentang Memungut Opsenten atas Bea-Masuk Selama Tahun 1951",
+  "number": "39",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233879,
+  "frbr_uri": "/akn/id/act/uudrt/1950/17",
+  "title": "Undang-Undang Darurat Nomor 17 Tahun 1950 tentang Hukum Acara Pidana Pada Pengadilan Tentara",
+  "number": "17",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233896,
+  "frbr_uri": "/akn/id/act/uudrt/1950/21",
+  "title": "Undang-Undang Darurat Nomor 21 Tahun 1950 tentang Pengeluaran Uang Kertas atas Tanggungan Republik Indonesia Serikat",
+  "number": "21",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233905,
+  "frbr_uri": "/akn/id/act/uudrt/1950/11",
+  "title": "Undang-Undang Darurat Nomor 11 Tahun 1950 tentang Tata-Cara Perubahan Susunan Kenegaraan dari Wilayah Republik Indonesia Serikat",
+  "number": "11",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233916,
+  "frbr_uri": "/akn/id/act/uudrt/1950/10",
+  "title": "Undang-Undang Darurat Nomor 10 Tahun 1950 tentang Penyelenggaraan Tugas Pemerintah Daerah Negara Pasundan oleh Republik Indonesia Serikat",
+  "number": "10",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233908,
+  "frbr_uri": "/akn/id/act/uudrt/1950/8",
+  "title": "Undang-Undang Darurat Nomor 8 Tahun 1950 tentang Mengadakan Tambahan Peraturan Keadaan Perang dan Darurat Perang (Keputusan Raja Tertanggal 13 September 1939 No. 32 Staatsblad Indonesia Tahun 1939 No. 582)",
+  "number": "8",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233918,
+  "frbr_uri": "/akn/id/act/uudrt/1950/12",
+  "title": "Undang-Undang Darurat Nomor 12 Tahun 1950 tentang Pajak Peredaran",
+  "number": "12",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233922,
+  "frbr_uri": "/akn/id/act/uudrt/1950/9",
+  "title": "Undang-Undang Darurat Nomor 9 Tahun 1950 tentang Perobahan Undang-Undang Postspaarban (Staatsblad 1934 No. 653. 1937 No. 176 dan 197 dan 1941 No. 295)",
+  "number": "9",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233897,
+  "frbr_uri": "/akn/id/act/uudrt/1950/41",
+  "title": "Undang-Undang Darurat Nomor 41 Tahun 1950 tentang Menaikan Bea yang Dikenakan untuk Memperoleh Dokumen-Dokumen Imigrasi",
+  "number": "41",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233875,
+  "frbr_uri": "/akn/id/act/uudrt/1950/36",
+  "title": "Undang-Undang Darurat Nomor 36 Tahun 1950 tentang Penetapan Berlakunya Undang-Undang, Undang-Undang Darurat dan Ordonansi-Ordonansi Mengenai Masalah-Masalah Pajak Dikeluarkan Sebelum Pembentukan Negara Kesatuan Republik Indonesia",
+  "number": "36",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233895,
+  "frbr_uri": "/akn/id/act/uudrt/1950/31",
+  "title": "Undang-Undang Darurat Nomor 31 Tahun 1950 tentang Pemungutan Bea Cukai Berat-Barang",
+  "number": "31",
+  "year": 1950,
+  "status": "tidak_berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233877,
+  "frbr_uri": "/akn/id/act/uudrt/1950/29",
+  "title": "Undang-Undang Darurat Nomor 29 Tahun 1950 tentang Penetapan Kejahatan-Kejahatan dan Pelanggaran-Pelanggaran yang Dilakukan dalam Masa Pekerjaan oleh Para Pejabat, yang Menurut Pasal 148 Konstitusi Republik Indonesia Serikat dalam Tingkat Pertama dan Tertinggi Diadili oleh Mahkamah Agung Indonesia",
+  "number": "29",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 233889,
+  "frbr_uri": "/akn/id/act/uudrt/1950/33",
+  "title": "Undang-Undang Darurat Nomor 33 Tahun 1950 tentang Mencabut Kembali Undang-Undang Darurat Nr. 6 Tahun 1950 (Lembaran-Negara Nr 7)",
+  "number": "33",
+  "year": 1950,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "UUDRT",
+  "issuing_body": {
+   "id": 353,
+   "slug": "presiden",
+   "name": "Presiden Republik Indonesia",
+   "abbreviation": null
+  }
+ }
+]

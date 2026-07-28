@@ -1,0 +1,72 @@
+[
+ {
+  "id": 2300,
+  "frbr_uri": "/akn/id/act/uud/1945/perubahan-1",
+  "title": "Perubahan Pertama Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+  "number": "1945/P1",
+  "year": 1945,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUD",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 2301,
+  "frbr_uri": "/akn/id/act/uud/1945/perubahan-2",
+  "title": "Perubahan Kedua Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+  "number": "1945/P2",
+  "year": 1945,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUD",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 2299,
+  "frbr_uri": "/akn/id/act/uud/1945/original",
+  "title": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+  "number": "1945",
+  "year": 1945,
+  "status": "diubah",
+  "content_verified": true,
+  "type": "UUD",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 285722,
+  "frbr_uri": "/akn/id/act/uud/1945/perubahan-3",
+  "title": "Perubahan Ketiga Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+  "number": "1945/P3",
+  "year": 1945,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUD",
+  "issuing_body": null
+ },
+ {
+  "id": 285724,
+  "frbr_uri": "/akn/id/act/uud/1945/perubahan-4",
+  "title": "Perubahan Keempat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+  "number": "1945/P4",
+  "year": 1945,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "UUD",
+  "issuing_body": null
+ }
+]

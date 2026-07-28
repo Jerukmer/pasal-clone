@@ -1,0 +1,953 @@
+[
+ {
+  "id": 317968,
+  "frbr_uri": "/akn/id/act/pmk/2026/14",
+  "title": "PMK 14 TAHUN 2026",
+  "number": "14",
+  "year": 2026,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": null
+ },
+ {
+  "id": 317964,
+  "frbr_uri": "/akn/id/act/pmk/2026/16",
+  "title": "PMK 16 TAHUN 2026",
+  "number": "16",
+  "year": 2026,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": null
+ },
+ {
+  "id": 317273,
+  "frbr_uri": "/akn/id/act/pmk/2026/18",
+  "title": "PMK 18 TAHUN 2026",
+  "number": "18",
+  "year": 2026,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": null
+ },
+ {
+  "id": 317267,
+  "frbr_uri": "/akn/id/act/pmk/2026/15",
+  "title": "PMK 15 TAHUN 2026",
+  "number": "15",
+  "year": 2026,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": null
+ },
+ {
+  "id": 317302,
+  "frbr_uri": "/akn/id/act/pmk/2026/11",
+  "title": "PMK 11 TAHUN 2026",
+  "number": "11",
+  "year": 2026,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": null
+ },
+ {
+  "id": 238471,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2024/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2024 tentang Perubahan Atas Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2023 tentang Tata Beracara dalam Perkara\r\nPerselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden",
+  "number": "2",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238463,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2024/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2024 tentang Tahapan, Kegiatan,  dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dewan Perwakilan Rakyat Daerah, serta Pemilihan Umum Presiden dan Wakil Presiden",
+  "number": "1",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238470,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2023/5",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 5 Tahun 2023 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, Dewan Perwakilan Rakyat Daerah, serta Pemilihan Umum Presiden dan Wakil Presiden",
+  "number": "5",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238462,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2023/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2023 tentang Tata Beracara Dalam Perkara Perselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden",
+  "number": "4",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238442,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2023/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2023 tentang Majelis Kehormatan Mahkamah Konstitusi",
+  "number": "1",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238440,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2023/6",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 6 Tahun 2023 tentang Tata Cara Pemilihan Ketua dan Wakil Ketua Mahkamah Konstitusi",
+  "number": "6",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238447,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2023/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2023 tentang Tata Beracara Dalam Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Daerah",
+  "number": "3",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238455,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2023/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2023 tentang Tata Beracara Dalam Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat dan Dewan Perwakilan Rakyat Daerah",
+  "number": "2",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238465,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2021/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2021 tentang Penyelenggaraan Persidangan Jarak Jauh",
+  "number": "1",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238443,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2021/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2021 tentang Tata Beracara dalam Perkara Pengujian Undang-Undang",
+  "number": "2",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238466,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2021/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2021 tentang Pencabutan Peraturan Mahkamah Konstitusi Nomor 11/PMK/2006 tentang Pedoman Administrasi Yustisial Mahkamah Konstitusi",
+  "number": "3",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238460,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2020/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2020 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "2",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238457,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2020/6",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 6 Tahun 2020 tentang Tata Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "6",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238453,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2020/7",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2020 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "7",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238446,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2020/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2020 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "4",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238458,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2020/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2020 tentang Persidangan Mahkamah Konsitusi",
+  "number": "1",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238464,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2020/8",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 8 Tahun 2020 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2020 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "8",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238461,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2019/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2019 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 5 Tahun 2018 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Umum",
+  "number": "1",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238450,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2019/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2019 tentang Perubahan Kedua atas Peraturan Mahkamah Konstitusi Nomor 5 Tahun 2018 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Umum",
+  "number": "2",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238468,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2019/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2019 tentang Produk Hukum Mahkamah Konstitusi",
+  "number": "3",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238445,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2018/6",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 6 Tahun 2018 tentang Pedoman Penyusunan Permohonan Pemohon, Jawaban Termohon, Keterangan Pihak Terkait, dan Keterangan Bawaslu alam Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Anggota Dewan Perwakilan Daerah, dan Anggota Dewan Perwakilan Rakyat Daerah serta Presiden dan Wakil Presiden",
+  "number": "6",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238456,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2018/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2018 tentang Persidangan Mahkamah Konstitusi",
+  "number": "1",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238448,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2018/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2018 tentang Tata Beracara dalam Perkara Perselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden",
+  "number": "4",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238451,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2018/5",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 5 Tahun 2018 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Umum",
+  "number": "5",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238459,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2018/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2018 tentang Tata Beracara dalam Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat dan Dewan Perwakilan Rakyat Daerah",
+  "number": "2",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238452,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2018/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2018 tentang Tata Beracara dalam Perkara Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Daerah",
+  "number": "3",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238454,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2017/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2017 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2016 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "3",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238481,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2017/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2017 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2016 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubemur, Bupati, dan Walikota",
+  "number": "1",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238490,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2017/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2017 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2016 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota dengan Satu Pasangan Calon",
+  "number": "2",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238449,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2017/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2017 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2016 tentang Pedoman Penyusunan Permohonan Pemohon, Jawaban Termohon, dan Keterangan Pihak Terkait",
+  "number": "4",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238469,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2016/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2016 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "1",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238479,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2016/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2016 tentang Pedoman Penyusunan Permohonan, Jawaban Termohon, dan Keterangan Pihak Terkait",
+  "number": "4",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238475,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2016/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2016 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubemur, Bupati, dan Walikota",
+  "number": "3",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238491,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2016/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2016 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota dengan Satu Pasangan Calon",
+  "number": "2",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238472,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/8",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 8 Tahun 2015 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2015 tentang Pedoman Penyusunan Permohonan Pemohon, Jawaban Termohon, dan Keterangan Pihak Terkait",
+  "number": "8",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238489,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/5",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 5 Tahun 2015 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2015 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "5",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238485,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/7",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 7 Tahun 2015 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2015 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perselisihan Hasil Pemilihan Gubemur, Bupati, dan Walikota",
+  "number": "7",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238480,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/6",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 6 Tahun 2015 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2015 tentang tentang Pedoman Beracara Dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota dengan Satu Pasangan Calon",
+  "number": "6",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238496,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2015 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubemur, Bupati, dan Walikota",
+  "number": "1",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238477,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2015 tentang Pedoman Beracara dalam Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota dengan Satu Pasangan Calon",
+  "number": "4",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238483,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2015 tentang Tahapan, Kegiatan, dan Jadwal Penanganan Perkara Perselisihan Hasil Pemilihan Gubernur, Bupati, dan Walikota",
+  "number": "2",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238506,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2015/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2015 tentang Pedoman Penyusunan Permohonan Pemohon, Jawaban Termohon, dan Keterangan Pihak Terkait",
+  "number": "3",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238476,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2014/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2014 tentang Majelis Kehormatan Mahkamah Konstitusi",
+  "number": "2",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238482,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2014/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2014 tentang Pedoman Beracara dalam Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah",
+  "number": "1",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238495,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2014/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2014 tentang Pedoman Beracara dalam Perselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden",
+  "number": "4",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238498,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2014/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2014 tentang Perubahan atas Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2014 tentang Pedoman Beracara dalam Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah",
+  "number": "3",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238486,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2013/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2013 tentang Pedoman Beracara dalam Perselisihan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat, Dewan Perwakilan Daerah, dan Dewan Perwakilan Rakyat Daerah",
+  "number": "3",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238488,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2013/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2013 tentang Dewan Etik Hakim Konstitusi",
+  "number": "2",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238504,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2013/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2013 tentang Majelis Kehormatan Mahkamah Konstitusi",
+  "number": "1",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238507,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2012/2",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2012 tentang Persidangan Mahkamah Konstitusi",
+  "number": "2",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238502,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2012/1",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2012 tentang Produk Hukum Mahkamah Konstitusi",
+  "number": "1",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238473,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2012/3",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 3 Tahun 2012 tentang Tata Cata Pemilihan Ketua dan Wakil Ketua Mahkamah Konstitusi",
+  "number": "3",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238503,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2012/4",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 4 Tahun 2012 tentang Tata Cata Pemberhentian Hakim Konstitusi",
+  "number": "4",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238484,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2003/02pmk2003",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 02pmk2003 Tahun 2003 tentang Kode Etik dan Pedoman Tingkah laku Hakim Konstitusi",
+  "number": "02pmk2003",
+  "year": 2003,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238474,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2003/01pmk2003",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 01pmk2003 Tahun 2003 tentang Tata Cara Pemilihan Ketua dan Wakil Ketua Mahkamah Konstitusi",
+  "number": "01pmk2003",
+  "year": 2003,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 238478,
+  "frbr_uri": "/akn/id/act/peraturan-mk/2003/03pmk2003",
+  "title": "Peraturan Mahkamah Konstitusi Nomor 03pmk2003 Tahun 2003 tentang Tata Tertib Persidangan Pada Mahkamah Konstitusi Republik Indonesia",
+  "number": "03pmk2003",
+  "year": 2003,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PMK",
+  "issuing_body": {
+   "id": 355,
+   "slug": "mk",
+   "name": "Mahkamah Konstitusi Republik Indonesia",
+   "abbreviation": null
+  }
+ }
+]

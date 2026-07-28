@@ -1,36 +1,38 @@
 #!/usr/bin/env node
 /*
- * crawler.js — penarik data pasal.id (BUTUH TOKEN RESMI)
+ * crawler.js v2 — penarik data pasal.id (token resmi), RESUMABLE
  * ---------------------------------------------------------------------------
- * Pasal.id menyajikan seluruh isinya lewat REST API /api/v1/* yang WAJIB
- * Bearer token. Tanpa token: 401. Skrip ini menghormati rate limit resmi:
- *   - laws   : 180/menit  -> jeda ~0.34s antar request
- *   - detail :  60/menit  -> jeda ~1.0s  antar request
+ * Stage 1: metadata semua jenis → data/metadata/<TYPE>.json  (rate 180/mnt)
+ * Stage 2: isi pasal per law untuk tipe terpilih → data/articles/<TYPE>/<frbr>.json (rate 60/mnt)
  *
- * Cara pakai:
- *   1. Daftar akun gratis di https://pasal.id/akun, buat personal access token.
- *   2. Set env:  export PASAL_TOKEN="pasal_xxx"
- *   3. Jalankan: node crawler.js
+ * Resumable: skip file yang sudah ada. Bisa di-stop & di-retry aman.
  *
- * Hasil:  data/laws.json (metadata) + data/articles/<frbr>.json (isi pasal).
- * File itu bisa lo drop ke assets/js/data.js agar search clone ini jadi lengkap.
- *
- * DISCLAIMER: teks UU adalah domain publik. Yang ber-HKI adalah kurasi pasal.id.
- * Jangan hamburkan rate limit (biarkan jeda di bawah). Estimasi penuh
- * 161.969 peraturan ≈ 15 jam; 3,5 jt pasal ≈ 40+ hari.
+ * Env:
+ *   PASAL_TOKEN   (wajib)
+ *   STAGE         metadata | articles | all   (default: all)
+ *   TYPES         comma list, misal UU,PP,PERPRES  (default: semua jenis di SITE)
+ *   LIMIT_PER     max law per tipe utk tes (kosong = unlimited)
  */
 
 const fs = require("fs");
 const path = require("path");
 const TOKEN = process.env.PASAL_TOKEN;
 const BASE = "https://pasal.id/api/v1";
-const OUT = path.join(__dirname, "..", "data");
+const ROOT = __dirname;
+const META_DIR = path.join(ROOT, "..", "data", "metadata");
+const ART_DIR = path.join(ROOT, "..", "data", "articles");
+const STAGE = process.env.STAGE || "all";
+const TYPES_ENV = process.env.TYPES || "";
+const LIMIT_PER = process.env.LIMIT_PER ? parseInt(process.env.LIMIT_PER) : 0;
 
-if (!TOKEN) {
-  console.error("SET DULU: export PASAL_TOKEN='pasal_xxx'");
-  process.exit(1);
-}
-fs.mkdirSync(path.join(OUT, "articles"), { recursive: true });
+const ALL_TYPES = ["UUD","TAP_MPR","PERPPU","UU","UUDRT","PP","PERPRES","INPRES","PENPRES",
+  "KEPPRES","PERDA","PERDAIS","QANUN","PERDASUS","PERGUB","PERWALI","PERBUP","POJK",
+  "PERMEN","PERBAN","PERMENKUMHAM","PMK","SE"];
+const TYPES = TYPES_ENV ? TYPES_ENV.split(",").map(s=>s.trim()) : ALL_TYPES;
+
+if (!TOKEN) { console.error("SET DULU: export PASAL_TOKEN='pasal_xxx'"); process.exit(1); }
+fs.mkdirSync(META_DIR, { recursive: true });
+fs.mkdirSync(ART_DIR, { recursive: true });
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const auth = { Authorization: `Bearer ${TOKEN}` };
@@ -38,36 +40,86 @@ const auth = { Authorization: `Bearer ${TOKEN}` };
 async function get(url, delay) {
   await sleep(delay);
   const res = await fetch(url, { headers: auth });
-  if (res.status === 429) { console.warn("rate limit, tunggu 60s"); await sleep(60000); return get(url, delay); }
-  if (!res.ok) { console.error("FAIL", res.status, url); return null; }
+  if (res.status === 429) {
+    // exponential backoff: 60s -> 120s -> 240s -> 480s (cap), lalu ulang
+    let backoff = 60000;
+    while (true) {
+      console.warn(`  [429] rate limit, tunggu ${backoff/1000}s`);
+      await sleep(backoff);
+      const r2 = await fetch(url, { headers: auth });
+      if (r2.status !== 429) {
+        if (r2.status === 401) { console.error("  [401] TOKEN INVALID — stop."); process.exit(2); }
+        if (!r2.ok) { console.error("  FAIL", r2.status, url); return null; }
+        return r2.json();
+      }
+      backoff = Math.min(backoff * 2, 480000);
+    }
+  }
+  if (res.status === 401) { console.error("  [401] TOKEN INVALID/EXPIRED — stop."); process.exit(2); }
+  if (!res.ok) { console.error("  FAIL", res.status, url); return null; }
   return res.json();
 }
 
-(async () => {
-  const types = ["UU","PP","PERPRES","PERMEN","PERDA","PERGUB","PERBUP","POJK","KEPPRES","PERMENKUMHAM"];
-  let offset = 0, limit = 50, total = 0;
-  const all = [];
-  for (const type of types) {
-    offset = 0;
-    while (true) {
-      const js = await get(`${BASE}/laws?type=${type}&limit=${limit}&offset=${offset}`, 340);
-      if (!js || !js.laws) break;
-      all.push(...js.laws);
-      total += js.laws.length;
-      console.log(`[${type}] offset=${offset} total=${js.laws.length}/${js.total}`);
-      if (offset + limit >= js.total) break;
-      offset += limit;
-    }
-  }
-  fs.writeFileSync(path.join(OUT, "laws.json"), JSON.stringify(all, null, 1));
-  console.log(`\nTersimpan ${all.length} metadata ke data/laws.json`);
+function loadMeta(type) {
+  const f = path.join(META_DIR, type + ".json");
+  if (fs.existsSync(f)) { try { return JSON.parse(fs.readFileSync(f,"utf8")); } catch(e){ return []; } }
+  return [];
+}
+function saveMeta(type, arr) {
+  fs.writeFileSync(path.join(META_DIR, type + ".json"), JSON.stringify(arr, null, 1));
+}
 
-  // tarik isi pasal per peraturan
-  for (const law of all) {
-    const fr = law.frbr_uri.replace(/^\//, "");
-    const det = await get(`${BASE}/laws/${fr}`, 1000);
-    if (!det) continue;
-    fs.writeFileSync(path.join(OUT, "articles", fr.replace(/\//g, "_") + ".json"), JSON.stringify(det, null, 1));
+async function stageMetadata() {
+  for (const type of TYPES) {
+    await sleep(120000); // cooldown 2 menit tiap ganti tipe biar token recovery
+    let existing = loadMeta(type);
+    let existingFr = new Set(existing.map(l => l.frbr_uri));
+    let offset = existing.length;
+    let fetched = 0, total = null;
+    console.log(`\n[TYPE ${type}] existing=${existing.length}`);
+    while (true) {
+      const js = await get(`${BASE}/laws?type=${type}&limit=50&offset=${offset}`, 2000);
+      if (!js || !js.laws) break;
+      total = js.total;
+      const fresh = js.laws.filter(l => !existingFr.has(l.frbr_uri));
+      existing.push(...fresh);
+      existingFr = new Set(existing.map(l=>l.frbr_uri));
+      offset += js.laws.length;
+      fetched += fresh.length;
+      if (fetched % 200 === 0 || offset >= total) saveMeta(type, existing);
+      console.log(`  ${type}: ${existing.length}/${total}`);
+      if (offset >= total) break;
+      if (LIMIT_PER && existing.length >= LIMIT_PER) { console.log("  (LIMIT_PER cap)"); break; }
+    }
+    saveMeta(type, existing);
+    console.log(`[DONE ${type}] total=${existing.length}`);
   }
-  console.log("Selesai tarik detail. Drop file ke assets/js/data.js untuk search lengkap.");
+}
+
+async function stageArticles() {
+  for (const type of TYPES) {
+    const meta = loadMeta(type);
+    if (!meta.length) { console.log(`[SKIP ${type}] no metadata`); continue; }
+    const tdir = path.join(ART_DIR, type);
+    fs.mkdirSync(tdir, { recursive: true });
+    let done = 0;
+    for (const law of meta) {
+      if (LIMIT_PER && done >= LIMIT_PER) break;
+      const fr = law.frbr_uri.replace(/^\//, "").replace(/\//g, "_");
+      const out = path.join(tdir, fr + ".json");
+      if (fs.existsSync(out)) { done++; continue; }
+      const det = await get(`${BASE}/laws/${law.frbr_uri.replace(/^\//,"")}`, 1000);
+      if (!det) continue;
+      fs.writeFileSync(out, JSON.stringify(det, null, 1));
+      done++;
+      if (done % 50 === 0) console.log(`  ${type} articles: ${done}/${meta.length}`);
+    }
+    console.log(`[DONE articles ${type}] ${done}`);
+  }
+}
+
+(async () => {
+  if (STAGE === "metadata" || STAGE === "all") await stageMetadata();
+  if (STAGE === "articles" || STAGE === "all") await stageArticles();
+  console.log("\nSELESAI.");
 })();

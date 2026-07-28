@@ -1,0 +1,3515 @@
+[
+ {
+  "id": 250958,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2024 tentang Pajak Daerah Dan retribusi Daerah",
+  "number": "1",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251164,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/30",
+  "title": "Peraturan Gubernur Papua  Barat Nomor 30 Tahun 2024 tentang Penjabaran Perubahan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2024",
+  "number": "30",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252318,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/8",
+  "title": "Peraturan Gubernur Nomor 8 Tahun  2024 Tentang  Perubahan Atas Peraturan Gubernur Nomor 21 Tahun 2023 Tentang Program Perlindungan Hari Tua",
+  "number": "8",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250952,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/7",
+  "title": "Peraturan Daerah Provinsi Papua  Barat Nomor 7 Tahun 2024 tentang Perubahan ANggaran Pendapatan Dan Belanja Daerah Tahun ANggaran 2024",
+  "number": "7",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252296,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/3",
+  "title": "Peraturan Gubernur Nomor 3 Tahun 2024 tentang Tata Cara Pergeseran Anggaran Pendapatan dan Belanja Daerah",
+  "number": "3",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250977,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/17",
+  "title": "Peraturan Gubernur Papua Barat Nomor 17 tahun 2024 tentang Perubahan Kedua Atas Peraturan Gubernur Papua Barat Nomor 27 Tahun 2019 tentang Penetapan Tarif Layanan Umum Daerah Pada Badan Pengembangan Sumber Daya Manusia Daerah Provinsi Papua Barat",
+  "number": "17",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250962,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2024 tentang Perlindungan Hak Kekayaan Intelektual Orang Asli Papua",
+  "number": "5",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252330,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/5",
+  "title": "Peraturan Gubernur Nomor 5 Tahun 2024 tentang Pelaksanaan Penghormatan Perlindungan dan Pemenuhan Hak Penyandang Disabilitas",
+  "number": "5",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 283678,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/3",
+  "title": "Peraturan Gubernur Papua Barat Nomor 3 Tahun 2024 tentang Rencana Induk Pendidikan Dan Manajemen Penyelenggaraan Pendidikan Khusus Tahun 2023-2041",
+  "number": "3",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 250970,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/20",
+  "title": "Peraturan Gubernur Papua Barat Nomor 20 Tahun 2024 tentang Tata Cara Pembentukan Produk Hukum Daerah Provinsi Papua Barat",
+  "number": "20",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250971,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/18",
+  "title": "Peraturan Gubernur Papua Barat Nomor 18 tahun 2024 tentang Kode Etik Di Lingkungan Unit Kerja Pengadaan Barang/Jasa Pada Pemerintah Daerah",
+  "number": "18",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252332,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/4",
+  "title": "Peraturan Gubernur Nomor 4 Tahun 2024 tentang Pembentukan Panitia Pemilihan dan Tata Cara Seleksi Calon Anggota Panitia Seleksi Kabupaten/Kota dalam Rangka Pengisian Anggota Dewan Perwakilan Rakyat Kabupaten/Kota Melalui Mekanisme Pengangkatan",
+  "number": "4",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250950,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/8",
+  "title": "Peraturan Gubernur Papua Barat Nomor 8 Tahun 2024 tentang Tata Cara Penempatan, Pemindahan, Dan Pemberhentian Pendidik Dan Tenaga Kependidikan",
+  "number": "8",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250942,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/6",
+  "title": "Peraturan Gubernur Papua Barat Nomor 6 Tahun 2024 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2024",
+  "number": "6",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251148,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/25",
+  "title": "Peraturan Gubernur Papua Barat Nomor 25 Tahun 2024 tentang Tata Cara Penganggaran, Pelaksanaan Dan Penatausahaan, Pertanggungjawaban Dan Pelaporan Serta Monitoring Dan Evaluasi Belanja Bantuan Keuangan",
+  "number": "25",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250954,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2024 tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2024",
+  "number": "4",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252314,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/1",
+  "title": "Peraturan Gubernur Nomor 1 Tahun 2024 Tentang Sistim Prosedur Pengelolaan Keuangan Daerah",
+  "number": "1",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252336,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/7",
+  "title": "Peraturan Gubernur  Nomor 7 Tahun 2024 Tentang Pemberian Intensif dan Kemudahan Investasi",
+  "number": "7",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250975,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/15",
+  "title": "Peraturan Gubernur Papua Barat Nomor 15 Tahun 2024 tentang Tata Cara Penyelesaian Tuntutan Ganti Kerugian Daerah Terhadap Pegawai Negeri Bukan Bendahara Atau Pejabat Lain",
+  "number": "15",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250947,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/11",
+  "title": "Peraturan Gubernur Papua Barat Nomor 11 Tahun 2024 tentang Penyelenggaraan Pendidikan Khusus Bagi Pendidikan Sekolah Menengah Atas Negeri Keberbakatan Olahraga Provinsi Papua Barat",
+  "number": "11",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250976,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/19",
+  "title": "Peraturan Gubernur Papua Barat Nomor 19 Tahun 2024 tentang Pemberian Pajak Insentif Fiskal Pajak Bahan Bakar Kendaraan Bermotor",
+  "number": "19",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250956,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2024 tentang Rencana Umum Energi Daerah Provinsi Papua Barat Tahun 2024-2050",
+  "number": "2",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251175,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/31",
+  "title": "Peraturan Gubernur Papua  Barat Nomor 31 Tahun 2024 tentang Pemantauan Dan Evaluasi Terhadap Pelaksanaan Pembangunan Di Kabupaten Yang Didanai Dengan Penerimaann Dalam Rangka Otonomi Khusus",
+  "number": "31",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251144,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/10",
+  "title": "Peraturan Gubernur Provinsi Papua Barat Nomor 10 Tahun 2024 tentang Penyelenggaraaan Pendidikan Khusus Bagi Pendidikan Sekolah Menengah Atas Negeri Taruna kasuari Nusantara Provinsi Papua Barat",
+  "number": "10",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250974,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/16",
+  "title": "Peraturan Gubernur Papua Barat Nomor 16 Tahun 2024 tentang Pengelolaan Pertambangan Mineral Dan Batubara",
+  "number": "16",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251132,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/34",
+  "title": "Peraturan Gubernur  Papua Barat Nomor 34 Tahun 2024 tentang Standar Biaya Perjalanan Dinas Di Lingkungan Pemerintah Provinsi Papua Barat",
+  "number": "34",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252341,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2024/2",
+  "title": "PERATURAN GUBERNUR PAPUA BARAT DAYA NOMOR 2 TAHUN 2024 TENTANG KEBIJAKAN AKUNTANSI PEMERINTAH DAERAH",
+  "number": "2",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251140,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/22",
+  "title": "Peraturan Gubernur Papua Barat Nomor 22 Tahun 2024 tentang Kedudukan Keuangan Kepala Daerah Dan Wakil Kepala Daerah Provinsi Papua Barat",
+  "number": "22",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251141,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/14",
+  "title": "Peraturan Gubernur Papua  Barat Nomor 14 Tahun 2024 tentang Perubahan Atas Peraturan Gubernur Papua Barat Nomor 6 Tahun 2024 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2024",
+  "number": "14",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 250972,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/12",
+  "title": "Peraturan Gubernur Papua Barat Nomor 12 Tahun 2024 tentang Teknis Pemberian Tunjangan Hari Raya Dan Gaji Ketiga Belas Yang Bersumber Dari Anggaran Pendapatan Dan Belanja Daerah Tahun 2024",
+  "number": "12",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 251178,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/24",
+  "title": "Peraturan Gubernur Papua Barat Nomor 24 Tahun 2024 tentang Perubahan Kedua Atas Peraturan Gubernur Papua Barat Nomor 6 Tahun 2024 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2024",
+  "number": "24",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 251136,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2024/33",
+  "title": "Peraturan Gubernur  Papua Barat Nomor 33 Tahun 2024 tentang Standar Harga Satuan Tahun Anggaran 2025",
+  "number": "33",
+  "year": 2024,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252178,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/1",
+  "title": "Peraturan Gubernur Nomor 1 Tahun 2023 tentang Pengeluaran Kas Mendahului Penetapan Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2023",
+  "number": "1",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247369,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/27",
+  "title": "Peraturan Gubernur Papua Barat Nomor 27 Tahun 2023 tentang Kebijakan Dan Strategi Daerah Dalam Pengelolaan Sampah Rumah Tangga Dan Sampah Sejenis Sampah Rumah Tangga",
+  "number": "27",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 284156,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2023/4",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 4 TAHUN 2018 TENTANG KEPEGAWAIAN DAERAH",
+  "number": "4",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 247287,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/20",
+  "title": "Peraturan Gubernur Papua Barat Nomor 20 Tahun 2023 tentang Perubahan Kedua Atas Peraturan Gubernur Papua Barat Nomor 8 Tahun 2023 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2023",
+  "number": "20",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 247330,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/19",
+  "title": "Peraturan Gubernur Papua Barat Nomor 19 Tahun 2023 tentang Pemberian Tambahan Penghasilan Pegawai Kepada Aparatus Sipil Negara",
+  "number": "19",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 247193,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/15",
+  "title": "Peraturan Gubernur Papua Barat Nomor 15 Tahun 2023 tentang Kedudukan, Susunan Organisasi, Tugas Dan Fungsi Serta Tata Kerja Badan Kepegawaian Daerah Provinsi Papua Barat",
+  "number": "15",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247068,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/24",
+  "title": "Peraturan Gubernur Papua Barat Nomor 24 Tahun 2023 tentang Perubahan Ketiga Atas Peraturan Gubernur Provinsi Papua Barat Nomor 8 Tahun 2023 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2023",
+  "number": "24",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252192,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/3",
+  "title": "Peraturan Gubernur Nomor 3 Tahun 2023 tentang Tata Cara Pembentukan dan Jumlah Keanggotaan  Majelis Rakyat Papua Provinsi Papua Barat Daya",
+  "number": "3",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 246951,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2023 tentang Pertambangan Rakyat",
+  "number": "5",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247144,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/18",
+  "title": "Peraturan Gubernur Papua Barat Nomor 18 Tahun 2023 tentang Kedudukan, Susunan Organisasi, Tugas Dan Fungsi, Serta Tata Kerja Dinas Kependudukan Dan Pencatatan Sipil Provinsi Papua Barat",
+  "number": "18",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247210,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/16",
+  "title": "Peraturan Gubernur Papua Barat Nomor 16 Tahun 2023 tentang Perubahan Atas Peraturan Gubernur Papua Barat Nomor 8 Tahun 2023 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2023",
+  "number": "16",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252184,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/28",
+  "title": "Peraturan Gubernur Nomor 28 Tahun 2023 tentang Unit Pelaksana Teknis Daerah Pengelolaan Taman Pesisir Jeen Womom pada Dinas Pertanian, Pangan, Kelautan dan Perikanan",
+  "number": "28",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247161,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/13",
+  "title": "Peraturan Gubernur Papua Barat Nomor 13 Tahun 2023 tentang Remunerasi Pada Badan Layanan Umum Rumah Sakit Umum Daerah Provinsi Papua Barat",
+  "number": "13",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247033,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/6",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 6 Tahun 2023 tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2023",
+  "number": "6",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247378,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/28",
+  "title": "Peraturan Gubernur Papua Barat Nomor 28 Tahun 2023 tentang Aplikasi Elektronik Pelayanan Perizinan Dan Nonperizinan Berusaha",
+  "number": "28",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247239,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/14",
+  "title": "Peraturan Gubernur Papua Barat Nomor 14 Tahun 2023 tentang Perizinan Usaha Peternakan Orang Asli Papua",
+  "number": "14",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247049,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/2",
+  "title": "Peraturan Daerah Provinsi Papua barat Nomor 2 tahun 2023 tentang Pelindungan, Pengembangan Dan Pemanfaatan Kebudayaan Asli Papua Serta Pembinaan Sumber Daya Manusia Dan Pranata Kebudayaan Di Provinsi Papua Barat",
+  "number": "2",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 246946,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/8",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 8 Tahun 2023 tentang Perubahan Atas Peraturan Daerah Nomor 11 tahun 2019 tentang Penyelenggaraan Pembangunan Kesehatan",
+  "number": "8",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247067,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/4",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 4 Tahun 2023 tentang Orang Asli Papua Di Provinsi Papua Barat",
+  "number": "4",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247016,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/7",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 7 Tahun 2023 tentang Penyelenggaraan Pendidikan",
+  "number": "7",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252194,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/27",
+  "title": "Peraturan Gubernur Nomor 27 Tahun 2023 tentang Jaringan Dokumentasi dan Informasi Hukum Provinsi Papua Barat Daya",
+  "number": "27",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 246922,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2023 tentang Manajemen Aparatur Sipil Negara",
+  "number": "1",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252187,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/26",
+  "title": "Peraturan Gubernur Nomor 26 Tahun 2023 tentang Unit Pelaksana Teknis Daerah Pengelolaan Kawasan Konservasi di Perairan Kepulauan Raja Ampat Pada Dinas Pertanian , Pangan, Kelautan Dan Perikanan.",
+  "number": "26",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 246968,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/11",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 11 Tahun 2023 tentang Pertanggungjawaban Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2022",
+  "number": "11",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 246985,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/9",
+  "title": "Peraturan Gubernur Papua Barat Nomor 9 Tahun 2023 tentang Perubahan Atas Peraturan Gubernur Papua Barat Nomor 3 Tahun 2018 tentang Pembentukan, Struktur Organisasi, Tugas Dan Fungsi Serta Tata Kerja Unit Pelaksana Teknis Pendapatan Pada Badan Pendapatan Daerah Provinsi Papua Barat",
+  "number": "9",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247390,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/26",
+  "title": "Peraturan Gubernur Papua Barat Nomor 26 Tahun 2023 tentang Penyelenggaraan Jasa Pramuwisata",
+  "number": "26",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252183,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/19",
+  "title": "Peraturan Gubernur Nomor 19 Tahun 2023 tentang Penyelenggaraan Program Jaminan Sosial Ketenagakerjaan Di Provinsi Papua Barat Daya",
+  "number": "19",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252193,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/23",
+  "title": "Peraturan Gubernur Nomor 23 Tahun 2023 tentang Penyelenggaraan Ketenteraman, Ketertiban  Umum  Dan  Perlindungan Masyarakat",
+  "number": "23",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 246958,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/10",
+  "title": "Peraturan Gubernur Papua Barat Nomor 10 Tahun 2023 tentang Teknis Pemberian Tunjangan Hari Raya Dan Gaji Ketiga Belas Yang Bersumber Dari Anggaran Pendapatan Dan Belanja Daerah Provinsi Papua Barat Tahun 2023",
+  "number": "10",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252186,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/11",
+  "title": "Peraturan Gubernur Nomor 11 Tahun 2023 tentang Lambang Daerah",
+  "number": "11",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247353,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/29",
+  "title": "Peraturan Gubernur Papua Barat Nomor 29 Tahun 2023 tentang Pemberian Penghargaan Olahraga",
+  "number": "29",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252181,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/5",
+  "title": "Peraturan Gubernur Nomor 5 Tahun 2023 tentang Tambahan Penghasilan Pegawai\r\nAparatur Sipil Negara",
+  "number": "5",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 252182,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat-daya/2023/2",
+  "title": "Peraturan Gubernur Nomor 2 Tahun 2023 tentang Tambahan Dana Bagi Hasil Minyak Bumi dan Gas Alam Otonomi Khusus Papua Barat Daya",
+  "number": "2",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 474,
+   "slug": "perda-provinsi-papua-barat-daya",
+   "name": "Provinsi Papua Barat Daya",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 247260,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2023/12",
+  "title": "Peraturan Gubernur Papua Barat Nomor 12 Tahun 2023 tentang Pembentukan Organisasi Dan Tata Kerja Unit Pelaksana Teknis Daerah Instalasi Farmasi Pada Dinas Kesehatan Provinsi Papua Barat",
+  "number": "12",
+  "year": 2023,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 284881,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/19",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 19 Tahun 2022 tentang Pembangunan, Penataan, Pengendalian Dan Penempatan Transmigrasi",
+  "number": "19",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284880,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/22",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 22 Tahun 2022 tentang Pembagian, Pengelolaan Dan Penatausahaan Dana Bagi Hasil Sumber Daya Alam Minyak Bumi Dan Gas Alam Dalam Rangka Otonomi Khusus Provinsi Papua Barat",
+  "number": "22",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284873,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/12",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 12 Tahun 2022 tentang Pertanggungjawaban Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2021",
+  "number": "12",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284861,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2022 tentang Penetapan Dan Pengelolaan Kawasan Ekosistem Esensial Mangrove Di Wilayah Provinsi Papua Barat",
+  "number": "5",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284877,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/21",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 21 Tahun 2022 tentang Tata Cara Pemberian Pertimbangan Gubernur Terhadap Perjanjian Internasional",
+  "number": "21",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284860,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/9",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 9 Tahun 2022 tentang Perubahan Atas Peraturan Daerah Provinsi Papua Barat Nomor 12 Tahun 12 tentang Retribusi  Daerah",
+  "number": "9",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284869,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/7",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 7 Tahun 2022 tentang Riset Dan Inovasi Daerah",
+  "number": "7",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284529,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2022 tentang Perubahan Kedua Atas Peraturan Daerah Provinsi Papua Barat Nomor 7 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Provinsi papua Barat",
+  "number": "4",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284534,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2022 tentang Pedoman Pelaksanaan Program Jaminan Sosial Ketenaga Kerjaan Bagi Pegawai Honorarium Kampung Di Provinsi Papua Barat",
+  "number": "1",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284882,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/18",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 18 Tahun 2022 tentang Pembangunan Dan Pemberdayaan Perempuan Asli Papua Dalam Bidang Ekonomi Kreatif",
+  "number": "18",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 360925,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/3",
+  "title": "Peraturan Gubernur Papua Barat Nomor 3 Tahun 2022 tentang Penyelenggaraan Jaringan Dokumentasi Dan Informasi Hukum Provinsi Papua Barat",
+  "number": "3",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284872,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/14",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 14 Tahun 2022 tentang Dana Abadi Provinsi Papua Barat",
+  "number": "14",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284865,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/10",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 10 Tahun 2022 tentang Komisi Hukum Ad Hoc",
+  "number": "10",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284875,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/16",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 16 Tahun 2022 tentang Penghapusan Kekerasan terhadap Perempuan",
+  "number": "16",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284864,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/6",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 6 Tahun 2022 tentang Penyelenggaraan Ketenagakerjaan Di Provinsi Papua Barat",
+  "number": "6",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284515,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/2",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 2 Tahun 2022 tentang Pelaksanaan Program Jaminan Sosial Ketenagakerjaan Bagi Pekerja Bukan Penerima Upah Orang Asli Papua Di Provinsi Papua Barat",
+  "number": "2",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284876,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/20",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 20 Tahun 2022 tentang Keanggotaan Dan Jumlah Anggota, Tugas Dan Wewenang Serta Pelaksanaan Hak Dan Kewajiban Majelis Rakyat Papua Barat",
+  "number": "20",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284863,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/8",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 8 Tahun 2022 tentang Tata Cara Pemilihan Anggota Majelis Rakyat Papua Barat",
+  "number": "8",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284884,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/15",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 15 Tahun 2022 tentang Pengelolaan Keuangan Daerah",
+  "number": "15",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284871,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/13",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 13 Tahun 2022 tentang Perubahan Atas Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2021 tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2022",
+  "number": "13",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 284879,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2022/17",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 17 Tahun 2022 tentang Pelindungan Dan Pembangunan Suku-Suku Yang Terisolasi, Terpencil Dan Terabaikan",
+  "number": "17",
+  "year": 2022,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242011,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2021/2",
+  "title": "PERDASUS Nomor 2 Tahun 2021 tentang Perubahan atas Peraturan Daerah Khusus Provinsi Papua Barat Nomor 2 Tahun 2019 tentang Pedoman Pelaksanaan, Penerimaan dan Pembagian Dana Otonomi Khusus Provinsi Papua Barat",
+  "number": "2",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367021,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/15",
+  "title": "Peraturan Gubernur Papua Barat Nomor 15 Tahun 2021 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR NOMOR 3 TAHUN 2020 TENTANG PEDOMAN TEKNIS PLAKSANAAN, PENERIMAAN DAN PEMBAGIAN DANA OTONOMI KHUSUS PROVINSI PAPUA BARAT",
+  "number": "15",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285222,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2021 Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2022",
+  "number": "5",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367009,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/6",
+  "title": "Peraturan Gubernur Papua Barat Nomor 6 Tahun 2021 tentang Pengeluaran Kas Mendahului Penetapan Peraturan Daerah tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2021 Pada Sekretariat Daerah Guna Kegiatan Penyediaan Dana Penunjang Operasional Kepala Daerah Dan Wakil Kepala Daerah Dan Penyediaan Jasa Pelayanan Umum Kantor",
+  "number": "6",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367023,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/20",
+  "title": "Peraturan Gubernur Papua Barat Nomor 20 Tahun 2021 tentang  Perubahan Atas Peraturan Gubernur Papua Barat Nomor 9 Tahun 2021 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2021",
+  "number": "20",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366931,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/12",
+  "title": "Peraturan Gubernur Papua Barat Nomor 12 Tahun 2021 Tentang TATA CARA PENJUALAN KENDARAAN DINAS",
+  "number": "12",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367081,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/27",
+  "title": "Peraturan Gubernur Papua Barat Nomor 27 Tahun 2021 tentang  Penjabaran Pertanggungjawaban Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2020",
+  "number": "27",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285219,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/2",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 2 Tahun 2021 Tentang PERUBAHAN ATAS PERATURAN DAERAH KHUSUS PROVINSI PAPUA BARAT NOMOR 2 TAHUN 2019 TENTANG PEDOMAN PELAKSANAAN, PENERIMAAN DAN PEMBAGIAN DANA OTONOMI KHUSUS PROVINSI PAPUA BARAT",
+  "number": "2",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366947,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/28",
+  "title": "Peraturan Gubernur Papua Barat Nomor 28 Tahun 2021 tentang Penjabaran Anggaran Pendapatan Dan Belanja Daerah\r\nTahun Anggaran 2022",
+  "number": "28",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366996,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/13",
+  "title": "Peraturan Gubernur Papua Barat Nomor 13 Tahun 2021 Tentang PEDOMAN PEMBERIAN HIBAH DAN BANTUAN SOSIAL KEAGAMAAN",
+  "number": "13",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366907,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/16",
+  "title": "Peraturan Gubernur Papua Barat Nomor 16 Tahun 2021 Tentang PEMBENTUKAN UNIT PELAKSANA TEKNIS DAERAH PERLINDUNGAN PEREMPUAN DAN ANAK PADA DINAS PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK PROVINSI PAPUA BARAT",
+  "number": "16",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367005,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/23",
+  "title": "Peraturan Gubernur Papua Barat Nomor 23 Tahun 2021 tentang Standar Biaya Umum Tahun Anggaran 2022 Di Lingkungan Pemerintah Provinsi Papua Barat",
+  "number": "23",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367017,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/7",
+  "title": "Peraturan Gubernur Papua Barat Nomor 7 Tahun 2021 tentang Pengeluaran Kas Mendahului Penetapan Peraturan Daerah tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2021 Pada Kegiatan Biro Otonomi Khusus Guna Menunjang Pendidikan Sekolah Inspektur Polisi Afirmasi Otonomi Khusus Tahun 2021",
+  "number": "7",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367048,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/25",
+  "title": "Peraturan Gubernur Papua Barat Nomor 25 Tahun 2021 tentang Tata Cara Penetapan Pengakuan Masyarakat Hukum Adat Dan Wilayah Adat",
+  "number": "25",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285351,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2021/8",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 8 TAHUN 2010 TENTANG PENCEGAHAN DAN PENANGGULANGAN HIV DAN AIDS",
+  "number": "8",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285216,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2021  tentang Investasi Pemerintah Provinsi Papua Barat",
+  "number": "4",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366958,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/8",
+  "title": "Peraturan Gubernur Papua Barat Nomor 8 Tahun 2021 tentang Pengeluaran Kas Mendahului Penetapan Peraturan Daerah tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2021 Pada Sekretariat Daerah Guna Menunjang Kegiatan Fasilitasi Keprotokolan Dan Kegiatan Penyelenggaraan Rapat Koordinasi Dan Konsultasi Organisasi Perangkat Daerah",
+  "number": "8",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367037,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/22",
+  "title": "Peraturan Gubernur Papua Barat Nomor 22 Tahun 2021 tentang Standar Harga Satuan Pokok Kegiatan",
+  "number": "22",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 367070,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/24",
+  "title": "Peraturan Gubernur Papua Barat Nomor 24 Tahun 2021 tentang Standar Harga Satuan Untuk Pengadaan barang Kebutuhan Pemerintah Provinsi Papua Barat Tahun Anggaran 2022",
+  "number": "24",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366981,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/11",
+  "title": "Peraturan Gubernur Papua Barat Nomor 11 Tahun 2021 tentang  Perubahan Atas Lampiran Peraturan Gubernur Nomor 42 Tahun 2020 tentang Standar Biaya Perjalanan Dinas Di Lingkungan Pemerintah Provinsi Papua Barat",
+  "number": "11",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 366974,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2021/10",
+  "title": "Peraturan Gubernur Papua Barat Nomor 10 tahun 2021 Tentang PENGELOLAAN SUMBER DAYA IKAN TERBANG DI WILAYAH PERAIRAN PROVINSI PAPUA BARAT",
+  "number": "10",
+  "year": 2021,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285754,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2020/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2020 tentang Pertanggungjawaban Pelaksanaan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2019",
+  "number": "2",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285760,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2020/5",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 5 TAHUN 2016 TENTANG PENYELENGGARAAN PEKAN OLAH RAGA NASIONAL KE-XX TAHUN 2020 DI PROVINSI PAPUA",
+  "number": "5",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285756,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2020/7",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 7 TAHUN 2018 TENTANG PERSEROAN TERBATAS PAPUA DIVESTASI MANDIRI",
+  "number": "7",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285755,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2020/3",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 3 Tahun 2020 tentang Perubahan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2020",
+  "number": "3",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 285685,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2020/1",
+  "title": "Peraturan Daerah Provinsi Nomor 1 Tahun 2020 Tentang ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2020",
+  "number": "1",
+  "year": 2020,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242023,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2019/3",
+  "title": "PERDASUS Nomor 3 Tahun 2019 tentang Pembagian Penerimaan Dana Bagi Hasil Sumber Daya Alam Minyak Bumi dan Gas Bumi Antara Provinsi dengan Kabupaten/Kota",
+  "number": "3",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 286345,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2019 Tentang PERTANGGUNGJAWABAN DAN BELANJA DAERAH TAHUN ANGGARAN 2018",
+  "number": "5",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286349,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/9",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 9 Tahun 2019 Tentang PEDOMAN PENGAKUAN, PERLINDUNGAN, PEMBERDAYAAN MASYARAKAT HUKUM ADAT DAN WILAYAH ADAT DI PROVINSI PAPUA BARAT",
+  "number": "9",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242020,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2019/9",
+  "title": "PERDASUS Nomor 9 Tahun 2019 tentang Tata Cara Pengisian Keanggotaan Dewan Perwakilan Rakyat Papua yang Ditetapkan Melalui Mekanisme Pengangkatan Periode 2019-2024",
+  "number": "9",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242012,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2019/2",
+  "title": "PERDASUS Nomor 2 Tahun 2019 tentang Pedoman Pelaksanaan, Penerimaan dan Pembagian Dana Otonomi Khusus Provinsi Papua Barat",
+  "number": "2",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242010,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2019/4",
+  "title": "PERDASUS Nomor 4 Tahun 2019 tentang Perubahan Kedua atas Peraturan Daerah Khusus Provinsi Papua Nomor 25 Tahun 2013 tentang Pembagian Penerimaan dan Pengelolaan Keuangan Dana Otonomi Khusus",
+  "number": "4",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286343,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/4",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat  Nomor 4 Tahun 2019 Tentang TATA CARA PENGISISAN KEANGGOTAAN DEWAN PERWAKILAN RAKYAT PAPUA BARAT MELALUI MEKANISME PENGANGKATAN",
+  "number": "4",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286584,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/10",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 10 Tahun 2019 tentang Pembangunan Berkelanjutan Di Provinsi Papua Barat",
+  "number": "10",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242027,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2019/10",
+  "title": "PERDASUS Nomor 10 Tahun 2019 tentang Pembangunan Berkelanjutan Di Provinsi Papua Barat",
+  "number": "10",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286336,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/2",
+  "title": "Paraturan Daerah Khusus Provinsi Papua Barat Nomor 2 Tahun 2019 Tentang PEDOMAN PELAKSANAAN, PENERIMAAN DAN PEMBAGIAN DANA OTONOMI KHUSUS PROVINSI PAPUA BARAT",
+  "number": "2",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286310,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2019/1",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 1 Tahun 2019 tentang Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2019",
+  "number": "1",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286580,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/3",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 3 Tahun 2019 tentang Pembagian Penerimaan Dana Bagi Hasil Sumber Daya Alam Minyak Bumi Dan Gas Antara Provinsi Dengan Kabupaten/Kota",
+  "number": "3",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286589,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2019/19",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 19 TAHUN 2016\r\nTENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH",
+  "number": "19",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286350,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/13",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 13 Tahun 2019 Tentang RENCANA ZONASI WILAYAH PESISIR DAN PULAU-PULAU KECIL PROVINSI PAPUA BARAT TAHUN 2019-2039",
+  "number": "13",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286591,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2019/25",
+  "title": "PERUBAHAN KEDUA ATAS PERATURAN DAERAH KHUSUS PROVINSI PAPUA NOMOR 25 TAHUN 2013 TENTANG PEMBAGIAN PENERIMAAN DAN PENGELOLAAN KEUANGAN DANA OTONOMI KHUSUS",
+  "number": "25",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286353,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/12",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 12 Tahun 2019 Tentang PEDOMAN PENGELOLAAN BARANG MILIK DAERAH",
+  "number": "12",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286335,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2019 Tentang PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA BARAT NOMOR 7 TAHUN 2016 TENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH PROVINSI PAPUA BARAT",
+  "number": "1",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286581,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2019/6",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 6 Tahun 2019 tentang Perubahan Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2019",
+  "number": "6",
+  "year": 2019,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286949,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/6",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 6 Tahun 2018 tentang Penanggulangan Penyalahgunaan Narkotika, Psikotropika dan Zat Adiktif Lainnya",
+  "number": "6",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286930,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/3",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 3 Tahun 2018 tentang Perubahan Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2018",
+  "number": "3",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286925,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/2",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 2 Tahun 2018 tentang Pertanggungjawaban Pelaksanaan Anggaran Pendapatan dan Belanja Daerah Provinsi Papua Tahun Anggaran 2017",
+  "number": "2",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286934,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/4",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 4 Tahun 2018 tentang Kepegawaian Daerah",
+  "number": "4",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286995,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2018/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2018 Tentang ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2018",
+  "number": "1",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286986,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2018/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2018 Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2017",
+  "number": "2",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287021,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2018/3",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 3 Tahun 2018 Tentang PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2018",
+  "number": "3",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286971,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/5",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 5 Tahun 2018 tentang Tanggungjawab Sosial Perusahaan",
+  "number": "5",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286941,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/1",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 1 Tahun 2018 tentang Anggaran Pendapatan dan Belanja Daerah Tahun Anggaran 2018",
+  "number": "1",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286969,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/9",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 9 Tahun 2018 tentang Rumah Sakit Rujukan Nasional, Rumah Sakit Rujukan Provinsi, Rumah Sakit Regional dan Rumah Sakit Rujukan Khusus di Provinsi Papua",
+  "number": "9",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 286953,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2018/7",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 7 Tahun 2018 tentang Perseroan Terbatas Papua Divestasi Mandiri",
+  "number": "7",
+  "year": 2018,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287278,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2017/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2017 Tentang RENCANA PEMBANGUNAN JANGKA MENENGAH DAERAH PROVINSI PAPUA BARAT TAHUN 2017-2022",
+  "number": "4",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287282,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2017/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2017 Tentang PERUBAHAN KEDUA ATAS PERATURAN DAERAH PROVINSI PAPUA BARAT NOMOR 3 TAHUN 2011 TENTANG PAJAK KENDARAAN BERMOTOR",
+  "number": "1",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287285,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2017/3",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 3 Tahun 2017 Tentang HAK KEUANGAN DAN ADMINISTRATIF PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT PAPUA BARAT",
+  "number": "3",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287280,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2017/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2017 Tentang PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2017",
+  "number": "5",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287281,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2017/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2017 Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2016",
+  "number": "2",
+  "year": 2017,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287927,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/15",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA \r\nNOMOR 15 TAHUN 2013 TENTANG PELARANGAN PRODUKSI, \r\nPENGEDARAN DAN  PENJUALAN MINUMAN BERALKOHOL",
+  "number": "15",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287939,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/25",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH KHUSUS PROVINSI PAPUA NOMOR 25 TAHUN 2013 TENTANG PEMBAGIAN PENERIMAAN DAN PENGELOLAAN KEUANGAN DANA OTONOMI KHUSUS",
+  "number": "25",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242032,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2016/7",
+  "title": "PERDASUS Nomor 7 Tahun 2016 tentang Perubahan atas Peraturan Daerah Khusus Provinsi Papua Nomor 6 Tahun 2014 tentang Keanggotaan Dewan Perwakilan Rakyat Papua yang Ditetapkan melalui Mekanisme Pengangkatan Periode 2014-2019",
+  "number": "7",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242031,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2016/5",
+  "title": "PERDASUS Nomor 5 Tahun 2016 tentang Syarat Pencalonan dan Tata Cara Pemilihan Gubernur dan Wakil Gubernur",
+  "number": "5",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 287932,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/12",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 12 TAHUN 2013 TENTANG ORGANISASI DAN TATA KERJA",
+  "number": "12",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287788,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2016 Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2015",
+  "number": "1",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287800,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/7",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 7 Tahun 2016 Tentang PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH",
+  "number": "7",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242017,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2016/14",
+  "title": "PERDASUS Nomor 14 Tahun 2016 tentang Tata Cara Pemilihan Anggota Majelis Rakyat Papua",
+  "number": "14",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242026,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2016/13",
+  "title": "PERDASUS Nomor 13 Tahun 2016 tentang Perubahan Atas Peraturan Daerah Khusus Provinsi Papua Nomor 25 Tahun 2013 Tentang Pembagian Penerimaan dan Pengelolaan Keuangan Dana Otonomi Khusus",
+  "number": "13",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 287936,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/4",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA \r\nNOMOR 4 TAHUN 2011 TENTANG PAJAK DAERAH",
+  "number": "4",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287925,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/5",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 5 \r\nTAHUN 2011 TENTANG RETRIBUSI DAERAH",
+  "number": "5",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287796,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/8",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 8 Tahun 2016 Tentang ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGRAN 2017",
+  "number": "8",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287920,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/6",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH KHUSUS PROVINSI PAPUA NOMOR 6 TAHUN 2014 TENTANG KEANGGOTAAN DEWAN P",
+  "number": "6",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242019,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2016/4",
+  "title": "PERDASUS Nomor 4 Tahun 2016 tentang Perubahan Atas Peraturan Daerah Khusus Provinsi Papua Barat Nomor 4 Tahun 2012 Tentang Keanggotaan dan Jumlah Anggota Majelis Rakyat Papua Barat",
+  "number": "4",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 473,
+   "slug": "perda-provinsi-papua-barat",
+   "name": "Provinsi Papua Barat",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 287801,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/6",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 6 Tahun 2016 Tentang PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2016",
+  "number": "6",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287803,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/3",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 3 Tahun 2016 Tentang  TATA CARA PEMILIHAN ANGGOTA MAJELIS RAKYAT PAPUA BARAT",
+  "number": "3",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287804,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2016 Tentang  KEDUDUKAN KEUANGAN PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT PAPUA BARAT",
+  "number": "2",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287795,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/5",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 5 Tahun 2016 Tentang SYARAT PENCALONAN DAN TATA CARA PEMILIHAN GUBERNUR DAN WAKIL GUBERNUR",
+  "number": "5",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287798,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2016/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2016 Tentang PERUBAHAN ATAS PERATURAN DAERAH KHUSUS PROVINSI PAPUA BARAT NOMOR 4 TAHUN 2012 TENTANG KEANGGOTAAN DAN JUMLAH ANGGOTA MAJELIS RAKYAT PAPUA BARAT",
+  "number": "4",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 287930,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2016/13",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 13 TAHUN 2013 TENTANG ORGANISASI DAN TATA KERJA",
+  "number": "13",
+  "year": 2016,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 379096,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2015/4",
+  "title": "Peraturan Gubernur Papua Nomor 4 Tahun 2015 tentang Pedoman Penyusunan Organisasi dan Tata Kerja Satuan Kerja Perangkat Daerah Kabupaten/Kota Se Provinsi Papua",
+  "number": "4",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 288787,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2015/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2015 Tentang PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2015",
+  "number": "2",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 379062,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2015/7",
+  "title": "Peraturan Gubernur Papua Nomor 7 Tahun 2015 tentang Uraian Tugas dan Fungsi Dinas Koperasi dan Usaha Mikro, Kecil dan Menengah Provinsi Papua",
+  "number": "7",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 288808,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2015/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2015 Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2014",
+  "number": "1",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 288847,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2015/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2015 tentang Anggaran Pendapatan Dan Belanja Daerah Tahun Anggaran 2016",
+  "number": "4",
+  "year": 2015,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242015,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2014/8",
+  "title": "PERDASUS Nomor 8 Tahun 2014 tentang Penanganan Khusus Terhadap Komunitas Adat Terpencil",
+  "number": "8",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242029,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2014/9",
+  "title": "PERDASUS Nomor 9 Tahun 2014 tentang Tata Cara Pemberian Pertimbangan Gubernur Terhadap Perjanjian Internasional",
+  "number": "9",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242034,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2014/6",
+  "title": "PERDASUS Nomor 6 Tahun 2014 tentang Keanggotaan Dewan Perwakilan Rakyat Papua yang Ditetapkan Melalui Mekanisme Pengangkatan Periode 2014-2019",
+  "number": "6",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242025,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2014/10",
+  "title": "PERDASUS Nomor 10 Tahun 2014 tentang Program Strategis Pembangunan Ekonomi dan Kelembagaan Kampung",
+  "number": "10",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 380262,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/25",
+  "title": "Peraturan Gubernur Papua Barat Nomor 25 Tahun 2014 Tentang STANDAR BIAYA PERJALANAN DINAS, EKSPLOITASI KENDARAAN, TAMBAHAN PENGHASILAN PNS, HONORER, SEWA MOBILITAS DARAT DAN KONSUMSI DI LINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "25",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290303,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2014/1",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA NOMOR 1 TAHUN 2010 TENTANG PEMBENTUKAN DANA CADANGAN",
+  "number": "1",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380267,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/6",
+  "title": "Peraturan Gubernur Papua Barat Nomor 6 Tahun 2014 Tentang PENGUSULAN DAN TATA CARA SELEKSI KEANGGOTAAN DEWAN PERWAKILAN RAKYAT PAPUA BARAT YANG DITETAPKAN MELALUI MEKANISME PENGANGKATAN",
+  "number": "6",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380230,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/16",
+  "title": "Peraturan Gubernur Papua Barat Nomor 16 Tahun 2014 Tentang PENDELEGASIAN KEWENANGAN PENERBITAN DAN PENANDATANGANAN PERIZINAN DAN NON PERIZINAN KEPADA BADAN PENANAMAN MODAL DAN PELAYANAN PERIJINAN TERPADU PROVINSI PAPUA BARAT",
+  "number": "16",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380277,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/18",
+  "title": "Peraturan Gubernur Papua Barat Nomor 18 Tahun 2014 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR 1 TAHUN 2014 TENTANG KEBUTUHAN DAN HARGA ECERAN TERTINGGI PUPUK BERSUBSIDI UNTUK SEKTOR PERTANIAN TAHUN ANGGARAN 2014",
+  "number": "18",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380155,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/3",
+  "title": "Peraturan Gubernur Papua Barat Nomor 3 Tahun 2014 Tentang PEMBENTUKAN UNIT LAYANAN PENGADAAN BARANG/JASA PEMERINTAH PROVINSI PAPUA BARAT BIDANG KONSTRUKSI",
+  "number": "3",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380201,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/12",
+  "title": "Peraturan Gubernur Papua Barat Nomor 12 Tahun 2014 Tentang KERJASAMA PEMBANGUNAN LEMBAGA INTERNASIONAL DI PROVINSI PAPUA BARAT",
+  "number": "12",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380205,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/19",
+  "title": "Peraturan Gubernur Papua Barat Nomor 19 Tahun 2014 Tentang PEDOMAN PELAKSANAAN PENGHAPUSAN BARANG MILIK DAERAH",
+  "number": "19",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380254,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/17",
+  "title": "Peraturan Gubernur Papua Barat Nomor 17 Tahun 2014 Tentang PEDOMAN PELAKSANAAN SENSUS BARANG MILIK DAERAH TAHUN 2014 DILINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "17",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380217,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/13",
+  "title": "Peraturan Gubernur Papua Barat Nomor 13 Tahun 2014 Tentang URAIAN TUGAS DAN TATA KERJA DINAS TANAMAN PANGAN DAN HORTIKULTURA PROVINSI PAPUA BARAT",
+  "number": "13",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380248,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/28",
+  "title": "Peraturan Gubernur Papua Barat Nomor 28 Tahun 2014 Tentang KARTU TANDA ANGGOTA SATUAN POLISI PAMONG PRAJA PROVINSI PAPUA BARAT",
+  "number": "28",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380237,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/24",
+  "title": "Peraturan Gubernur Papua Barat Nomor 24 Tahun 2014 Tentang STANDAR BIAYA HONORARIUM TIM, LEMBUR, PENATARAN/PELATIHAN DAN TUGAS BELAJAR, PENDIDIKAN DAN LATIHAN STRUKTURAL/PRAJABATAN DAN PENDIDIKAN LATIHAN TEKNIS/FUNGSIONAL DI LINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "24",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380221,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/21",
+  "title": "Peraturan Gubernur Papua Barat Nomor 21 Tahun 2014 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR 6 TAHUN 2014 TENTANG PENGUSULAN DAN TATA CARA SELEKSI KEANGGOTAAN DEWAN PERWAKILAN RAKYAT PAPUA BARAT YANG DITETAPKAN MELALUI MEKANISME PENGANGKATAN",
+  "number": "21",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380268,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/33",
+  "title": "Peraturan Gubernur Papua Barat Nomor 33 Tahun 2014 Tentang URAIAN TUGAS DAN TATA KERJA DINAS KEHUTANAN PROVINSI PAPUA BARAT",
+  "number": "33",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380295,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/30",
+  "title": "Peraturan Gubernur Papua Barat Nomor 30 Tahun 2014 Tentang PEMBEBASAN SANKSI/DENDA PAJAK KENDARAAN BERMOTOR DAN BEA BALIK NAMA KENDARAAN BERMOTOR II",
+  "number": "30",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380312,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/31",
+  "title": "Peraturan Gubernur Papua Barat Nomor 31 Tahun 2014 Tentang PENETAPAN KOMISI DAN SEKRETARIAT KOMISI DAERAH PENGENDALIAN ZOONOSIS PROVINSI PAPUA BARAT",
+  "number": "31",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380310,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/37",
+  "title": "Peraturan Gubernur Papua Barat Nomor 37 Tahun 2014 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR 24 TAHUN 2014 TENTANG STANDAR BIAYA HONORARIUM TIM, LEMBUR, PANATARAN/PELATIHAN DAN TUGAS BELAJAR, PENDIDIKAN DAN LATIHAN STRUKTURAL/PRAJABATAN DAN PENDIDIKAN LATIHAN TEKNIS/FUNGSIONAL DI LINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "37",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380256,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/32",
+  "title": "Peraturan Gubernur Papua Barat Nomor 32 Tahun 2014 Tentang RINCIAN TUGAS DAN TATA KERJA SATUAN POLISI PAMONG PRAJA PROVINSI PAPUA BARAT",
+  "number": "32",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290305,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2014/2",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH NOMOR 2 TAHUN 2009 TENTANG POKOK-POKOK PENGELOLAAN KEUANGAN DAERAH",
+  "number": "2",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380274,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/29",
+  "title": "Peraturan Gubernur Papua Barat Nomor 29 Tahun 2014 Tentang RENCANA KERJA PEMERINTAH DAERAH PROVINSI PAPUA BARAT TAHUN 2015",
+  "number": "29",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380271,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/39",
+  "title": "Peraturan Gubernur Papua Barat Nomor 39 Tahun 2014 Tentang KOTA BERSIH DAN TEDUH PROVINSI PAPUA BARAT",
+  "number": "39",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290079,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2014 Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH PROVINSI PAPUA BARAT TAHUN ANGGARAN 2013",
+  "number": "1",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380208,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/10",
+  "title": "Peraturan Gubernur Papua Barat Nomor 10 Tahun 2014 Tentang PEMBENTUKAN SUSUNAN ORGANISASI DAN TATA KERJA BALAI PERBENIHAN DAN PROTEKSI TANAMAN PERKEBUNAN PROVINSI PAPUA BARAT",
+  "number": "10",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380260,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/11",
+  "title": "Peraturan Gubernur Papua Barat Nomor 11 Tahun 2014 Tentang PEDOMAN PENOMORAN KODE LOKASI SATUAN KERJA PERANGKAT DAERAH DAN PENOMORAN KODE BARANG MILIK DAERAH PROVINSI PAPUA BARAT",
+  "number": "11",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380250,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/14",
+  "title": "Peraturan Gubernur Papua Barat Nomor 14 Tahun 2014 Tentang URAIAN TUGAS DAN TATA KERJA DINAS PERINDUSTRIAN DAN PERDAGANGAN PROVINSI PAPUA BARAT",
+  "number": "14",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380233,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/15",
+  "title": "Peraturan Gubernur Papua Barat Nomor 15 Tahun 2014 Tentang PELAYANAN JASA PENDIDIKAN DAN PELATIHAN PROVINSI PAPUA BARAT",
+  "number": "15",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290076,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/2",
+  "title": "Peraturan Gubernur Papua Barat Nomor 2 Tahun 2014 Tentang KETENTUAN PENGALOKASIAN DANA OTONOMI KHUSUS PROVINSI PAPUA BARAT TAHUN ANGGARAN 2014",
+  "number": "2",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380269,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/20",
+  "title": "Peraturan Gubernur Papua Barat Nomor 20 Tahun 2014 Tentang ALOKASI DANA BAGI HASIL SUMBERDAYA ALAM PERTAMBANGAN MINYAK BUMI DAN GAS BUMI DALAM RANGKA OTONOMI KHUSUS KEPADA KABUPATEN/KOTA SE-PROVINSI PAPUA BARAT TAHUN 2014",
+  "number": "20",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380213,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/22",
+  "title": "Peraturan Gubernur Papua Barat Nomor 22 Tahun 2014 Tentang PENJABARAN PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2013",
+  "number": "22",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380244,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/23",
+  "title": "Peraturan Gubernur Papua Barat Nomor 23 Tahun 2014 Tentang PEMBAGIAN HASIL PENERIMAAN PAJAK ROKOK KEPADA KABUPATEN/KOTA SE-PROVINSI PAPUA BARAT",
+  "number": "23",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380241,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/26",
+  "title": "Peraturan Gubernur Papua Barat Nomor 26 Tahun 2014 Tentang PENJABARAN PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2014",
+  "number": "26",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380282,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/27",
+  "title": "Peraturan Gubernur Papua Barat Nomor 27 Tahun 2014 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR 9 TAHUN 2014 TENTANG PEMBIAYAAN RUJUKAN PELAYANAN KESEHATAN PERORANGAN BAGI ORANG ASLI PAPUA DI PROVINSI PAPUA BARAT",
+  "number": "27",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380232,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/35",
+  "title": "Peraturan Gubernur Papua Barat Nomor 35 Tahun 2014 Tentang URAIAN TUGAS DAN TATA KERJA DINAS PERUMAHAN PROVINSI PAPUA BARAT",
+  "number": "35",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380306,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/34",
+  "title": "Peraturan Gubernur Papua Barat Nomor 34 Tahun 2014 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR  4 TAHUN 2009 TENTANG RINCIAN TUGAS DAN TATA KERJA SEKRETARIAT DAERAH PROVINSI PAPUA BARAT",
+  "number": "34",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380302,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/36",
+  "title": "Peraturan Gubernur Papua Barat Nomor 36 Tahun 2014 Tentang URAIAN TUGAS DAN FUNGSI STAF AHLI GUBERNUR",
+  "number": "36",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380322,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/38",
+  "title": "Peraturan Gubernur Papua Barat Nomor 38 Tahun 2014 Tentang PEDOMAN PENGELOLAAN SAMPAH RUMAH TANGGA DAN SAMPAH SEJENIS SAMPAH RUMAH TANGGA",
+  "number": "38",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380206,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/4",
+  "title": "Peraturan Gubernur Papua Barat Nomor 4 Tahun 2014 Tentang PEMBENTUKAN UNIT LAYANAN PENGADAAN BARANG/JASA PEMERINTAH DAERAH BIDANG NON KONSTRUKSI",
+  "number": "4",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380281,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/40",
+  "title": "Peraturan Gubernur Papua Barat Nomor 40 Tahun 2014 Tentang PETUNJUK PELAKSANAAN PENANGGULANGAN BENCANA DI PROVINSI PAPUA BARAT",
+  "number": "40",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380293,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/41",
+  "title": "Peraturan Gubernur Papua Barat Nomor 41 Tahun 2014 Tentang PENJABARAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2015",
+  "number": "41",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380150,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/5",
+  "title": "Peraturan Gubernur Papua Barat Nomor 5 Tahun 2014 Tentang STANDAR PEMBERIAN KOMPENSASI BAGI MASYARAKAT ADAT ATAS KAYU PADA AREAL HAK ULAYAT DI PROVINSI PAPUA BARAT",
+  "number": "5",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380275,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/7",
+  "title": "Peraturan Gubernur Papua Barat Nomor 7 Tahun 2014 Tentang KEBIJAKAN AKUNTANSI PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "7",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380243,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/8",
+  "title": "Peraturan Gubernur Papua Barat Nomor 8 Tahun 2014 Tentang SISTEM AKUNTANSI PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "8",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 380224,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2014/9",
+  "title": "Peraturan Gubernur Papua Barat Nomor 9 Tahun 2014 Tentang PEMBIAYAAN RUJUKAN PELAYANAN KESEHATAN PERORANGAN BAGI ORANG ASLI PAPUA DI PROVINSI PAPUA BARAT",
+  "number": "9",
+  "year": 2014,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290958,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/11",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 11 Tahun 2013 Tentang PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAKAN KEKERASAN",
+  "number": "11",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381830,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2013/17",
+  "title": "(PERGUB) PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA NOMOR 17 TAHUN 2013 TENTANG PELAKSANAAN BELANJA BAN",
+  "number": "17",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381511,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/22",
+  "title": "Peraturan Gubernur Papua Barat Nomor 22 Tahun 2013 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR 19 TAHUN 2013 TENTANG STANDAR BIAYA PERJALANAN DINAS, EKSPLOITASI KENDARAAN, TAMBAHAN PENGHASILAN PNS, HONORER, SEWA MOBILITAS DARAT DAN KONSUMSI DI LINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "22",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381447,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/21",
+  "title": "Peraturan Gubernur Papua Barat Nomor 21 Tahun 2013 Tentang PERUBAHAN ATAS PERATURAN GUBERNUR PAPUA BARAT NOMOR 16 TAHUN 2012 TENTANG PEMBAGIAN DAN PENGGUNAAN BIAYA PEMUNGUTAN PAJAK BUMI DAN BANGUNAN BAGIAN PROVINSI PAPUA BARAT TAHUN ANGGARAN 2012",
+  "number": "21",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 291231,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2013/14",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH NOMOR 14 TAHUN 2009 TENTANG SUSUNAN ORGANISASI DAN TATA KERJA PERANG",
+  "number": "14",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381462,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/18",
+  "title": "Peraturan Gubernur Papua Barat Nomor 18 Tahun 2013 Tentang PENJABARAN PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2013",
+  "number": "18",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290951,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/3",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 3 Tahun 2013 Tentang PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2013",
+  "number": "3",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242043,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2013/16",
+  "title": "PERDASUS Nomor 16 Tahun 2013 tentang Keanggotaan Dewan Perwakilan Rakyat Papua Barat Yang Ditetapkan Melalui Mekanisme Pengangkatan",
+  "number": "16",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242047,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2013/3",
+  "title": "PERDASUS Nomor 3 Tahun 2013 tentang Pelayanan Pendidikan Bagi Komunitas Adat Terpencil",
+  "number": "3",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242035,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2013/25",
+  "title": "PERDASUS Nomor 25 Tahun 2013 tentang Pembagian Penerimaan dan Pengelolaan Keuangan Dana Otonomi Khusus",
+  "number": "25",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 291239,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2013/2",
+  "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA  NOMOR 2 TAHUN 2002 TENTANG BANK PEMBANGUNAN DAERAH P",
+  "number": "2",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290948,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/9",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 9 Tahun 2013 Tentang PERUBAHAN KEDUA ATAS PERATURAN DAERAH PROVINSI PAPUA BARAT NOMOR 5 TAHUN 2009 TENTANG ORGANISASI DAN TATA KERJA INSPEKTORAT, BADAN PERENCANAAN PEMBANGUNAN DAERAH DAN LEMBAGA TEKNIS DAERAH PROVINSI PAPUA BARAT",
+  "number": "9",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290953,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/6",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 6 Tahun 2013 Tentang PAJAK ROKOK",
+  "number": "6",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290956,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2013  Tentang PERUBAHAN ATAS PERATURAN DAERAH PROVINSI PAPUA BARAT NOMOR 3 TAHUN 2011 TENTANG PAJAK KENDARAAN BERMOTOR",
+  "number": "5",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381408,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/17",
+  "title": "Peraturan Gubernur Papua Barat Nomor 17 Tahun 2013  Tentang PENJABARAN PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2012",
+  "number": "17",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290971,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/15",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 15 Tahun 2013 Tentang PEDOMAN PENGENDALIAN DAN PEMULIHAN SAMPAH",
+  "number": "15",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290944,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/7",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 7 Tahun 2013 Tentang PENYERTAAN MODAL PEMERINTAH PROVINSI PAPUA BARAT PADA PERSEROAN TERBATAS BANK PEMBANGUNAN DAERAH PAPUA",
+  "number": "7",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290943,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/8",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 8 Tahun 2013 Tentang ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2014",
+  "number": "8",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290938,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2013  Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2012",
+  "number": "2",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381454,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/19",
+  "title": "Peraturan Gubernur Papua Barat Nomor 19 Tahun 2013 Tentang STANDAR BIAYA PERJALANAN DINAS, EKSPLOITASI KENDARAAN, TAMBAHAN PENGHASILAN PNS, HONORER, SEWA MOBILITAS DARAT DAN KONSUMSI DI LINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "19",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290986,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/16",
+  "title": "Peraturan Gubernur Papua Barat Nomor 16 Tahun 2013 tentang Rencana Aksi Daerah Penurunan Gas Rumah Kaca Provinsi Papua Barat Tahun 2013-2020",
+  "number": "16",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290974,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/14",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 14 Tahun 2013 Tentang RENCANA INDUK PEMBANGUNAN KEPARIWISATAAN DAERAH TAHUN 2013-2033",
+  "number": "14",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290976,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/13",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 13 Tahun 2013 Tentang KEPARIWISATAAN",
+  "number": "13",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290936,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2013 Tentang ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2013",
+  "number": "1",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381426,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/20",
+  "title": "Peraturan Gubernur Papua Barat Nomor 20 Tahun 2013 Tentang STANDAR BIAYA HONORARIUM TIM, LEMBUR, PENATARAN/PELATIHAN DAN TUGAS BELAJAR, PENDIDIKAN DAN LATIHAN STRUKTURAL/PRAJABATAN DAN PENDIDIKAN LATIHAN TEKNIS/FUNGSIONAL DI LINGKUNGAN PEMERINTAH PROVINSI PAPUA BARAT",
+  "number": "20",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290985,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/12",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 12 Tahun 2013 PENGELOLAAN AIR TANAH",
+  "number": "12",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290937,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/4",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 4 Tahun 2013  Tentang RENCANA TATA RUANG WILAYAH PROVINSI PAPUA BARAT TAHUN 2013-2033",
+  "number": "4",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 290940,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/10",
+  "title": "Peraturan Gubernur Papua Barat Nomor 10 Tahun 2013 tentang Susunan Organisasi Dan Tata Kerja Balai Pengawasan Dan Sertifikasi Benih Tanaman Pangan Dan Holtikultura Provinsi Papua Barat",
+  "number": "10",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 381481,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2013/23",
+  "title": "Peraturan Gubernur Papua Barat Nomor 23 Tahun 2013 Tentang PENJABARAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2014",
+  "number": "23",
+  "year": 2013,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 383383,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2012/5",
+  "title": "(PERGUB) PETUNJUK PELAKSANAAN PERATURAN DAERAH PROVINSI PAPUA NOMOR 5 TAHUN 2011 TENTANG RETRIBUSI D",
+  "number": "5",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292035,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2012/3",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 3 Tahun 2012 Tentang PENYELENGGARAAN PENANGGULANGAN BENCANA DI PROVINSI PAPUA BARAT",
+  "number": "3",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242054,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2012/5",
+  "title": "PERDASUS Nomor 5 Tahun 2012 tentang Protokoler, Keuangan Pimpinan dan Anggota MRPB",
+  "number": "5",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292022,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2012/5",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 5 Tahun 2012  Tentang PROTOKOLER, KEUANGAN PIMPINAN DAN ANGGOTA MAJELIS RAKYAT PAPUA BARAT",
+  "number": "5",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292014,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2012/4",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Barat Nomor 4 Tahun 2012 tentang Kenaggotaan Dan Jumlah Anggota Majelis Rakyat Papua Barat",
+  "number": "4",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242039,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2012/4",
+  "title": "PERDASUS Nomor 4 Tahun 2012 tentang Keanggotaan dan Jumlah Anggota Majelis Rakyat Papua Barat",
+  "number": "4",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292028,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2012/1",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 1 Tahun 2012 Tentang PERTANGGUNGJAWABAN PELAKSANAAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2011",
+  "number": "1",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242057,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2012/6",
+  "title": "PERDASUS Nomor 6 Tahun 2012 tentang Pelaksanaan Tugas, Wewenang, Hak dan Kewajiban Majelis Rakyat Papua Barat",
+  "number": "6",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292031,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua-barat/2012/2",
+  "title": "Peraturan Daerah Provinsi Papua Barat Nomor 2 Tahun 2012 Tentang PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH TAHUN ANGGARAN 2012",
+  "number": "2",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292214,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2012/1",
+  "title": "Peraturan Daerah Nomor 1 Tahun 2012",
+  "number": "1",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 383389,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2012/4",
+  "title": "(PERGUB) PETUNJUK PELAKSANAAN PERATURAN DAERAH PROVINSI PAPUA NOMOR 4 TAHUN 2011 TENTANG PAJAK DAERA",
+  "number": "4",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 292208,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2012/2",
+  "title": "Peraturan Daerah Nomor 2 Tahun 2012",
+  "number": "2",
+  "year": 2012,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242061,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2011/6",
+  "title": "PERDASUS Nomor 6 Tahun 2011 tentang Pemilihan Umum Gubernur dan Wakil Gubernur",
+  "number": "6",
+  "year": 2011,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 384824,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2011/33",
+  "title": "(PERGUB) PERUBAHAN LAMPIRAN I DAN LAMPIRAN III PERATURAN GUBERNUR PAPUA NOMOR 33 TAHUN 2011 TENTANG",
+  "number": "33",
+  "year": 2011,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 384779,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2011/5",
+  "title": "(PERGUB) PERUBAHAN PERATURAN GUBERNUR PAPUA NOMOR 5 TAHUN 2010 TENTANG PEMBENTUKAN ORGANISASI DAN TA",
+  "number": "5",
+  "year": 2011,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242058,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2011/1",
+  "title": "PERDASUS Nomor 1 Tahun 2011 tentang Pemulihan Hak Perempuan Orang Asli Papua Korban Kekerasan dan Pelanggaran Hak Asasi Manusia",
+  "number": "1",
+  "year": 2011,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242051,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2010/4",
+  "title": "PERDASUS Nomor 4 Tahun 2010 tentang Pemilihan Anggota Majelis Rakyat Papua",
+  "number": "4",
+  "year": 2010,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242048,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/23",
+  "title": "PERDASUS Nomor 23 Tahun 2008 tentang Hak Ulayat Masyarakat Hukum Adat dan Hak Perorangan Warga Masyarakat Hukum Adat Atas Tanah",
+  "number": "23",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 295384,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/20",
+  "title": "Peraturan Daerah Khusus Papua Nomor 20 Tahun 2008 tentang Peradilan Adat Di Papua",
+  "number": "20",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295397,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/19",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 19 Tahun 2008 tentang Perlindungan Hak Kekayaan Intelektual Orang Asli Papua",
+  "number": "19",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295395,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/18",
+  "title": "Peraturan Daerah Khusus Provinsi Papua Nomor 18 Tahun 2008 tentang Perekonomian Berbasis Kerakyatan",
+  "number": "18",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295386,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/15",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 15 Tahun 2008 tentang Kependudukan",
+  "number": "15",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295379,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/17",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 17 Tahun 2008 tentang Jasa Konstruksi",
+  "number": "17",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295388,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/16",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 16 Tahun 2008 tentang Perlindungan Dan Pembinaan Kebudayaan Asli Papua",
+  "number": "16",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295393,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/13",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 13 Tahun 2008 tentang Pengujian Mutu Material dan Konstruksi Bangunan",
+  "number": "13",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295431,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/10",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 10 Tahun 2008 tentang Organisasi dan Tata Kerja Dinas-Dinas Daerah Provinsi Papua",
+  "number": "10",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 242037,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/3",
+  "title": "PERDASUS Nomor 3 Tahun 2008 tentang Pelaksanaan Hak dan Kewajiban Majelis Rakyat Papua",
+  "number": "3",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242052,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/4",
+  "title": "PERDASUS Nomor 4 Tahun 2008 tentang Pelaksanan Tugas dan Wewenang Majelis Rakyat Papua",
+  "number": "4",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242040,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/19",
+  "title": "PERDASUS Nomor 19 Tahun 2008 tentang Perlindungan Hak Kekayaan Intelektual Orang Asli Papua",
+  "number": "19",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242050,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/18",
+  "title": "PERDASUS Nomor 18 Tahun 2008 tentang Perekonomian Berbasis Kerakyatan",
+  "number": "18",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242041,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/22",
+  "title": "PERDASUS Nomor 22 Tahun 2008 tentang Perlindungan dan Pemeliharaan Sumber Daya Alam Masyarakat Hukum Adat Papua",
+  "number": "22",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242044,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/21",
+  "title": "PERDASUS Nomor 21 Tahun 2008 tentang Pengelolaan Hutan Berkelanjutan di Provinsi Papua",
+  "number": "21",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 242036,
+  "frbr_uri": "/akn/id/act/perdasus-papua/2008/20",
+  "title": "PERDASUS Nomor 20 Tahun 2008 tentang Peradilan Adat di Papua",
+  "number": "20",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": {
+   "id": 472,
+   "slug": "perda-provinsi-papua",
+   "name": "Provinsi Papua",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 295417,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/12",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 12 Tahun 2008 tentang Pendirian Perusahaan Perseroan, Perusahaan Induk Milik Daerah PT. Rakyat Papua Sejahtera (Holding Company)",
+  "number": "12",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ },
+ {
+  "id": 295381,
+  "frbr_uri": "/akn/id/act/perdasus/prov-papua/2008/14",
+  "title": "Peraturan Daerah Provinsi Papua Nomor 14 Tahun 2008 tentang Pertambangan Rakyat Daerah",
+  "number": "14",
+  "year": 2008,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "PERDASUS",
+  "issuing_body": null
+ }
+]

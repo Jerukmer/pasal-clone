@@ -1,15 +1,23 @@
-/* SPA router + search engine client-side untuk clone Pasal.id */
+/* SPA router + search client-side (fetch metadata.json dari Vercel CDN) */
 (function () {
   const app = document.getElementById("app");
   const navLinks = document.querySelectorAll(".nav-links a, .nav-right a");
+  let META = [];
 
-  function setActive(hash) {
-    navLinks.forEach(a => {
-      const h = a.getAttribute("href");
-      a.classList.toggle("active", h === hash);
-    });
+  async function loadMeta() {
+    if (META.length) return;
+    const res = await fetch("assets/data/metadata.json.gz");
+    const buf = await res.arrayBuffer();
+    // decompress gzip di browser
+    const ds = new DecompressionStream("gzip");
+    const stream = new Response(buf).body.pipeThrough(ds);
+    const ab = await new Response(stream).arrayBuffer();
+    META = JSON.parse(new TextDecoder().decode(ab));
   }
 
+  function setActive(hash) {
+    navLinks.forEach(a => a.classList.toggle("active", a.getAttribute("href") === hash));
+  }
   function header() {
     return `
     <header class="site">
@@ -27,264 +35,115 @@
       </div>
     </header>`;
   }
-
   function footer() {
     return `
     <footer class="site">
       <div class="wrap foot-grid">
         <div class="foot-brand">
           <div class="brand">Pasal<span class="dot">.id</span></div>
-          <p>Hukum Indonesia, terbuka untuk semua. Clone UI — data sample (bukan seluruh database resmi).</p>
+          <p>Clone UI Pasal.id — ${META.length ? META.length.toLocaleString("id-ID") : "..."} peraturan terindeks. Data dari pasal.id API.</p>
         </div>
-        <div class="foot-col">
-          <h4>Produk</h4>
-          <a href="#/cari">Cari</a>
-          <a href="#/jelajahi">Jelajahi</a>
-          <a href="#/api">API</a>
-          <a href="#/jelajahi">Hubungkan AI</a>
-        </div>
-        <div class="foot-col">
-          <h4>Tentang</h4>
-          <a href="#/api">Tentang Pasal.id</a>
-          <a href="#/api">Tim Kami</a>
-          <a href="#/api">Kebijakan Editorial</a>
-        </div>
-        <div class="foot-col">
-          <h4>Legal</h4>
-          <a href="#/api">Kebijakan Privasi</a>
-          <a href="#/api">Ketentuan Layanan</a>
-          <a href="#/api">Penilaian Dampak</a>
-        </div>
+        <div class="foot-col"><h4>Produk</h4><a href="#/cari">Cari</a><a href="#/jelajahi">Jelajahi</a><a href="#/api">API</a></div>
+        <div class="foot-col"><h4>Tentang</h4><a href="#/api">Tentang</a><a href="#/api">Tim</a><a href="#/api">Editorial</a></div>
+        <div class="foot-col"><h4>Legal</h4><a href="#/api">Privasi</a><a href="#/api">Layanan</a><a href="#/api">Dampak</a></div>
       </div>
       <div class="wrap foot-bottom">Clone UI Pasal.id — teks hukum domain publik · desain milik pasal.id</div>
     </footer>`;
   }
 
   function home() {
-    const pop = SITE.popular.map(p => `
-      <a class="card" href="#/peraturan/${p.type}/${p.year}/${p.number}">
-        <div class="tag">
-          <span class="pill">${p.type}</span>
-          <span class="status ${p.status === 'berlaku' ? '' : (p.status === 'diubah' ? 'amended' : 'needs-check')}">${p.status === 'berlaku' ? 'Berlaku' : (p.status === 'diubah' ? 'Diubah' : 'Status perlu diperiksa')}</span>
-        </div>
-        <h3>UU Nomor ${p.number} Tahun ${p.year} tentang ${p.title}</h3>
-        <p>${p.snippet}</p>
-      </a>`).join("");
-
-    const jenis = SITE.jenis.map(j => `
-      <a class="jenis" href="#/jelajahi">
-        <span class="code">${j.code}</span>
-        <span class="count">${j.count.toLocaleString("id-ID")}</span>
-        <span class="name">${j.name}</span>
-      </a>`).join("");
-
+    const stats = [
+      ["161.969", "Peraturan"],
+      ["…", "Terindeks"],
+      ["100%", "Gratis"]
+    ].map(s => `<div class="stat"><div class="num">${s[0]}</div><div class="lab">${s[1]}</div></div>`).join("");
     return `
-    <section class="hero">
-      <div class="wrap">
-        <h1>Temukan pasal yang Anda butuhkan</h1>
-        <p class="sub"><em class="em">Hukum Indonesia, terbuka untuk semua</em></p>
-        <form class="searchbar" onsubmit="return goSearch(event)">
-          <input id="q" type="text" placeholder="Cari peraturan…" autocomplete="off" />
-          <button type="submit">Cari</button>
-        </form>
-        <div class="try">Coba cari:
-          <a href="#/cari?q=uud%201945">uud 1945</a>,
-          <a href="#/cari?q=hak%20pekerja%20kontrak">hak pekerja kontrak</a>,
-          <a href="#/cari?q=perlindungan%20konsumen">perlindungan konsumen</a>,
-          <a href="#/cari?q=pidana%20korupsi">pidana korupsi</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="wrap">
-      <div class="stats">
-        <div class="stat"><div class="num">161.969</div><div class="lab">Peraturan</div></div>
-        <div class="stat"><div class="num">3.556.624</div><div class="lab">Pasal terstruktur</div></div>
-        <div class="stat"><div class="num">100%</div><div class="lab">Gratis untuk semua</div></div>
-      </div>
-    </section>
-
+    <section class="hero"><div class="wrap">
+      <h1>Temukan pasal yang Anda butuhkan</h1>
+      <p class="sub"><em class="em">Hukum Indonesia, terbuka untuk semua</em></p>
+      <form class="searchbar" onsubmit="return goSearch(event)">
+        <input id="q" type="text" placeholder="Cari peraturan… (judul / nomor / tahun)" autocomplete="off" />
+        <button type="submit">Cari</button>
+      </form>
+      <div class="try">Coba: <a href="#/cari?q=uud%201945">uud 1945</a>, <a href="#/cari?q=ketenagakerjaan">ketenagakerjaan</a>, <a href="#/cari?q=perlindungan%20konsumen">perlindungan konsumen</a></div>
+    </div></section>
+    <section class="wrap"><div class="stats">${stats}</div></section>
     <section class="wrap block">
       <div class="section-head"><div><div class="eyebrow">PALING SERING DIAKSES</div><h2>Peraturan Populer</h2></div></div>
-      <div class="popular-grid">${pop}</div>
+      <div class="popular-grid" id="popular"><p style="color:var(--ink-mute)">Memuat indeks peraturan…</p></div>
     </section>
-
     <section class="wrap block">
-      <div class="section-head"><div><div class="eyebrow">DATABASE</div><h2>Jelajahi Berdasarkan Jenis</h2></div>
-        <a class="btn btn-green-soft" href="#/jelajahi">Lihat semua jenis peraturan</a></div>
-      <div class="jenis-grid">${jenis}</div>
+      <div class="section-head"><div><div class="eyebrow">DATABASE</div><h2>Jelajahi Berdasarkan Jenis</h2></div><a class="btn btn-green-soft" href="#/jelajahi">Lihat semua jenis</a></div>
+      <div class="jenis-grid" id="jenis"><p style="color:var(--ink-mute)">Memuat…</p></div>
     </section>
-
-    <section class="wrap block">
-      <div class="section-head"><div><div class="eyebrow">UNTUK DEVELOPER</div><h2>Hubungkan AI via MCP</h2></div></div>
-      <div class="dev-grid">
-        <div class="dev-card">
-          <h3>MCP Server</h3>
-          <p style="font-size:14px;color:var(--ink-mute)">Akses hukum Indonesia langsung dari AI agent Anda.</p>
-          <button class="copy-btn" onclick="copyText('mcp::pasal')">Salin</button>
-          <div class="codebox"><span class="c"># tambahkan ke config MCP agent Anda</span>\nmcpServers.pasal = { url: "https://pasal.id/mcp" }</div>
-          <a class="link" href="#/api">Panduan lengkap →</a>
-        </div>
-        <div class="dev-card">
-          <h3>REST API</h3>
-          <p style="font-size:14px;color:var(--ink-mute)">Endpoint pencarian & metadata peraturan.</p>
-          <button class="copy-btn" onclick="copyText('https://pasal.id/api/v1')">Salin</button>
-          <div class="codebox">GET https://pasal.id/api/v1/search?q=...</div>
-          <a class="link" href="#/api">Dokumentasi API →</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="wrap">
-      <div class="cta">
-        <h2>Hukum yang mudah diakses adalah hak setiap warga</h2>
-        <a class="btn btn-white" href="#/cari">Cari Sekarang</a>
-      </div>
-    </section>`;
+    <section class="wrap"><div class="cta"><h2>Hukum yang mudah diakses adalah hak setiap warga</h2><a class="btn btn-white" href="#/cari">Cari Sekarang</a></div></section>`;
   }
 
   function jelajahi() {
-    const jenis = SITE.jenis.map(j => `
-      <a class="jenis" href="#/cari?q=${encodeURIComponent(j.name)}">
-        <span class="code">${j.code}</span>
-        <span class="count">${j.count.toLocaleString("id-ID")}</span>
-        <span class="name">${j.name}</span>
-      </a>`).join("");
-    return `
-    <section class="doc-head"><div class="wrap">
-      <div class="crumb">Beranda / Jelajahi Peraturan</div>
-      <h1>Jelajahi Peraturan</h1>
-      <p class="meta">Telusuri berbagai jenis peraturan Indonesia — UU, PP, Perpres, Permen, dan lainnya. Teks lengkap terstruktur per pasal, gratis dan terbuka.</p>
-    </div></section>
-    <section class="wrap block"><div class="jenis-grid">${jenis}</div></section>`;
+    const counts = {};
+    META.forEach(m => { counts[m[0]] = (counts[m[0]] || 0) + 1; });
+    const order = ["UU","PP","PERPRES","PERMEN","PERDA","PERGUB","PERBUP","POJK","KEPPRES","PERMENKUMHAM","INPRES","PERDAIS","QANUN","PERDASUS","PERBAN","PENPRES","PERPUU","UUD","TAP_MPR","UUDRT","PMK","SE","PERWALI"];
+    const items = order.filter(t => counts[t]).map(t => `<a class="jenis" href="#/cari?q=${encodeURIComponent(t)}"><span class="code">${t}</span><span class="count">${counts[t].toLocaleString("id-ID")}</span><span class="name">${t}</span></a>`).join("");
+    return `<section class="doc-head"><div class="wrap"><div class="crumb">Beranda / Jelajahi</div><h1>Jelajahi Peraturan</h1><p class="meta">${META.length.toLocaleString("id-ID")} peraturan terindeks dari pasal.id.</p></div></section><section class="wrap block"><div class="jenis-grid">${items}</div></section>`;
   }
 
   function api() {
-    const types = SITE.jenis.map(j => `<code>${j.code}</code>`).join(", ");
-    return `
-    <section class="doc-head"><div class="wrap">
-      <div class="crumb">Beranda / API</div>
-      <h1>API Hukum Indonesia — Dokumentasi REST</h1>
-      <p class="meta">API REST gratis untuk pencarian hukum Indonesia. Memerlukan token akses (daftar akun gratis di pasal.id).</p>
-    </div></section>
-    <section class="wrap block">
-      <div class="dev-grid">
-        <div class="dev-card">
-          <h3>GET /api/v1/search</h3>
-          <div class="codebox">curl -H "Authorization: Bearer &lt;token&gt;" \\\n  "https://pasal.id/api/v1/search?q=upah+minimum"</div>
-          <p style="font-size:14px;color:var(--ink-mute)">Cari peraturan berdasarkan kata kunci. Parameter: <code>q</code> (wajib), <code>type</code>, <code>limit</code> (max 20).</p>
-        </div>
-        <div class="dev-card">
-          <h3>GET /api/v1/laws</h3>
-          <div class="codebox">curl -H "Authorization: Bearer &lt;token&gt;" \\\n  "https://pasal.id/api/v1/laws?type=UU&year=2003"</div>
-          <p style="font-size:14px;color:var(--ink-mute)">Daftar peraturan dengan filter jenis, tahun, status. Paginasi: <code>limit</code> (max 50), <code>offset</code>.</p>
-        </div>
-      </div>
-      <div class="dev-card" style="margin-top:20px">
-        <h3>Kode Jenis Peraturan</h3>
-        <p style="font-size:14px;color:var(--ink-mute);line-height:2">${types}</p>
-        <h3 style="margin-top:16px">Rate Limit</h3>
-        <p style="font-size:14px;color:var(--ink-mute)">search: 60/menit · laws: 180/menit · detail: 60/menit.</p>
-      </div>
-    </section>`;
+    return `<section class="doc-head"><div class="wrap"><div class="crumb">Beranda / API</div><h1>API Hukum Indonesia — Dokumentasi REST</h1><p class="meta">Source data: pasal.id/api/v1 (butuh token resmi).</p></div></section>
+    <section class="wrap block"><div class="dev-grid">
+      <div class="dev-card"><h3>GET /api/v1/search</h3><div class="codebox">curl -H "Authorization: Bearer &lt;token&gt;" \\\n  "https://pasal.id/api/v1/search?q=upah+minimum"</div></div>
+      <div class="dev-card"><h3>GET /api/v1/laws</h3><div class="codebox">curl -H "Authorization: Bearer &lt;token&gt;" \\\n  "https://pasal.id/api/v1/laws?type=UU&year=2003"</div></div>
+    </div></section>`;
   }
 
   function search(q) {
     q = (q || "").toLowerCase().trim();
     let hits;
-    if (!q) {
-      hits = SITE.allIndex.slice(0, 12);
-    } else {
-      hits = SITE.allIndex.filter(x => x.hay.includes(q));
-    }
-    const res = hits.map(h => {
-      const fr = `${h.type}/${h.year}/${h.number}`;
-      const label = h.pasal ? `Pasal ${h.pasal}` : "Peraturan";
-      return `<a class="result" href="#/peraturan/${fr}">
-        <div class="r-type">${h.type} ${h.number}/${h.year} · ${label}</div>
-        <h3>UU Nomor ${h.number} Tahun ${h.year} tentang ${h.title}</h3>
-        <p>${h.pasal ? "Lihat pasal " + h.pasal : h.title}</p>
-      </a>`;
-    }).join("");
-    return `
-    <section class="search-hero"><div class="wrap">
-      <h1>Cari Peraturan</h1>
-      <p>${q ? `Hasil untuk "<b>${q}</b>" — ${hits.length} ditemukan (dari data sample)` : "Masukkan kata kunci untuk mencari (data sample)"}</p>
-      <form class="searchbar" style="margin-top:20px" onsubmit="return goSearch(event)">
-        <input id="q" type="text" placeholder="Cari peraturan…" value="${q}" autocomplete="off" />
-        <button type="submit">Cari</button>
-      </form>
-    </div></section>
-    <section class="wrap"><div class="results">${res || '<p style="color:var(--ink-mute)">Tidak ada hasil pada data sample. Tambahkan data lewat assets/js/data.js</p>'}</div></section>`;
+    if (!q) hits = META.slice(0, 20);
+    else hits = META.filter(m => (m[3] + " " + m[0] + " " + m[1] + " " + m[2]).toLowerCase().includes(q)).slice(0, 50);
+    const res = hits.map(m => `<a class="result" href="https://pasal.id/${m[5]}" target="_blank" rel="noopener">
+      <div class="r-type">${m[0]} ${m[1]}/${m[2]}</div>
+      <h3>${m[0]} Nomor ${m[1]} Tahun ${m[2]} tentang ${m[3]}</h3>
+      <p>Status: ${m[4]} · buka di pasal.id</p></a>`).join("");
+    return `<section class="search-hero"><div class="wrap"><h1>Cari Peraturan</h1>
+      <p>${q ? `Hasil untuk "<b>${q}</b>" — ${hits.length} ditemukan (dari ${META.length.toLocaleString("id-ID")})` : "Masukkan kata kunci"}</p>
+      <form class="searchbar" style="margin-top:20px" onsubmit="return goSearch(event)"><input id="q" type="text" placeholder="Cari peraturan…" value="${q}" /><button type="submit">Cari</button></form>
+    </div></section><section class="wrap"><div class="results">${res || '<p style="color:var(--ink-mute)">Tidak ada hasil.</p>'}</div></section>`;
   }
 
-  function detail(type, year, num) {
-    const law = SITE.laws.find(l => l.type === type && l.year === year && l.number === num);
-    if (!law) {
-      return `<section class="doc-head"><div class="wrap"><h1>Peraturan tidak ditemukan</h1>
-        <p class="meta">Data sample belum memuat ${type} ${num}/${year}. Tambahkan di assets/js/data.js.</p>
-        <p style="margin-top:16px"><a class="btn btn-primary" href="#/jelajahi">Kembali</a></p></div></section>`;
-    }
-    const toc = law.chapters.map(c => {
-      const ps = c.pasal.map(p => `<a class="pasal-link" href="#/peraturan/${law.type}/${law.year}/${law.number}#p${p.n}">Pasal ${p.n}</a>`).join("");
-      return `<details open><summary>${c.bab} ${c.nama}</summary>${ps}</details>`;
-    }).join("");
-    const body = law.chapters.map(c => {
-      const arts = c.pasal.map(p => `<div class="article" id="p${p.n}"><h3>Pasal ${p.n}</h3><p>${p.t.replace(/\n/g, "<br>")}</p></div>`).join("");
-      return arts;
-    }).join("");
-    return `
-    <section class="doc-head"><div class="wrap">
-      <div class="crumb">Beranda / ${law.type} / ${law.type} Nomor ${law.number} Tahun ${law.year}</div>
-      <h1>${law.type} Nomor ${law.number} Tahun ${law.year} — ${law.title}</h1>
-      <p class="meta">${law.type} Nomor ${law.number} Tahun ${law.year} tentang ${law.title.toUpperCase()}</p>
-    </div></section>
-    <section class="wrap">
-      <div class="summary">
-        <h2>Ringkasan singkat</h2>
-        <p style="font-size:14px;color:var(--ink-soft);margin:8px 0 12px">${law.summary}</p>
-        <h3 style="font-size:14px;letter-spacing:.1em;text-transform:uppercase;color:var(--green)">Poin Utama</h3>
-        <ul>${law.points.map(p => `<li>${p}</li>`).join("")}</ul>
-      </div>
-      <div class="section-head"><div><div class="eyebrow">DAFTAR ISI</div><h2>${law.chapters.length} Bab</h2></div></div>
-      <div class="toc">${toc}</div>
-      <div style="margin-top:24px">${body}</div>
-      <p style="margin-top:24px;font-size:13px;color:var(--ink-mute)">⚠ Clone UI — teks pasal diambil dari pasal.id sebagai sample. Bukan versi resmi beranotasi.</p>
-    </section>`;
-  }
-
-  function render() {
+  async function render() {
     const hash = location.hash || "#/";
     const path = hash.replace("#/", "").split("?")[0];
     const qs = hash.split("?")[1] || "";
     const params = new URLSearchParams(qs);
     let view = "";
     setActive("#/" + (path.split("/")[0] || ""));
-
     if (path === "" || path === "/") view = home();
     else if (path === "jelajahi") view = jelajahi();
     else if (path === "api") view = api();
     else if (path === "cari") view = search(params.get("q"));
-    else if (path.startsWith("peraturan/")) {
-      const [, type, year, num] = path.split("/");
-      view = detail(type, year, num);
-    } else view = home();
-
+    else view = home();
     app.innerHTML = header() + `<main>${view}</main>` + footer();
+
+    // populate home async
+    if (path === "" || path === "/") {
+      try {
+        await loadMeta();
+        const tot = document.querySelector(".stat .num:nth-child(1)") || document.querySelectorAll(".stat .num")[1];
+        const statNums = document.querySelectorAll(".stat .num");
+        if (statNums[1]) statNums[1].textContent = META.length.toLocaleString("id-ID");
+        const pop = META.filter(m => ["UU","UUD"].includes(m[0])).slice(0, 6)
+          .map(m => `<a class="card" href="https://pasal.id/${m[5]}" target="_blank" rel="noopener"><div class="tag"><span class="pill">${m[0]}</span><span class="status">${m[4]}</span></div><h3>${m[0]} Nomor ${m[1]} Tahun ${m[2]} tentang ${m[3]}</h3></a>`).join("");
+        const el = document.getElementById("popular"); if (el) el.innerHTML = pop || '<p style="color:var(--ink-mute)">Memuat…</p>';
+        const counts = {}; META.forEach(m => counts[m[0]] = (counts[m[0]]||0)+1);
+        const jz = Object.entries(counts).slice(0, 24).map(([t,c]) => `<a class="jenis" href="#/cari?q=${encodeURIComponent(t)}"><span class="code">${t}</span><span class="count">${c.toLocaleString("id-ID")}</span><span class="name">${t}</span></a>`).join("");
+        const jel = document.getElementById("jenis"); if (jel) jel.innerHTML = jz || '<p style="color:var(--ink-mute)">Memuat…</p>';
+      } catch (e) { console.warn("meta load failed", e); const el=document.getElementById("popular"); if(el) el.innerHTML='<p style="color:#9a5b5b">Gagal memuat indeks. Coba refresh.</p>'; }
+    }
     window.scrollTo(0, 0);
   }
 
-  window.goSearch = function (e) {
-    e.preventDefault();
-    const v = document.getElementById("q").value;
-    location.hash = "#/cari?q=" + encodeURIComponent(v);
-    return false;
-  };
-  window.copyText = function (t) {
-    navigator.clipboard && navigator.clipboard.writeText(t);
-  };
-
+  window.goSearch = function (e) { e.preventDefault(); const v = document.getElementById("q").value; location.hash = "#/cari?q=" + encodeURIComponent(v); return false; };
+  window.copyText = t => navigator.clipboard && navigator.clipboard.writeText(t);
   window.addEventListener("hashchange", render);
-  document.addEventListener("DOMContentLoaded", render);
-  if (document.readyState !== "loading") render();
+  if (document.readyState !== "loading") render(); else document.addEventListener("DOMContentLoaded", render);
 })();

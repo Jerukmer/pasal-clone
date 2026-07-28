@@ -1,0 +1,626 @@
+[
+ {
+  "id": 25088,
+  "frbr_uri": "/akn/id/act/tap-mpr/2004/iv-mpr-1999",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iv-mpr-1999 Tahun 2004 tentang Garis-garis Besar Haluan Negara Tahun 1999-2004",
+  "number": "iv-mpr-1999",
+  "year": 2004,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10182,
+  "frbr_uri": "/akn/id/act/tap_mpr/2000/IV-MPR-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor IV-MPR-2000 Tahun 2000 tentang Rekomendasi Kebijakan dalam Oenyelenggaraan Otonomi Daerah",
+  "number": "IV-MPR-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 69604,
+  "frbr_uri": "/akn/id/act/tap-mpr/2000/iv-mpr-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iv-mpr-2000 Tahun 2000 tentang Rekomendasi Kebijakan dalam Oenyelenggaraan Otonomi Daerah",
+  "number": "iv-mpr-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25077,
+  "frbr_uri": "/akn/id/act/tap-mpr/2000/vii-mpr-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vii-mpr-2000 Tahun 2000 tentang Peran Tentara Nasional Indonesia dan Peran Kepolisian Negara Republik Indonesia",
+  "number": "vii-mpr-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25436,
+  "frbr_uri": "/akn/id/act/tapmpr/2000/vi-mpr-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vi-mpr-2000 Tahun 2000 tentang Pemisahan Tentara Nasional Indonesia dan Kepolisian Negara Republik Indonesia",
+  "number": "vi-mpr-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25086,
+  "frbr_uri": "/akn/id/act/tap-mpr/2000/v-mpr-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor v-mpr-2000 Tahun 2000 tentang Pemantapan Persatuan dan Kesatuan Nasional",
+  "number": "v-mpr-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25115,
+  "frbr_uri": "/akn/id/act/tap-mpr/2000/iii-mpr-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iii-mpr-2000 Tahun 2000 tentang Sumber Hukum dan Tata Urutan Peraturan Perundang-undangan",
+  "number": "iii-mpr-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25075,
+  "frbr_uri": "/akn/id/act/tap-mpr/2000/viii-mpr-2000",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor viii-mpr-2000 Tahun 2000 tentang Laporan Tahunan Lembaga Lembaga Tinggi Negara Pada Sidang Tahunan Majelis Permusyawaratan Rakyat Ri Tahun 2000",
+  "number": "viii-mpr-2000",
+  "year": 2000,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25073,
+  "frbr_uri": "/akn/id/act/tap-mpr/1999/v-mpr-1999",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor v-mpr-1999 Tahun 1999 tentang Penentuan Pendapat di Timor-timur",
+  "number": "v-mpr-1999",
+  "year": 1999,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25080,
+  "frbr_uri": "/akn/id/act/tap-mpr/1999/iv-mpr-1999",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iv-mpr-1999 Tahun 1999 tentang Garis Besar Haluan Negara Tahun 1999 - 2004",
+  "number": "iv-mpr-1999",
+  "year": 1999,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 69603,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/x-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor x-mpr-1998 Tahun 1998 tentang Pokok Pokok Reformasi Pembangunan dalam Rangka Penyelamatan dan Normalisasi Kehidupan Nasional Sebagai Haluan Negara",
+  "number": "x-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25074,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/vii-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vii-mpr-1998 Tahun 1998 tentang Perubahan dan Tambahan Atas Ketetapan mpr Ri Nomor I/mpr/1983 Tentang Peraturan Tata Tertib mpr Ri",
+  "number": "vii-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25094,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/viii-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor viii-mpr-1998 Tahun 1998 tentang Pencabutan Ketetapan mpr Ri No Iv/mpr/1983 Tentang Reperendum",
+  "number": "viii-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25101,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/xvii-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor xvii-mpr-1998 Tahun 1998 tentang HAK ASASI MANUSIA",
+  "number": "xvii-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25127,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/xiv-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor xiv-mpr-1998 Tahun 1998 tentang Perubahan dan Tambahan Atas Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Nomor Iii/mpr/1998 Tentang Pemilihan Umum",
+  "number": "xiv-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 69606,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/xvi-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor xvi-mpr-1998 Tahun 1998 tentang Politik Ekonomi dalam Rangka Demokrasi Ekonomi",
+  "number": "xvi-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 69581,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/xi-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor xi-mpr-1998 Tahun 1998 tentang Penyelenggaraan Negara yang Bersih dan Bebas Korupsi, Kolusi, dan Nepotisme",
+  "number": "xi-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25096,
+  "frbr_uri": "/akn/id/act/tap-mpr/1998/xv-mpr-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor xv-mpr-1998 Tahun 1998 tentang Penyelenggaraan Otonomi Daerah;pengaturan,pembagian,dan Pemanfaatan Sumberdaya Nasional yang Berkeadilan;serta Perimbangan Keuangan Pusat dan Daerah dalam Kerangka Negara Kesatuan Republik Indonesia;",
+  "number": "xv-mpr-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10102,
+  "frbr_uri": "/akn/id/act/tap_mpr/1998/XI-MPR-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor XI-MPR-1998 Tahun 1998 tentang Penyelenggaraan Negara yang Bersih dan Bebas Korupsi, Kolusi, dan Nepotisme",
+  "number": "XI-MPR-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10176,
+  "frbr_uri": "/akn/id/act/tap_mpr/1998/X-MPR-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor X-MPR-1998 Tahun 1998 tentang Pokok Pokok Reformasi Pembangunan dalam Rangka Penyelamatan dan Normalisasi Kehidupan Nasional Sebagai Haluan Negara",
+  "number": "X-MPR-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10216,
+  "frbr_uri": "/akn/id/act/tap_mpr/1998/XVI-MPR-1998",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor XVI-MPR-1998 Tahun 1998 tentang Politik Ekonomi dalam Rangka Demokrasi Ekonomi",
+  "number": "XVI-MPR-1998",
+  "year": 1998,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 10131,
+  "frbr_uri": "/akn/id/act/tap_mpr/1983/II-MPR-1983",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor II-MPR-1983 Tahun 1983 tentang Garis - Garis Besar Haluan Negara",
+  "number": "II-MPR-1983",
+  "year": 1983,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 69598,
+  "frbr_uri": "/akn/id/act/tap-mpr/1983/ii-mpr-1983",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor ii-mpr-1983 Tahun 1983 tentang Garis - Garis Besar Haluan Negara",
+  "number": "ii-mpr-1983",
+  "year": 1983,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25099,
+  "frbr_uri": "/akn/id/act/tap-mpr/1983/vii-mpr-1983",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vii-mpr-1983 Tahun 1983 tentang Pelimpahan Tugas dan Wewenang Kepada Presiden/mandataris Majelis Permusyawaratan Rakyat dalam Rangka Pengsuksesan dan Pengamanan Pembangunan Nasional",
+  "number": "vii-mpr-1983",
+  "year": 1983,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25120,
+  "frbr_uri": "/akn/id/act/tap-mpr/1983/iii-mpr-1983",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iii-mpr-1983 Tahun 1983 tentang Pemilihan Umum",
+  "number": "iii-mpr-1983",
+  "year": 1983,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25442,
+  "frbr_uri": "/akn/id/act/tap-mpr/1978/ii-mpr-1978",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor ii-mpr-1978 Tahun 1978 tentang Pedoman Penghayatan dan Pengalaman Pancasila (ekaprasetia Pancakarsa)",
+  "number": "ii-mpr-1978",
+  "year": 1978,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25446,
+  "frbr_uri": "/akn/id/act/tap-mpr/1978/vii-mpr-1978",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vii-mpr-1978 Tahun 1978 tentang Pemilihan Umum",
+  "number": "vii-mpr-1978",
+  "year": 1978,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25427,
+  "frbr_uri": "/akn/id/act/tap-mpr/1978/vi-mpr-1978",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vi-mpr-1978 Tahun 1978 tentang Pengukuhan Penyatuan Wilayah Timor Timur ke dalam Negara Kesatuan Republik Indonesia",
+  "number": "vi-mpr-1978",
+  "year": 1978,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25424,
+  "frbr_uri": "/akn/id/act/tap-mpr/1978/iv-mpr-1978",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iv-mpr-1978 Tahun 1978 tentang Garis Garis Besar Haluan Negara",
+  "number": "iv-mpr-1978",
+  "year": 1978,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25430,
+  "frbr_uri": "/akn/id/act/tap-mpr/1978/iii-mpr-1978",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iii-mpr-1978 Tahun 1978 tentang Keudukan dan Hubungan Tata Kerja Lembaga Tertinggi Negara dengan Antar Lembaga Lembaga Tertinggi Negara",
+  "number": "iii-mpr-1978",
+  "year": 1978,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25440,
+  "frbr_uri": "/akn/id/act/tap-mpr/1973/iv-mpr-1973",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iv-mpr-1973 Tahun 1973 tentang Garis Garis Besar Haluan Negara",
+  "number": "iv-mpr-1973",
+  "year": 1973,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25452,
+  "frbr_uri": "/akn/id/act/tap-mpr/1973/x-mpr-1973",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor x-mpr-1973 Tahun 1973 tentang Pelimpahan Tugas dan Kewenangan Pada Presiden Atau Mandataris Majelis Permusyawaratan Rakyat untuk Melaksanakan Tugas Pembangunan",
+  "number": "x-mpr-1973",
+  "year": 1973,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25432,
+  "frbr_uri": "/akn/id/act/tap-mpr/1966/mprxxiv-mprs-1966",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor mprxxiv-mprs-1966 Tahun 1966 tentang Kebijakan dalam Bidang Pertahanan Keamanan",
+  "number": "mprxxiv-mprs-1966",
+  "year": 1966,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25464,
+  "frbr_uri": "/akn/id/act/tap-mpr/1965/vi-mprs-1965",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor vi-mprs-1965 Tahun 1965 tentang Amanat Politik Presiden/pemimpin Besar Revolusi/mandataris Mprs yang Berjudul Berdikari\" Sebagai Penegasan Revolusi Indonesia dalam Bidang Politik, Pedoman Pelaksanaan Manipol dan Landasan Program Perjuangan Rakyat Indonesia",
+  "number": "vi-mprs-1965",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25437,
+  "frbr_uri": "/akn/id/act/tap-mpr/1965/v-mprs-1965",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor v-mprs-1965 Tahun 1965 tentang Banting Stir untuk Berdiri di atas Kaki Sendiri di Bidang Ekonomi dan Pembangunan;",
+  "number": "v-mprs-1965",
+  "year": 1965,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25459,
+  "frbr_uri": "/akn/id/act/tapmpr/1963/iv-mprs-1963",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iv-mprs-1963 Tahun 1963 tentang Pedoman-pedoman Pelaksanaan Garis-garis Besar Haluan Negara dan Haluan\r\npembangunan",
+  "number": "iv-mprs-1963",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25441,
+  "frbr_uri": "/akn/id/act/tapmpr/1963/iii-mprs-1963",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor iii-mprs-1963 Tahun 1963 tentang Pengangkatan Pemimpin Besar Revolusi Indonesia Bung Karno Menjadi Presiden\r\nrepublik Indonesia Seumur Hidup",
+  "number": "iii-mprs-1963",
+  "year": 1963,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25454,
+  "frbr_uri": "/akn/id/act/tap-mpr/1960/i-mprs-1960",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor i-mprs-1960 Tahun 1960 tentang Manifesto Politik Republik Indonesia Sebagai Garis-garis Besar Daripada Haluan Negara",
+  "number": "i-mprs-1960",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": false,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ },
+ {
+  "id": 25433,
+  "frbr_uri": "/akn/id/act/tap-mpr/1960/ii-mprs-1960",
+  "title": "Ketetapan Majelis Permusyawaratan Rakyat Nomor ii-mprs-1960 Tahun 1960 tentang GARIS-GARIS BESAR POLA PEMBANGUNAN NASIONAL SEMESTA BERENCANA TAHAPAN PERTAMA 1961-1969",
+  "number": "ii-mprs-1960",
+  "year": 1960,
+  "status": "berlaku",
+  "content_verified": true,
+  "type": "TAP_MPR",
+  "issuing_body": {
+   "id": 354,
+   "slug": "mpr",
+   "name": "Majelis Permusyawaratan Rakyat Republik Indonesia",
+   "abbreviation": null
+  }
+ }
+]
